@@ -1,7 +1,5 @@
-description: Bad
+description: Nothing To See
 author: Leeprky
-icon: https://avatars1.githubusercontent.com/u/19844016
-theme: jekyll-theme-midnight
 
 exclude:
     - README.md
