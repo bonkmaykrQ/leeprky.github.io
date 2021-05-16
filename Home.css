@@ -106,13 +106,13 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 347px;
+  min-height: 275px;
 }
 
 .u-section-2 .u-slider-1 {
-  min-height: 329px;
-  width: 731px;
-  margin: 9px auto;
+  min-height: 255px;
+  width: 605px;
+  margin: 20px auto 0;
 }
 
 .u-section-2 .u-carousel-indicators-1 {
@@ -206,10 +206,6 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-2 .u-slider-1 {
-    width: 720px;
-  }
-
   .u-section-2 .u-container-layout-1 {
     padding-left: 55px;
     padding-right: 55px;
