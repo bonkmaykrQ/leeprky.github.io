@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/BetterDefaut.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75));
   background-position: 50% 50%;
 }
 
@@ -68,7 +68,7 @@
     width: 340px;
   }
 }.u-section-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/download2.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75));
   background-position: 50% 50%;
 }
 
@@ -543,7 +543,7 @@
   }
 
   .u-section-3 .u-slider-1 {
-    min-height: 289px;
+    min-height: 317px;
     margin-bottom: 16px;
     margin-right: initial;
     margin-left: initial;
@@ -594,6 +594,16 @@
     margin-top: 16px;
     margin-left: auto;
     margin-right: auto;
+  }
+
+  .u-section-3 .u-carousel-control-1 {
+    left: -27px;
+    right: auto;
+    position: absolute;
+  }
+
+  .u-section-3 .u-carousel-control-2 {
+    right: -27px;
   }
 }.u-section-4 {
   background-image: none;
@@ -911,7 +921,6 @@
 .u-section-6 .u-image-1 {
   width: 300px;
   height: 300px;
-  background-image: url("images/image0.jpg");
   background-position: 50% 50%;
   animation-duration: 2000ms;
   box-shadow: 4px 2px 12px 3px rgba(64,64,64,0.7);
@@ -997,6 +1006,10 @@
 
   .u-section-6 .u-layout-cell-2 {
     min-height: 100px;
+  }
+
+  .u-section-6 .u-btn-2 {
+    margin-left: 0;
   }
 }
 
