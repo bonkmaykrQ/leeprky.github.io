@@ -36,6 +36,10 @@
   padding: 8px 43px 9px;
 }
 
+.u-section-1 .u-icon-2 {
+  color: rgb(255, 255, 255) !important;
+}
+
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 244px;
