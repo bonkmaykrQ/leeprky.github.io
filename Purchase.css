@@ -3,13 +3,13 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 212px;
+  min-height: 227px;
 }
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
   width: 539px;
-  margin: -1px auto 0;
+  margin: 12px auto 0;
 }
 
 .u-section-1 .u-icon-1 {
@@ -22,16 +22,19 @@
 }
 
 .u-section-1 .u-btn-1 {
-  border-style: none;
+  border-style: solid;
   font-weight: 700;
   font-size: 0.9375rem;
   margin: 7px auto 16px;
-  padding: 8px 33px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 343px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    padding: 8px 33px;
   }
 }
 
