@@ -35018,11 +35018,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 144px;
+  min-height: 108px;
 }
 
 .u-header .u-menu-1 {
-  margin: 48px 16px 0 auto;
+  margin: 30px auto 0 117px;
 }
 
 .u-header .u-nav-1 {
@@ -35037,17 +35037,47 @@ a.u-link.u-text-hover-grey-90:hover {
   width: 85px;
   height: 85px;
   background-position: 50% 50%;
-  margin: -66px auto 30px 16px;
+  margin: -66px auto 0 16px;
+}
+
+.u-header .u-social-icons-1 {
+  white-space: nowrap;
+  height: 32px;
+  min-height: 16px;
+  width: 74px;
+  min-width: 42px;
+  margin: -58px 16px 38px auto;
+}
+
+.u-header .u-icon-1 {
+  height: 100%;
+}
+
+.u-header .u-icon-2 {
+  height: 100%;
 }
 @media (max-width: 1199px) {
+  .u-header .u-sheet-1 {
+    min-height: 109px;
+  }
+
   .u-header .u-image-1 {
     margin-top: -66px;
   }
+
+  .u-header .u-social-icons-1 {
+    margin-top: -59px;
+    margin-bottom: 39px;
+  }
 }
 @media (max-width: 991px) {
+  .u-header .u-sheet-1 {
+    min-height: 113px;
+  }
+
   .u-header .u-menu-1 {
     width: auto;
-    margin-top: 41px;
+    margin-top: 19px;
     margin-right: 0;
   }
 
@@ -35055,16 +35085,30 @@ a.u-link.u-text-hover-grey-90:hover {
     width: 75px;
     height: 75px;
     margin-top: -53px;
-    margin-bottom: 50px;
     margin-left: 20px;
+  }
+
+  .u-header .u-social-icons-1 {
+    margin-top: -53px;
+    margin-right: 22px;
+    margin-bottom: 19px;
   }
 }
 @media (max-width: 767px) {
+  .u-header .u-menu-1 {
+    margin-top: 23px;
+  }
+
   .u-header .u-image-1 {
     width: 67px;
     height: 67px;
     margin-top: -49px;
-    margin-bottom: 54px;
+  }
+
+  .u-header .u-social-icons-1 {
+    margin-top: -49px;
+    margin-right: 0;
+    margin-bottom: 23px;
   }
 }
 @media (max-width: 575px) {
@@ -35073,15 +35117,21 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-menu-1 {
-    margin-top: 46px;
+    margin-top: 27px;
+    margin-right: auto;
+    margin-left: 54px;
   }
 
   .u-header .u-image-1 {
     width: 70px;
     height: 70px;
     margin-top: -51px;
+    margin-left: -16px;
+  }
+
+  .u-header .u-social-icons-1 {
+    margin-top: -51px;
     margin-bottom: 27px;
-    margin-left: 10px;
   }
 }
 .u-footer {
