@@ -3,13 +3,13 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 292px;
+  min-height: 212px;
 }
 
 .u-section-1 .u-text-1 {
-  width: 539px;
   font-weight: 700;
-  margin: 34px auto 0;
+  width: 539px;
+  margin: -1px auto 0;
 }
 
 .u-section-1 .u-icon-1 {
@@ -18,14 +18,14 @@
 
 .u-section-1 .u-text-2 {
   width: 826px;
-  margin: 16px auto 0;
+  margin: 0 auto;
 }
 
 .u-section-1 .u-btn-1 {
   border-style: none;
   font-weight: 700;
   font-size: 0.9375rem;
-  margin: 16px auto 34px;
+  margin: 7px auto 16px;
   padding: 8px 33px;
 }
 
