@@ -126,7 +126,7 @@
     z-index: 0;
   }
 
-  
+
 :root {
   --rs-small-spacing: 0px;  /* Spacing between avatar and status | MUST end in px */
   --rs-large-spacing: 0px;  /* Spacing between avatar and status for user popouts & modals/profiles | MUST end in px */
@@ -760,7 +760,7 @@
       :root {
         --dmh-columns: 3;
     }
-    
+
     .channel-2QD9_O[href="/channels/@me"],
     .channel-2QD9_O[href="/library"],
     .channel-2QD9_O[href="/store"] {
@@ -773,26 +773,26 @@
     .channel-2QD9_O[href="/store"] {
         display: none;
     }
-    
+
     .channel-2QD9_O[href="/channels/@me"] > div,
     .channel-2QD9_O[href="/library"] > div,
     .channel-2QD9_O[href="/store"] > div {
         flex: 1 1 auto;
         position: relative;
     }
-    
+
     .channel-2QD9_O[href="/channels/@me"] .content-3QAtGj,
     .channel-2QD9_O[href="/library"] .content-3QAtGj,
     .channel-2QD9_O[href="/store"] .content-3QAtGj {
         display: none;
     }
-    
+
     .channel-2QD9_O[href="/channels/@me"] .avatar-3uk_u9,
     .channel-2QD9_O[href="/library"] .avatar-3uk_u9,
     .channel-2QD9_O[href="/store"] .avatar-3uk_u9 {
         margin: 0 auto;
     }
-    
+
     .channel-2QD9_O[href="/channels/@me"] .children-gzQq2t,
     .channel-2QD9_O[href="/library"] .children-gzQq2t,
     .channel-2QD9_O[href="/store"] .children-gzQq2t {
@@ -803,7 +803,7 @@
         top: 0;
         right: 0;
     }
-    
+
     .channel-2QD9_O .downloadProgressCircle-3_wgim {
         width: 100%;
         margin: 0;
@@ -822,12 +822,12 @@
         :root {
           --custom-sidebar-width: 240px;
       }
-      
+
       .sidebar-2K8pFh,
       .members-1998pB {
           width: var(--custom-sidebar-width);
       }
-      
+
       .member-3-YXUe {
           max-width: var(--custom-sidebar-width);
       }
@@ -839,11 +839,11 @@
     .sidebarRegion-VFTUkN {
       flex-grow: 0;
     }
-    
+
     .contentColumnDefault-1VQkGM {
       max-width: calc(100% - 60px);
     }
-    
+
     /* https://canary.discord.com/channels/538759280057122817/755015869914152981/768999383672815618 */
     /* Winston#0441 (156990761366192128) for the original snippets */
     /* spooky snapper#0001 (431883840483491850) for the compiled version */
