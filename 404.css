@@ -77,12 +77,13 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 352px;
+    min-height: 357px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: 3px;
-    margin-right: 3px;
+    width: auto;
+    margin-right: -23px;
+    margin-left: 29px;
   }
 
   .u-section-1 .u-text-2 {
