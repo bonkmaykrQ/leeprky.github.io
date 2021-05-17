@@ -1,0 +1,40 @@
+/*  ------------------------------------------
+
+                Greenple Recolored
+                      v0.2
+                - leeprky#2063 -
+
+    ------------------------------------------  */
+/*
+    :root {
+      --green-color: #df2911; 
+      --green-bar-on: var(--greenple-color);
+      --green-bar-bg: #16171a;
+      --green-slider-on: var(--greenple-color);
+      --green-slider-off: rgb(48, 48, 54);
+      --green-slider-dot: #fff;
+  }
+
+/* Slides */
+  .container-3auIfb:not([style*="125"]) {
+    background-color: var(--green-slider-on) !important;
+  }
+  .container-3auIfb[style*="125"] {
+    background-color: var(--green-slider-off) !important;
+  }
+  svg.slider-TkfMQL svg {
+    display: none;
+  }
+  .slider-TkfMQL rect {
+    fill: var(--green-slider-dot);
+  }
+  /* Bars */
+  .slider-1PF9SW .bar-2Qqk5Z {
+    background-color: var(--green-bar-on);
+  }
+  .slider-1PF9SW .bar-2Qqk5Z .barFill-23-gu- {
+    background-color: var(--green-bar-bg);
+  }
+  .defaultValue-3gC7yw .markValue-2DwdXI {
+    color: rgb(255, 255, 255);
+  }
