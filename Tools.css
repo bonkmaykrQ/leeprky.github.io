@@ -307,7 +307,7 @@
   .u-section-2 .u-repeater-1 {
     grid-auto-columns: 100%;
     grid-template-columns: 100%;
-    grid-auto-rows: calc(33.33% - 6.66667px);
+    grid-auto-rows: calc(33.33% - 53.3333px);
   }
 
   .u-section-2 .u-btn-1 {
