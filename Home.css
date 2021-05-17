@@ -8,8 +8,8 @@
 
 .u-section-1 .u-text-1 {
   font-size: 3.75rem;
-  font-weight: 700;
   width: 593px;
+  font-weight: 700;
   margin: 32px auto 0;
 }
 
@@ -466,8 +466,9 @@
   }
 
   .u-section-2 .u-slider-1 {
-    min-height: 289px;
-    margin-bottom: 16px;
+    min-height: 254px;
+    margin-top: 0;
+    margin-bottom: 2px;
     margin-right: initial;
     margin-left: initial;
     width: auto;

@@ -85,7 +85,9 @@
   }
 
   .u-section-1 .u-btn-2 {
-    margin-left: 55px;
+    margin-top: 20px;
+    margin-right: 362px;
+    margin-left: 0;
   }
 }
 
@@ -108,6 +110,7 @@
   }
 
   .u-section-1 .u-btn-2 {
+    margin-right: 226px;
     margin-left: 0;
   }
 }
@@ -125,7 +128,19 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 316px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 0;
+  }
+
   .u-section-1 .u-btn-1 {
+    margin-right: 26px;
+  }
+
+  .u-section-1 .u-btn-2 {
     margin-right: 26px;
   }
 }
