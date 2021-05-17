@@ -133,12 +133,12 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 565px;
+  min-height: 568px;
 }
 
 .u-section-2 .u-text-1 {
   font-weight: 700;
-  margin: 44px 0 0;
+  margin: 16px 0 0;
 }
 
 .u-section-2 .u-list-1 {
@@ -146,7 +146,7 @@
   min-height: 375px;
   grid-template-rows: auto;
   grid-auto-rows: 100%;
-  margin: 13px 0 0;
+  margin: 14px auto 0 0;
 }
 
 .u-section-2 .u-repeater-1 {
@@ -156,9 +156,12 @@
   grid-gap: 10px 10px;
 }
 
+.u-section-2 .u-list-item-1 {
+  background-position: 50% 50%;
+}
+
 .u-section-2 .u-image-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45));
-  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -170,9 +173,12 @@
   margin: -6px 91px 0 1px;
 }
 
+.u-section-2 .u-list-item-2 {
+  background-position: 50% 50%;
+}
+
 .u-section-2 .u-image-2 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45));
-  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-2 {
@@ -184,9 +190,12 @@
   margin: -6px 91px 0 1px;
 }
 
+.u-section-2 .u-list-item-3 {
+  background-position: 50% 50%;
+}
+
 .u-section-2 .u-image-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45));
-  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -202,7 +211,7 @@
   border-style: solid;
   font-weight: 700;
   font-size: 0.9375rem;
-  margin: 13px auto 0 139px;
+  margin: 10px 905px 0 139px;
   padding: 8px;
 }
 
@@ -214,7 +223,7 @@
   border-style: solid;
   font-weight: 700;
   font-size: 0.9375rem;
-  margin: -44px auto 0;
+  margin: -45px auto 0;
   padding: 8px;
 }
 
@@ -226,7 +235,7 @@
   border-style: solid;
   font-weight: 700;
   font-size: 0.9375rem;
-  margin: -45px 128px 35px auto;
+  margin: -45px 129px 30px auto;
   padding: 8px;
 }
 
@@ -256,11 +265,8 @@
 
   .u-section-2 .u-btn-1 {
     margin-top: 14px;
+    margin-right: 805px;
     margin-left: 85px;
-  }
-
-  .u-section-2 .u-btn-2 {
-    margin-top: -45px;
   }
 
   .u-section-2 .u-btn-3 {
@@ -282,6 +288,7 @@
 
   .u-section-2 .u-btn-1 {
     margin-top: -172px;
+    margin-right: 624px;
     margin-left: 94px;
   }
 
@@ -290,7 +297,9 @@
   }
 
   .u-section-2 .u-btn-3 {
-    margin: 149px auto 27px 94px;
+    margin-top: 149px;
+    margin-right: auto;
+    margin-left: 94px;
   }
 }
 
@@ -312,6 +321,7 @@
   .u-section-2 .u-btn-1 {
     margin-top: -324px;
     margin-left: auto;
+    margin-right: 444px;
   }
 
   .u-section-2 .u-btn-2 {
@@ -338,6 +348,7 @@
 
   .u-section-2 .u-btn-1 {
     margin-top: -307px;
+    margin-right: 244px;
   }
 
   .u-section-2 .u-btn-2 {
