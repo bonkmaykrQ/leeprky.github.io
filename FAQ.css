@@ -9,6 +9,7 @@
 .u-section-1 .u-text-1 {
   font-weight: 700;
   width: 642px;
+  animation-duration: 1000ms;
   margin: 26px auto 0;
 }
 
@@ -229,6 +230,7 @@
 
 .u-section-3 .u-btn-1 {
   font-weight: 700;
+  animation-duration: 1000ms;
   padding: 0;
 }
 
@@ -242,6 +244,7 @@
   height: 360px;
   width: 640px;
   box-shadow: 2px 2px 8px 0 rgba(26,26,26,1);
+  animation-duration: 1000ms;
   margin: 17px auto 0;
 }
 

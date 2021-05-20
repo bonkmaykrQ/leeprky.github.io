@@ -9,10 +9,12 @@
 .u-section-1 .u-text-1 {
   width: 334px;
   font-weight: 700;
+  animation-duration: 1000ms;
   margin: 29px auto 0;
 }
 
 .u-section-1 .u-text-2 {
+  animation-duration: 1000ms;
   margin: 7px 478px 0;
 }
 
