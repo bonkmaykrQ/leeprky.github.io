@@ -38,3 +38,8 @@
   -ms-flex: 0 1 auto;
   flex: 0 1 auto;
 }
+.userPopout-3XzG_A[style*="--user-background"] .profileBanner-j34RzR,div.profileBanner-j34RzR{
+--user-popout-position: center;
+height: 120px;
+background: var(--user-background) center / cover;}
+.avatarPositionNormal-1CZUPk, .userPopout-3XzG_A[style*="--user-background"] {top: 80px;}
