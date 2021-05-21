@@ -22,6 +22,7 @@
 .lookOutlined-3sRXeN.colorGrey-2DXtkV{color:#f4f7f5;border-color:#b6bec9;background-color:#747f8d93}
 .lookOutlined-3sRXeN.colorGrey-2DXtkV:hover{color:#f4f7f5;border-color:#cbd3df;background-color:#99a6b893}
 .lookOutlined-3sRXeN .contents-18-Yxp{color:#fff}
+.lookFilled-1Gx00P .contents-18-Yxp, .lookInverted-2D7oAl .contents-18-Yxp, .lookLink-9FtZy- .contents-18-Yxp, .lookOutlined-3sRXeN .contents-18-Yxp {color: var(--alt-color2) !important;}
 .powercord-toast .header{font-size:15px}
 .powercord-toast .contents .inner{background-color:transparent;border:none}
 .theme-dark .pageWrapper-1PgVDX{background-color:var(--background-secondary)}
