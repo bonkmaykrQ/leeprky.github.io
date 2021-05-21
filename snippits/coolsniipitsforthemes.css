@@ -78,36 +78,21 @@ ul.tree-2wKJdG:focus {
   }
 
 
-.bannerImage-1jOskm:before
-{
-    background: linear-gradient(0deg,var(--background-secondary) 3%,transparent 66%, rgba(0,0,0,0.5) 100%);
-    height: 100%;
+/* Shrink server banners to header instead of disappearing. */
+[class*="animatedContainer-"] {
+  opacity: 1 !important;
+  transition: opacity .25s;
 }
-.animatedContainer-1pJv5C
-{
-    box-shadow: none !important;
+[class*="animatedContainer-"] > [class*="bannerImage-"] {
+  transition: margin .25s;
 }
-.wrapper-3EGhDO {
-    background-color: var(--background-secondary);
-    border-radius: 25px;
-    padding: 0px;
+:not([class*="bannerVisible-"]) > [class*="animatedContainer-"] {
+  opacity: .35 !important;
+  height: 138px;
 }
-.colorable-1bkp8v.white-3GPOIp, .colorable-1bkp8v.white-3GPOIp .centerIcon-2G6o-T {
-    color: currentColor;
+:not([class*="bannerVisible-"]) > [class*="animatedContainer-"] > [class*="bannerImage-"] {
+  margin-top: -12px;
 }
-.colorable-1bkp8v.primary-3NQg8g,
-.colorable-1bkp8v.primary-3NQg8g.active-1QRrIS, .colorable-1bkp8v.primary-3NQg8g:hover, 
-.colorable-1bkp8v.white-3GPOIp,
-.centerButton-3CaNcJ,
-.colorable-1bkp8v.white-3GPOIp.active-1QRrIS, .colorable-1bkp8v.white-3GPOIp:hover,
-.colorable-1bkp8v.red-33-Lnk {
-    background: none !important;
-}
-div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1GKY directionRow-3v3tfG justifyCenter-3D2jYp alignCenter-1dQNNs noWrap-3jynv6"][style="flex: 1 1 auto;"]{
-  background-color: var(--background-secondary);
-  border-radius: 30px;
-}
-
 
 .item-PXvHYJ[data-item-id=pc-updater] {
   height: 4.65rem;
