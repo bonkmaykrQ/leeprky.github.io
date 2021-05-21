@@ -220,3 +220,4 @@ html:root{--font-display:var(--font-primary)}
 #app-mount .container-3baos1{background-color:transparent;margin-left:20px}
 .description-2L932D{display:none}
 .list-2luk8a{padding-left:0;padding-bottom:0}
+.app-focused .isUnread-3Ef-o9 {border-color: var(--alt-color2) !important;}
