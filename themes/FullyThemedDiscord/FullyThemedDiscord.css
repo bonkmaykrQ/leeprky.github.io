@@ -88,7 +88,7 @@
 .theme-dark .card-FDVird:before{background-color:var(--background-secondary);border-color:var(--background-secondary-alt)}
 .theme-dark .emojiAliasInput-1y-NBz .emojiInput-1aLNse{background-color:var(--background-primary)}
 .item-26Dhrx[aria-checked=true]{background-color:var(--background-accent);color:var(--interactive-active)}
-.radioBar-bMNUI-{background-color:#3px solid var(--radio-bar-accent-color)}
+.radioBar-bMNUI-{background-color: 3px solid var(--radio-bar-accent-color)}
 .upsellContainer-L9xv7w{background-color:var(--background-secondary)}
 .theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:active,.theme-dark .lookFilled-1Gx00P.colorPrimary-3b3xI6:hover{background-color:var(--background-accent)}
 .item-26Dhrx[aria-checked=true]{background-color:var(--background-accent);color:var(--interactive-active)}
