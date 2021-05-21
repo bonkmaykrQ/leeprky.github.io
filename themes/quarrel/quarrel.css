@@ -979,6 +979,10 @@ transition: 1s;
   transition: 0.5s;
 }
 
+.container-1giJp5 {
+  border-bottom: unset;
+}
+
 /*Create server window*/
 .theme-dark .lookFilled-1Gx00P.colorGrey-2DXtkV{
   background-color: var(--alt-color2)!important;
