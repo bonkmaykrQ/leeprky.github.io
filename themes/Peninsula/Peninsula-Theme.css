@@ -22,3 +22,7 @@
 .theme-dark .wordmark-2iDDfm:after {color: rgb(247, 245, 245);}
 .wordmark-2iDDfm > svg {width: 0px;}
 .winButton-iRh8-Z {position: relative;top: -13.5px;cursor: pointer;width: 32px;height: 30px;pointer-events: auto;-webkit-app-region: no-drag;}
+
+    .expandedFolderBackground-1cujaW {
+      background-color: var(--serverlist-folder-background);
+    }
