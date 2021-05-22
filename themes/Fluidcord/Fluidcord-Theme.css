@@ -99,6 +99,19 @@
 .repliedTextPreview-2NBljf, .threadMessageAccessoryPreview-1uSsue {
   height: 70px;
 }
+    [data-is-author-self="true"] .repliedTextPreview-2NBljf, .threadMessageAccessoryPreview-1uSsue {
+      height: 70px;
+      margin-left: 0px;
+      width: auto;
+      margin-top: 15px;
+      min-width: 50px;
+  }
+  .theme-light [data-is-author-self="false"] .embed-IeVjo6 {
+    margin-left: 10px !important;
+  }
+  .repliedTextContentIcon-1ivTae, .threadMessageAccessoryContentIcon-1QAVEG {
+    margin-top: 3px;
+  }
 
 /* TitleBar */
 .titleBar-AC4pGV > *:nth-child(2):hover {background-color: #b64537;}
