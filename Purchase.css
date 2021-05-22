@@ -76,6 +76,7 @@
   }
 
   .u-section-1 .u-btn-1 {
+    animation-duration: 1000ms;
     margin-bottom: 27px;
   }
 }.u-section-2 {
