@@ -220,3 +220,10 @@ html:root{--font-display:var(--font-primary)}
 #app-mount .container-3baos1{background-color:transparent;margin-left:20px}
 .description-2L932D{display:none}
 .app-focused .isUnread-3Ef-o9 {border-color: var(--alt-color2) !important;}
+    .theme-dark .headerNormal-T_seeN {
+      background-color: var(--modal-normal-primary-color) !important;
+      border-radius: 12px 12px 0 0;
+  }
+  .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+    background-color: var(--modal-normal-secondary-color);
+}
