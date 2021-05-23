@@ -227,3 +227,6 @@ html:root{--font-display:var(--font-primary)}
   .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
     background-color: var(--modal-normal-secondary-color);
 }
+    .app-focused .isUnread-3Ef-o9 {
+      border-color: var(--alt-color2) !important;
+  }
