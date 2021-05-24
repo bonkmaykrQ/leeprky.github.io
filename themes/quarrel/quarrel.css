@@ -230,3 +230,67 @@ html:root{--font-display:var(--font-primary)}
     .app-focused .isUnread-3Ef-o9 {
       border-color: var(--alt-color2) !important;
   }
+
+    .mentioned-xhSam7 {
+      position: relative;
+      background-color: var(--background-mentioned);
+      transition: 0.5s;
+  }
+  .message-2qnXI6.mentioned-xhSam7.selected-2P5D_Z, .mouse-mode.full-motion .mentioned-xhSam7:hover {
+    background-color: var(--background-mentioned-hover);
+    transition: 0.5s;
+}
+.wrapper-2jXpOf:hover .content-1x5b-n {
+  background-color: var(--background-modifier-hover);
+  transition: 0.5s;
+}
+.app-focused .isUnread-3Ef-o9 {
+  border-color: var(--alt-color2) !important;
+}
+.membersGroup-v9BXpm::after {
+  content: "";
+  display: block;
+  width: 210px;
+  height: 1px;
+  left: 7px;
+  margin-top: 4px;
+  background: #858585;
+  position: absolute;
+}
+.search-2oPWTC:not(.open-6_Y_aH) .searchBar-3dMhjb { width: 27px; transition: 0.25s; background-color: transparent;}
+.search-2oPWTC:not(.open-6_Y_aH):hover .searchBar-3dMhjb { width: 240px; transition: 0.25s; background-color: var(--background-tertiary);}
+.search-2oPWTC:not(.open-6_Y_aH) .iconContainer-O4O2CN { transform: scale(1.2); transition: 0.25s;}
+.search-2oPWTC:not(.open-6_Y_aH):hover .iconContainer-O4O2CN { transform: scale(1); transition: 0.25s;}
+.clickable-3rdHwn:hover .icon-22AiRD {
+  color: var(--interactive-hover-icons);
+  transition: 0.7s;
+}
+.clickable-3rdHwn .icon-22AiRD {
+  transition: 0.7s;
+}
+.wrapper-3EGhDO {
+  background-color: var(--alt-color2);
+  border-radius: 25px;
+  padding: 0px;
+}
+.wrapper-2qzCYF.normal-1oavYI {
+  background-color: var(--background-secondary);
+}
+
+.colorable-1bkp8v.white-3GPOIp, .colorable-1bkp8v.white-3GPOIp .centerIcon-2G6o-T {
+  color: currentColor;
+}
+.wrapper-2qzCYF.minimum-28Z35l {
+  height: 240px;
+  background-color: var(--background-secondary);
+  border-color: transparent !important;
+  box-shadow: none;
+}
+.colorable-1bkp8v.primary-3NQg8g,
+.colorable-1bkp8v.primary-3NQg8g.active-1QRrIS, .colorable-1bkp8v.primary-3NQg8g:hover, 
+.colorable-1bkp8v.white-3GPOIp,
+.centerButton-3CaNcJ,
+.colorable-1bkp8v.white-3GPOIp.active-1QRrIS, .colorable-1bkp8v.white-3GPOIp:hover,
+.colorable-1bkp8v.red-33-Lnk {
+  background: none !important;
+}
