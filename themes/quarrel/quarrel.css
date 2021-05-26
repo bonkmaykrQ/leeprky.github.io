@@ -294,12 +294,3 @@ html:root{--font-display:var(--font-primary)}
 .colorable-1bkp8v.red-33-Lnk {
   background: none !important;
 }
-
-        button[class*=lookFilled].colorBrand-3pXr91, button[class*=lookFilled].colorBrand-3pXr91:disabled, button[class*=lookFilled].colorBrand-3pXr91:hover, div[class*=themeDefault].valueChecked-m-4IJZ[aria-label="Share Your Screen"] {
-          background-color: var(--alt-color2);
-          width: 15px;
-      }
-
-      .actionButtons-14eAc_ .contents-18-Yxp, .inner-tyMogq {
-        margin-left: -31px;
-      }
