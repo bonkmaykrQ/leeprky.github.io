@@ -10,25 +10,36 @@
 
   .headerTop-2y3V6H {
     background-color: transparent;
-    margin-top: -15px;
+    margin-top: 10px;
+  }
+  .userSelectText-1o1dQ7 {
+    margin-left: 12px;
   }
   .avatarPositionNormal-1CZUPk {
-    top: 35px;
+    top: 20px;
     margin-left: 10px;
 }
 .profileBadges-1dm1_q, .spinner-3YTkt9 {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 22.5px;
 }
 
 .activity-fViXj7 {
   background-color: #0202028e;
+  height: 125px;
   border-radius: var(--borders-radius);
+  margin-top: var(--borders-radius-top);
+  margin-bottom: var(--borders-radius-bottom);
+  margin-left: var(--borders-radius-left);
+  margin-right: var(--borders-radius-right);
 }
 
 .headerTextNormal-2mGWX3, .body-ZAhrcj {
-  margin-left: 10px;
+  margin-top: var(--borders-radius-top);
+  margin-bottom: var(--borders-radius-bottom);
+  margin-left: var(--borders-radius-left);
+  margin-right: var(--borders-radius-right);
 }
 .buttonsWrapper-2spIeK {
   margin-top: 12px;
@@ -38,8 +49,3 @@
   -ms-flex: 0 1 auto;
   flex: 0 1 auto;
 }
-.userPopout-3XzG_A[style*="--user-background"] .profileBanner-j34RzR,div.profileBanner-j34RzR{
---user-popout-position: center;
-height: 120px;
-background: var(--user-background) center / cover;}
-.avatarPositionNormal-1CZUPk, .userPopout-3XzG_A[style*="--user-background"] {top: 80px;}
