@@ -297,3 +297,6 @@ html:root{--font-display:var(--font-primary)}
 .colorable-1bkp8v.red-33-Lnk {
   background: none !important;
 }
+  .theme-dark .children-19S4PO:after {
+    display: none;
+}
