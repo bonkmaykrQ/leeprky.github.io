@@ -138,3 +138,7 @@ content: "Plugin Settings";
 .connection-3KRENF {
   padding-bottom: 0;
 }
+
+.updateIconForeground-3tnNZn {
+  fill: var(--alt-color2) !important;
+}
