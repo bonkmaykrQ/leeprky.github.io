@@ -300,3 +300,7 @@ html:root{--font-display:var(--font-primary)}
   .theme-dark .children-19S4PO:after {
     display: none;
 }
+    .actionButtons-14eAc_ .contents-18-Yxp, .inner-tyMogq {
+      margin-left: 10px;
+      margin-top: 2px;
+  }
