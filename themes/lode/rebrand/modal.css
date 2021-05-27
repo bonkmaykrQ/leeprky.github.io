@@ -27,14 +27,20 @@
 
 .activity-fViXj7 {
   background-color: #0202028e;
-  height: 125px;
   border-radius: var(--borders-radius);
   margin-top: var(--borders-radius-top);
   margin-bottom: var(--borders-radius-bottom);
   margin-left: var(--borders-radius-left);
   margin-right: var(--borders-radius-right);
+  padding: 10px !important;
 }
 
+.headerTextNormal-2mGWX3, .body-ZAhrcj, .theme-dark .newPopoutActivityStyles .headerText-1HLrL7, .theme-light .newPopoutActivityStyles .headerText-1HLrL7 {
+  margin-bottom: 15px;
+}
+.theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+  border-radius: 0px;
+}
 .headerTextNormal-2mGWX3, .body-ZAhrcj {
   margin-top: var(--borders-radius-top);
   margin-bottom: var(--borders-radius-bottom);
