@@ -243,3 +243,5 @@ html:root{--font-display:var(--font-primary)}
 .colorable-1bkp8v.primary-3NQg8g,.colorable-1bkp8v.primary-3NQg8g.active-1QRrIS,.colorable-1bkp8v.primary-3NQg8g:hover,.colorable-1bkp8v.white-3GPOIp,.centerButton-3CaNcJ,.colorable-1bkp8v.white-3GPOIp.active-1QRrIS,.colorable-1bkp8v.white-3GPOIp:hover,.colorable-1bkp8v.red-33-Lnk{background:none!important}
 .theme-dark .children-19S4PO:after{display:none}
 .actionButtons-14eAc_ .contents-18-Yxp,.inner-tyMogq{margin-left:10px;margin-top:2px}
+#app-mount .sidebar-2K8pFh {border-radius: 0px;}
+.container-2ax-kl {color: var(--channels-headings);}
