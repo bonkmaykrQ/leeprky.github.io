@@ -112,3 +112,4 @@
 .theme-dark .invite-18yqGF {background: var(--background-secondary);border-color: var(--alt-color2); }
 .theme-dark .friendSelected-1sa4bG { background-color: var(--background-secondary); }
 ul.tree-2wKJdG:focus {outline-color: transparent;}
+.lookInverted-2D7oAl.colorBrand-3pXr91 {color: var(--alt-color2) !important;background-color: var(--alt-color2);filter: brightness(90%);}
