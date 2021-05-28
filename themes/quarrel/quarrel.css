@@ -247,3 +247,6 @@ html:root{--font-display:var(--font-primary)}
 .container-2ax-kl {color: var(--channels-headings);}
 .icon-2yIBmh {color: var(--alt-color2);}
 .selected-1GqIat .icon-22AiRD {color: var(--interactive-active-icons)}
+        .horizontal-1ae9ci {
+          margin-left: 0px;
+      }
