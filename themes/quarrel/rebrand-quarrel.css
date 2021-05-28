@@ -1,29 +1,15 @@
-      .actionButtons-14eAc_ .contents-18-Yxp, .inner-tyMogq {
-        margin-left: -31px;
-      }
-  
-    .headerTop-2y3V6H {
-      background-color: transparent;
-      margin-top: 10px;
-    }
-    .userSelectText-1o1dQ7 {
-      margin-left: 12px;
-    }
-    .avatarPositionNormal-1CZUPk {
-      top: 20px;
-      margin-left: 10px;
-  }
-  .profileBadges-1dm1_q, .spinner-3YTkt9 {
-    position: absolute;
-    top: 5px;
-    right: 22.5px;
-  }
-
-  .buttonsWrapper-2spIeK {
-    margin-top: 12px;
-    margin-left: 10px;
-    margin-right: 10px;
-    -webkit-box-flex: 0;
-    -ms-flex: 0 1 auto;
-    flex: 0 1 auto;
-  }
+.theme-dark { --modal-bg: var(--background-floating); }
+.userPopout-3XzG_A{width:480px!important}
+.note-3HfJZ5{margin-left:0}
+.headerText-2WJ44e.userSelectText-1o1dQ7{margin-left:120px!important;margin-bottom:5px!important;margin-top:-55px}
+.customStatus-3NamXG{margin-top:5px!important;margin-left:120px;width:350px!important}
+.headerTop-2y3V6H{background-color:var(--modal-bg);height:70px}
+.headerNormal-1l1Znk{background-color:var(--modal-bg)}
+.activity-fViXj7{background-color:var(--modal-bg)}
+.theme-dark .body-3iLsc4,.theme-dark .footer-1fjuF6{background-color:var(--modal-bg)}
+.avatar-22FtUu.wrapper-3t9DeA{width:100px!important;height:100px!important;bottom:-30px!important}
+.avatarHint-1E3LMl{width:100px!important;height:100px!important;border-radius:50%;top:35px!important}
+.nickname-322DbL.size20-2QkeeC .botTag-2WPJ74,.headerTagNoNickname-3ak9o8.headerTag-nSOkYt.size14-3iUx6q.size20-2QkeeC .botTag-2WPJ74{position:relative;top:1px!important}
+.avatarHint-1E3LMl foreignObject{mask:none}
+.profileBadges-1dm1_q{position:absolute;top:102.5px;left:-16px;justify-content:center}
+.setIdentityLink-OpBDR6{margin-left:190px;margin-top:-18px}
