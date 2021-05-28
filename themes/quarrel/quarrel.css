@@ -1,6 +1,6 @@
 /*  ------------------------------------------
                  Quarrel Source
-                      v1.2
+                      v1.4
                 - leeprky#2063 -
     ------------------------------------------  */
 
@@ -245,3 +245,4 @@ html:root{--font-display:var(--font-primary)}
 .actionButtons-14eAc_ .contents-18-Yxp,.inner-tyMogq{margin-left:10px;margin-top:2px}
 #app-mount .sidebar-2K8pFh {border-radius: 0px;}
 .container-2ax-kl {color: var(--channels-headings);}
+.icon-2yIBmh {color: var(--alt-color2);}
