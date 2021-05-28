@@ -30,6 +30,6 @@
   .userPopout-3XzG_A[style*="--user-background"] .profileBadges-1dm1_q {
     margin-top: -15px;
   }
-  .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
+  .userPopout-3XzG_A[style*="--user-background"] .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
     background-color: var(--modal-bg);
 }
