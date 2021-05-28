@@ -1,5 +1,5 @@
 .profileBanner-33-uE1 {height: 90px;}
-.userPopout-3XzG_A{width:480px!important}
+.userPopout-3XzG_A{width: var(--popout-width)!important}
 .note-3HfJZ5{margin-left:0}
 .headerText-2WJ44e.userSelectText-1o1dQ7{margin-left:120px!important;margin-bottom:5px!important;margin-top:-55px}
 .customStatus-3NamXG{margin-top:5px!important;margin-left:120px;width:330px!important}
