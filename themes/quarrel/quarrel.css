@@ -1,13 +1,15 @@
 /*  ------------------------------------------
                  Quarrel Source
-                      v1.4.2.4
+                      v1.4.3.2
                 - leeprky#2063 -
     ------------------------------------------  */
 
 /* Imports */
-@import "https://raw.githack.com/leeprky/MyThemesBasesStuffYeah/lode/alt-color.css";
-@import "https://raw.githack.com/leeprky/FullyThemedDiscord/main/FullyThemedDiscord.theme.css";
+@import "https://leeprky.github.io/themes/BaseStuff/alt-color.css";
+@import "https://leeprky.github.io/themes/FullyThemedDiscord/FullyThemedDiscord.css";
 @import "https://raw.githack.com/mr-miner1/Better-Badges/main/theme.css";
+@import url(https://leeprky.github.io/themes/lode/default/support/gradients/luckfiregradientbuttons.css);
+@import url(https://leeprky.github.io/themes/GreenBeGo/greenple-replacer.css);
 
 /* Source */
 .membersGroup-v9BXpm{padding:16px 8px 38px;height:45px;margin-top:6px;font-size:14px}
