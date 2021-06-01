@@ -111,6 +111,9 @@
 .theme-dark .container-2x5lvQ section, .header-2C89wJ {background-color: var(--background-primary) !important; }
 .theme-dark .invite-18yqGF {background: var(--background-secondary);border-color: var(--alt-color2); }
 .theme-dark .friendSelected-1sa4bG { background-color: var(--background-secondary); }
+        .theme-dark .keyboardShortcutsModal-3piNz7 {
+          background-color: var(--background-floating);
+        }
 ul.tree-2wKJdG:focus {outline-color: transparent;}
   .lookInverted-2D7oAl.colorBrand-3pXr91 {
     background-color: var(--alt-color2) !important;
