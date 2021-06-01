@@ -226,44 +226,47 @@ html:root{--font-display:var(--font-primary)}
 .horizontal-1ae9ci {margin-left: 0px;}
 .textarea-2r0oV8:focus {background-color: transparent;}
 
-        #private-channels > [class*="content-"] {
-          display: flex;
-          flex-wrap: wrap;
-          align-content: flex-start;
-            flex-direction:row;
-      }
-      #private-channels > [class*="content-"] > a {
-          flex-grow: 0;
-          margin-top: 8px !important; 
-      }
-      #private-channels > [class*="content-"] > a [class*="layout-"] {
-          justify-content: center;
-      }
-      #private-channels > [class*="content-"] > a [class*="avatar-"] {
-          margin: 0 !important;
-      }
-      #private-channels > [class*="content-"] > a [class*="content-"] {
-          display: none;
-      }
-      #private-channels > [class*="content-"] > a[href*="/channels/@me/"] {
-          width: 100%;
-          margin-left: 8px !important;
-          margin-top: 0 !important;
-      }
-      #private-channels > [class*="content-"] > a[href*="/channels/@me/"] [class*="content-"] {
-          display: block;
-      }
-      #private-channels > [class*="content-"] > a[href*="/channels/@me/"] [class*="avatar-"] {
-          margin-right: 12px !important;
-      }
-      #private-channels > [class*="content-"] > [aria-posinset="2"] > .layout-2DM8Md{
-            padding-left:6px !important;
-      }
-      .children-gzQq2t{
-        position:absolute;
-        bottom:-6px;
-        right:-6px;
-      }
+#private-channels > [class*="content-"] {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    flex-direction:row;
+}
+#private-channels > [class*="content-"] > a {
+    flex-grow: 0;
+    margin-top: 8px !important; 
+}
+#private-channels > [class*="content-"] > a [class*="layout-"] {
+    justify-content: center;
+}
+#private-channels > [class*="content-"] > a [class*="avatar-"] {
+    margin-right: 0 !important;
+}
+#private-channels > [class*="content-"] > a [class*="content-"] {
+    display: none;
+}
+#private-channels > [class*="content-"] > a[href*="/channels/@me/"] {
+    width: 100%;
+    margin-left: 8px !important;
+    margin-top: 0 !important;
+}
+#private-channels > [class*="content-"] > a[href*="/channels/@me/"] [class*="content-"] {
+    display: block;
+}
+#private-channels > [class*="content-"] > a[href*="/channels/@me/"] [class*="avatar-"] {
+    margin-right: 12px !important;
+}
+#private-channels > [class*="content-"] > [aria-posinset="2"] > .layout-2DM8Md{
+    padding-left: 6px !important;
+}
+#private-channels > [class*="content-"] > [aria-posinset="3"] > .layout-2DM8Md{
+        padding-right:0px;
+}
+[aria-posinset="2"] > .layout-2DM8Md >.children-gzQq2t{
+  position:absolute;
+  bottom:-6px;
+  right:-6px;
+}
         .colorDefault-2K3EoJ {
           margin-right: 8px;
         }
