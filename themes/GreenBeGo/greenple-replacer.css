@@ -1,7 +1,7 @@
 /*  ------------------------------------------
 
                 Greenple Recolored
-                      v0.2
+                       v1
                 - leeprky#2063 -
 
     ------------------------------------------  */
@@ -37,4 +37,11 @@
   }
   .defaultValue-3gC7yw .markValue-2DwdXI {
     color: rgb(255, 255, 255);
+  }
+  /* Bd Support */
+  .bd-switch-body {
+    --switch-color: var(--green-slider-off) !important;
+  }
+  .bd-switch input:checked+.bd-switch-body {
+    --switch-color: var(--green-slider-on) !important;
   }
