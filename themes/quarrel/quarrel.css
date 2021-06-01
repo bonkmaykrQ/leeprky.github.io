@@ -225,12 +225,42 @@ html:root{--font-display:var(--font-primary)}
 .selected-1GqIat .icon-22AiRD {color: var(--interactive-active-icons)}
 .horizontal-1ae9ci {margin-left: 0px;}
 .textarea-2r0oV8:focus {background-color: transparent;}
-.privateChannels-1nO12o .content-3YMskv {padding-top: 40px;}
-.privateChannels-1nO12o .content-3YMskv .channel-2QD9_O:not([aria-label]) {width: 45px;position: absolute;top: 10px;}
-.privateChannels-1nO12o .content-3YMskv .channel-2QD9_O:not([aria-label]) .layout-2DM8Md {padding-left: 6px;padding-right: 6px;}
-.privateChannels-1nO12o .content-3YMskv .channel-2QD9_O:not([aria-label]) .layout-2DM8Md .avatar-3uk_u9 {margin: 0;}
-.privateChannels-1nO12o .content-3YMskv .channel-2QD9_O:not([aria-label]) .layout-2DM8Md .content-3QAtGj {display: none;}
-.privateChannels-1nO12o .content-3YMskv .channel-2QD9_O:not([aria-label]):nth-of-type(4) {right: 8px;}
-.privateChannels-1nO12o .content-3YMskv .channel-2QD9_O:not([aria-label]):nth-of-type(3) {right: 63px;}
-.privateChannels-1nO12o .content-3YMskv .channel-2QD9_O:not([aria-label]):nth-of-type(2) {left: 63px;}
-.privateChannels-1nO12o .content-3YMskv .channel-2QD9_O:not([aria-label]):nth-of-type(1) {left: 8px;}
+
+        #private-channels > [class*="content-"] {
+          display: flex;
+          flex-wrap: wrap;
+          align-content: flex-start;
+            flex-direction:row;
+      }
+      #private-channels > [class*="content-"] > a {
+          flex-grow: 0;
+          margin-top: 8px !important; 
+      }
+      #private-channels > [class*="content-"] > a [class*="layout-"] {
+          justify-content: center;
+      }
+      #private-channels > [class*="content-"] > a [class*="avatar-"] {
+          margin: 0 !important;
+      }
+      #private-channels > [class*="content-"] > a [class*="content-"] {
+          display: none;
+      }
+      #private-channels > [class*="content-"] > a[href*="/channels/@me/"] {
+          width: 100%;
+          margin-left: 8px !important;
+          margin-top: 0 !important;
+      }
+      #private-channels > [class*="content-"] > a[href*="/channels/@me/"] [class*="content-"] {
+          display: block;
+      }
+      #private-channels > [class*="content-"] > a[href*="/channels/@me/"] [class*="avatar-"] {
+          margin-right: 12px !important;
+      }
+      #private-channels > [class*="content-"] > [aria-posinset="2"] > .layout-2DM8Md{
+            padding-left:6px !important;
+      }
+      .children-gzQq2t{
+        position:absolute;
+        bottom:-6px;
+        right:-6px;
+      }
