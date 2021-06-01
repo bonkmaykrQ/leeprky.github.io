@@ -142,3 +142,18 @@ content: "Plugin Settings";
 .updateIconForeground-3tnNZn {
   fill: var(--alt-color2) !important;
 }
+
+/* Offline */
+.container-16j22k {background: transparent; pointer-events: none}
+.container-16j22k>div {display: none}
+.container-16j22k::before {
+    content: "You've gone offline";
+    display: block;
+    bottom: 24px; right: 24px;
+    position: absolute;
+    padding: 8px 16px;
+    background-color: #f04747;
+    border-radius: 4px;
+    color: #fff;
+    font-weight: 500
+}
