@@ -125,3 +125,15 @@ ul.tree-2wKJdG:focus {outline-color: transparent;}
 .reaction-1hd86g.reactionMe-wv5HKu {
   border-color: var(--alt-color2);
 }
+
+
+/* Floating Fixes */
+        .drawerSizingWrapper-17Mss4 {
+          background-color: var(--background-floating) !important;
+        }
+        .elevationBorderHigh-2WYJ09, .theme-dark .container-3ayLPN {
+          background-color: var(--background-floating) !important;
+        }
+        .headerNormal-T_seeN, .topSectionNormal-2-vo2m {
+          background-color: var(--background-floating) !important;
+        }
