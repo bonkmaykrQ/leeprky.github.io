@@ -157,3 +157,10 @@ content: "Plugin Settings";
     color: #fff;
     font-weight: 500
 }
+/* lets try something with user spacing */
+.voiceUsers-2V7vuh {
+  width: 100%; 
+  display: flex;
+  justify-content: space-evenly;
+  grid-template-columns: none;
+}
