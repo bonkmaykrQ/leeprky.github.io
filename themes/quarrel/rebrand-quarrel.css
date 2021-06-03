@@ -47,7 +47,7 @@
 /* Playing */
 .userPopout-3XzG_A .contentGameImageUserPopout-2KWIsz::after {
   content: ""; position: absolute;
-  width: 550px; height: 300px; z-index: -1;
+  width: 580px; height: 300px; z-index: -1;
   margin-left: -120px; margin-top: -200px;
   background: var(--alt-color2);
 }
