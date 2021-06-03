@@ -112,3 +112,12 @@
   .userPopout-3XzG_A[style*="--user-background"] .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
     background-color: var(--modal-bg);
 }
+.userPopout-3XzG_A[style*="--user-background"] .headerTagNoNickname-1VyQza, .customStatus-3NamXG {
+  margin-top: -68px;
+}
+.userPopout-3XzG_A[style*="--user-background"] .profileBadges-3cJaE1 {
+  margin-top: -18px;
+}
+.userPopout-3XzG_A[style*="--user-background"] .headerTop-2cWpdB {
+  height: 12px;
+}
