@@ -53,7 +53,7 @@
 }
 .theme-dark .contentImagesUserPopout-1vLdRA::after {
   content: ""; position: absolute;
-  width: 550px; height: 350px; z-index: -1;
+  width: 580px; height: 350px; z-index: -1;
   margin-left: -200px; margin-top: -200px;
   background: var(--alt-color2);
 }
@@ -76,7 +76,7 @@
 /* Spotify */
 .userPopout-3XzG_A .timeBarUserPopout-AWPFf2::after {
   content: ""; position: absolute;
-  width: 550px; height: 350px; z-index: -1;
+  width: 58px; height: 350px; z-index: -1;
   margin-left: -20px; margin-top: -200px;
   background: var(--spotify-color);
 }
