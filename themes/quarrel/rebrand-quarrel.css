@@ -54,7 +54,7 @@
 .theme-dark .contentImagesUserPopout-1vLdRA::after {
   content: ""; position: absolute;
   width: 550px; height: 350px; z-index: -1;
-  margin-left: -150px; margin-top: -200px;
+  margin-left: -200px; margin-top: -200px;
   background: var(--alt-color2);
 }
 
