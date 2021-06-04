@@ -244,3 +244,5 @@ html:root{--font-display:var(--font-primary)}
 .containerDefault--pIXnN,.containerDragAfter-3Fp7LC,.containerDragBefore-3iTCc7,.containerUserOver-2mv1jO{margin-left:-2px}
 .messagesErrorBar-nyJGU7{background-color:var(--alt-color2);border-radius:4px;margin-bottom:2px}
 .barButtonMain-3K-jeJ.barButtonBase-2uLO1z,.barButtonAlt-mYL1lj{top:3px}
+.container-3XJ8ns {background-color: var(--background-floating);}
+.popoutRoleDot-1XPcoA {width: 235px;height: 35px;margin-left: -10px;border-radius: 5px;position: absolute;opacity: 0.090}
