@@ -95,6 +95,55 @@ polyline[stroke*="7289da"]{stroke:rgba(var(--alt-color))!important}
 .keybindShortcut-1BD6Z1 span{background-color:var(--alt-color2)}
 .botTagRegular-2HEhHi {background-color: var(--alt-color2);}
 
+[data-popout-root].newBrand, html.newBrand {
+  --brand-experiment-100: var(--alt-color2);
+  --brand-experiment-130: var(--alt-color2);
+  --brand-experiment-160: var(--alt-color2);
+  --brand-experiment-200: var(--alt-color2);
+  --brand-experiment-230: var(--alt-color2);
+  --brand-experiment-260: var(--alt-color2);
+  --brand-experiment-300: var(--alt-color2);
+  --brand-experiment-330: var(--alt-color2);
+  --brand-experiment-360: var(--alt-color2);
+  --brand-experiment-400: var(--alt-color2);
+  --brand-experiment-430: var(--alt-color2);
+  --brand-experiment-460: var(--alt-color2);
+  --brand-experiment: var(--alt-color2);
+  --brand-experiment-500: var(--alt-color2);
+  --brand-experiment-530: var(--alt-color2);
+  --brand-experiment-560: var(--alt-color2);
+  --brand-experiment-600: var(--alt-color2);
+  --brand-experiment-630: var(--alt-color2);
+  --brand-experiment-660: var(--alt-color2);
+  --brand-experiment-700: var(--alt-color2);
+  --brand-experiment-730: var(--alt-color2);
+  --brand-experiment-760: var(--alt-color2);
+  --brand-experiment-800: var(--alt-color2);
+  --brand-experiment-830: var(--alt-color2);
+  --brand-experiment-860: var(--alt-color2);
+  --brand-experiment-900: var(--alt-color2);
+  --brand-experiment-05a: var(--alt-color2);
+  --brand-experiment-10a: var(--alt-color2);
+  --brand-experiment-15a: var(--alt-color2);
+  --brand-experiment-20a: var(--alt-color2);
+  --brand-experiment-25a: var(--alt-color2);
+  --brand-experiment-30a: var(--alt-color2);
+  --brand-experiment-35a: var(--alt-color2);
+  --brand-experiment-40a: var(--alt-color2);
+  --brand-experiment-45a: var(--alt-color2);
+  --brand-experiment-50a: var(--alt-color2);
+  --brand-experiment-55a: var(--alt-color2);
+  --brand-experiment-60a: var(--alt-color2);
+  --brand-experiment-65a: var(--alt-color2);
+  --brand-experiment-70a: var(--alt-color2);
+  --brand-experiment-75a: var(--alt-color2);
+  --brand-experiment-80a: var(--alt-color2);
+  --brand-experiment-85a: var(--alt-color2);
+  --brand-experiment-90a: var(--alt-color2);
+  --brand-experiment-95a: var(--alt-color2);
+  --control-brand-foreground: var(--alt-color2);
+}
+
 /* Goosemod */
 .lookFilled-1Gx00P.colorBrand-3pXr91 {background-color: var(--alt-color2);}
 .lookFilled-1Gx00P .contents-18-Yxp, .lookInverted-2D7oAl .contents-18-Yxp, .lookLink-9FtZy- .contents-18-Yxp, .lookOutlined-3sRXeN .contents-18-Yxp {
