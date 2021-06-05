@@ -96,10 +96,10 @@ polyline[stroke*="7289da"]{stroke:rgba(var(--alt-color))!important}
 .botTagRegular-2HEhHi {background-color: var(--alt-color2);}
 
 [data-popout-root].newBrand, html.newBrand {
-  --brand-experiment-100: var(--alt-color2);
-  --brand-experiment-130: var(--alt-color2);
-  --brand-experiment-160: var(--alt-color2);
-  --brand-experiment-200: var(--alt-color2);
+  --brand-experiment-100: #f7f7fe;
+  --brand-experiment-130: #f0f1fe;
+  --brand-experiment-160: #e7e9fd;
+  --brand-experiment-200: #dee0fc;
   --brand-experiment-230: var(--alt-color2);
   --brand-experiment-260: var(--alt-color2);
   --brand-experiment-300: var(--alt-color2);
