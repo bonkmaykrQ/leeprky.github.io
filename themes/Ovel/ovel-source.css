@@ -10,18 +10,17 @@
 
    --------------------------------------------- */
 
-
 /* Chat */
 .message-2qnXI6 {
-  background-color: #262B42;
-  border-radius: var(--border-radius);
+  background-color: #222741;
+  border-radius: 6px;
 }
-[class="message-2qnXI6 cozyMessage-3V1Y8y groupStart-23k01U wrapper-2a6GCs cozy-3raOZG zalgo-jN1Ica"] {
-  margin-top: 2px;
-  margin-bottom: 2px;
+.cozy-3raOZG .timestamp-3ZCmNB {
+  font-size: 13px
 }
-
-
+.compact-T3H92H .headerText-3Uvj1Y, .cozy-3raOZG .headerText-3Uvj1Y {
+  font-size: 13px;
+}
 
 /* Horizontal Server List */
     :root {
@@ -404,17 +403,24 @@
 }
 .iconContainer-1BBaeJ {
   transform: scale(0.8);
-  margin-top: 1px;
+  margin-top: 4px;
 }
-.scroller-RmtA4e {
-  margin-top: 50px
+.scroller-RmtA4e, .content-3YMskv {
+  margin-top: 50px;
 }
+.selected-aXhQR6 .layout-2DM8Md
 .search-2oPWTC .DraftEditor-root .public-DraftEditorPlaceholder-root {
   top: 7.5px;
   left: 40px;
 }
 .icon-3cZ1F_ {
   top: 5px;
+}
+.mainContent-u_9PKf:before {
+  z-index: 9999;
+}
+.unreadTop-3rAB3r {
+  top: 50px;
 }
 
 /* Member List */
@@ -425,6 +431,9 @@
   text-overflow: ellipsis; 
   white-space: nowrap;
   overflow: hidden;
+}
+.members-1998pB, .members-1998pB>div {
+  margin-top: 0px;
 }
 
 /* Channel Info */
@@ -451,8 +460,40 @@
   color: #3ba55c !important;
   margin-left: -205px;
 }
-.search-36MZv- {
-  margin: 0px;
+.search-36MZv- {margin: 0 0px;}
+
+.search-2oPWTC .DraftEditor-root .public-DraftEditorPlaceholder-root {
+  color: #fff;
+}
+.search-2oPWTC.DraftEditor-root {
+  margin-left: 45px;
+  margin-top: 5px;
+} 
+.DraftEditor-root {
+  margin-left: 45px;
+  margin-top: 5px;
+}
+.title-29uC1r {
+  text-transform: uppercase;
+  margin-left: 8px;
+}
+.name-1jkAdW {
+  text-transform: capitalize;
+  margin-left: 12px;
+}
+.bannerImage-3KhIJ6 {
+  width: 320px;
+  margin-bottom: -10px;
+}
+.guildIconContainer-2FW_iA {
+  position: absolute;
+  margin-left: 245px;
+}
+.content-3YMskv [style="height: 84px;"] {
+  height: 35px !important;
+}
+.scroller-RmtA4e, .content-3YMskv {
+  margin-top: 25px;
 }
 
 /* Theming */
@@ -483,8 +524,6 @@
 }
 
 /* Panel */
-/* Hiding */
-
 .clearStatusIcon-3-MDNF,
 .scrollerBase-289Jih > [id*="status-picker-"] + .separator-2I32lJ,
 .statusItem-33LqPf > .status-1fhblQ,
@@ -493,28 +532,34 @@
 .statusItem-33LqPf > .customText-tY5LJn,
 .statusItem-33LqPf > .clearStatusIcon-3-MDNF,
 .tutorialContainer-SGrQ1h + div {
-
     display: none;
 }
-
-/* Avitar / status bar css */
-
 .panels-j1Uci_ > .container-3baos1 > .avatarWrapper-2yR4wp, .usernameContainer-1fp4nu, .hoverRoll-YK53gQ {
    position: fixed;
    z-index: 5;
    top: 0px;
    left: 8px;
 }
-
+.container-3baos1 {
+  margin-bottom: -55px;
+}
 .title-eS5yk3 {
   margin-left: 60px;
-  margin-top: 15px;
+  margin-top: 18px;
 }
 .hoverRoll-YK53gQ {
   margin-left: 60px;
   margin-top: 35px;
+  width: auto;
 }
-
+.theme-dark .tooltipGreen-WdeQwd, .theme-light .tooltipGreen-WdeQwd, .theme-dark .tooltipRed-8-9NeP, .theme-light .tooltipRed-8-9NeP {
+  margin-top: -1135px;
+  position: absolute;
+  left: -140px;
+}
+.theme-dark .tooltipRed-8-9NeP .tooltipPointer-3ZfirK, .theme-light .tooltipRed-8-9NeP .tooltipPointer-3ZfirK {
+  display: none;
+}
 
 .panels-j1Uci_ > .container-3baos1 > .avatarWrapper-2yR4wp:hover {
    filter: grayscale(50%);
@@ -531,9 +576,6 @@
 .unreadMentionsIndicatorTop-gA6RCh {
   top: 48px;
 }
-
-
-
 .container-3baos1 .flex-1xMQg5 {
    position: fixed;
    z-index: 10;
@@ -546,22 +588,18 @@
    border-radius: 7px;
    flex-direction: row-reverse;
 }
-
 .container-3baos1 .flex-1xMQg5 > button:first-child {
    margin-top: 2.5px;
 }
-
 .container-3baos1 .flex-1xMQg5 > button {
    border-radius: 30px;
    transform: scale(1.1);
    margin-left: 17px;
 }
-
 #status-picker {
    width: 44.5px;
    margin-left: 7px;
 }
-
 #status-picker::before {
    content: "";
    position: absolute;
@@ -572,29 +610,95 @@
    padding-left: 20px;
    margin-left: 13px;
 }
-
 .statusItem-33LqPf > .icon-1IxfJ2 {
    margin-left: 1px;
 }
-
-/* Notes remove */
-
 .userInfoSectionHeader-CBvMDh,
 .note-QfFU8y {
    display: none;
 }
-
 .infoScroller-3EYYns>.userInfoSection-2acyCx:first-of-type {
    margin-top: -45px;
 }
-
 .topSectionNormal-2-vo2m {
    z-index: 10;
 }
-
 .mentioned-xhSam7::before {
    margin-top: auto;
    height: 2px;
    bottom: -3px;
    width: 100%;
+}
+
+/* Extras */
+::-webkit-scrollbar{display:var(--scrollbars)}
+
+/* Voice Panel */
+.subtext-3CDbHg {
+  display: none;
+}
+.container-1giJp5 {
+  border-radius: 12px;
+  margin: 12px;
+  background-color: var(--background-secondary-alt);
+}
+
+/* Spotify */
+.powercord-spotify {
+  top: var(--spotify-height);
+  left: var(--spotify-left);
+  background-color: var(--alt-color2);
+  opacity: 0.8;
+  position: absolute;
+  min-width: 50px;
+  max-width: 320px;
+  border-radius: 12px 12px 12px 0px;
+  margin: 12px;
+}
+.powercord-spotify:hover{
+  transition: 0.2s;
+  opacity: 0;
+}
+.powercord-spotify {
+  display: var(--spotify-modal);
+}
+.colorStandard-2KCXvj.size14-e6ZScH.spotify-title {
+  margin-left: -55px;
+  margin-top: -15px;
+}
+.powercord-spotify .spotify-extra-controls + .spotify-seek {
+  margin-top: 55px;
+}
+[class="spotify-extra-controls"] {
+  display: none;
+}
+.spotify-buttons, .spotify-extra-controls, .spotify-seek-elements {
+  display: none !important;
+}
+
+
+/* Game Actuvity */
+.activityPanel-28dQGo {
+  bottom: 60px;
+  background-color: var(--background-secondary-alt);
+  width: 280px;
+  border-radius: 12px;
+  margin: 12px;
+}
+.info-WdNIDE .size14-e6ZScH.title-eS5yk3 {
+  margin-left: 5px;
+  color: #38CB7B !important;
+}
+.info-WdNIDE {
+  margin-bottom: 18px;
+}
+.panels-j1Uci_ {
+  background-color: #e4ebe700;
+  bottom: 0px;
+}
+.header-2V-4Sw .powercord-badge {
+  display: none;
+}
+.iconWrapper-2OrFZ1 path[d="M19 3H4.99C3.88 3 3.01 3.89 3.01 5L3 19C3 20.1 3.88 21 4.99 21H19C20.1 21 21 20.1 21 19V5C21 3.89 20.1 3 19 3ZM19 15H15C15 16.66 13.65 18 12 18C10.35 18 9 16.66 9 15H4.99V5H19V15Z"]{
+  d: path("M 12 2 C 6.486 2 2 6.486 2 12 C 2 17.515 6.486 22 12 22 C 14.039 22 15.993 21.398 17.652 20.259 L 16.521 18.611 C 15.195 19.519 13.633 20 12 20 C 7.589 20 4 16.411 4 12 C 4 7.589 7.589 4 12 4 C 16.411 4 20 7.589 20 12 V 12.782 C 20 14.17 19.402 15 18.4 15 L 18.398 15.018 C 18.338 15.005 18.273 15 18.209 15 H 18 C 17.437 15 16.6 14.182 16.6 13.631 V 12 C 16.6 9.464 14.537 7.4 12 7.4 C 9.463 7.4 7.4 9.463 7.4 12 C 7.4 14.537 9.463 16.6 12 16.6 C 13.234 16.6 14.35 16.106 15.177 15.313 C 15.826 16.269 16.93 17 18 17 L 18.002 16.981 C 18.064 16.994 18.129 17 18.195 17 H 18.4 C 20.552 17 22 15.306 22 12.782 V 12 C 22 6.486 17.514 2 12 2 Z M 12 14.599 C 10.566 14.599 9.4 13.433 9.4 11.999 C 9.4 10.565 10.566 9.399 12 9.399 C 13.434 9.399 14.6 10.565 14.6 11.999 C 14.6 13.433 13.434 14.599 12 14.599 Z");
 }
