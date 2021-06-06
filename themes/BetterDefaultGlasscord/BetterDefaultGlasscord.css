@@ -608,3 +608,9 @@ ul.tree-2wKJdG:focus {
 .attachButtonPlay-3iJ0mf {
     color: var(--spotify-color)
 }
+ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
+   content: "BDG v.2 By Leeprky#2063";
+   color: var(--alt-color2);
+   filter: brightness(160%);
+   display: block;
+ }
