@@ -419,8 +419,9 @@
   top: 5px;
 }
 .arrow-gKvcEx.icon-2yIBmh{
-  transform: scale(2);
+  width: 25px;height: 25px;
   margin-left: -15px;
+  margin-top: -8px;
 }
 .mainContent-u_9PKf:before {
   z-index: 9999;
@@ -460,6 +461,13 @@
 /* Server List */
 
 /* Channel Info */
+.elevationBorderHigh-2WYJ09, .theme-dark .container-3ayLPN {
+  position: absolute;
+  left: -1720px;
+  top: 85px;
+  width: 10px;
+  border-radius: var(--border-radius);
+}
 .iconWrapper-2OrFZ1[aria-label="Text Channel"] {
   display: none;
 }
@@ -666,7 +674,7 @@
 /* Chatbox */
 .channelTextArea-rNsIhG {
   background-color: var(--chatbox-colour);
-  height: 55px;
+  min-height: 55px;
 }
 [class="inner-MADQqc sansAttachButton-td2irx"] {
   margin-top: 6px;
@@ -760,6 +768,9 @@
 }
 
 /* Modal */
+.input-2_SIlA {
+  border-radius: var(--border-radius);
+}
 .profileBanner-33-uE1 {
   height: 140px;
   border-radius: var(--border-radius);
@@ -788,12 +799,15 @@ margin-top: -50px;
   min-height: 20px;
   max-height: 100px;
 }
-.headerTop-2cWpdB{min-height: 30px; max-height: 210px;}
+.headerTop-2cWpdB{
+  margin-top: 10px;
+  min-height: 30px; max-height: 210px;  border-bottom: 0px solid !important;}
 .profileBadges-3cJaE1{
   margin-top:47px;
   left: 58px;
   justify-content:center;
 }
+
   .protip-YaFfgO {
     display: none;
   }
@@ -849,7 +863,6 @@ transition: 0.15s;
 box-shadow: none;
 transform: translateY(1px);
 }
-
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6 {
 background-color: var(--modal-bg) !important}
 
