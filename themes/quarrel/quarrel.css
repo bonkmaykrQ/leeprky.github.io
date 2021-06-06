@@ -246,3 +246,9 @@ html:root{--font-display:var(--font-primary)}
 .barButtonMain-3K-jeJ.barButtonBase-2uLO1z,.barButtonAlt-mYL1lj{top:3px}
 .container-3XJ8ns {background-color: var(--background-floating);}
 .popoutRoleDot-1XPcoA {width: 235px;height: 35px;margin-left: -10px;border-radius: 5px;position: absolute;opacity: 0.090}
+ div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
+   content: "Quarrel v1.4.3.3 By Leeprky#2063";
+   color: var(--alt-color2);
+   filter: brightness(160%);
+   display: block;
+ }
