@@ -7,10 +7,10 @@
       ██║░░██║  ░╚████╔╝░  ██╔══╝░░  ██║░░░░░
       ╚█████╔╝  ░░╚██╔╝░░  ███████╗  ███████╗
       ░╚════╝░  ░░░╚═╝░░░  ╚══════╝  ╚══════╝
-                   v0.3.2
+                   v0.3.3
    --------------------------------------------- */
 
-  
+     
 /* Chat */
 .message-2qnXI6 {
    background-color: #222741;
@@ -24,9 +24,13 @@
  }
  
  /* Horizontal Server List */
+
+
+
+ 
      :root {
-       --HSL-server-icon-size: 40px;  /* Size of the server icons | DEFAULT: 40px */
-       --HSL-server-spacing: 10px;  /* Spacing between each server icon | DEFAULT: 10px */
+       --HSL-server-icon-size: 42px;  /* Size of the server icons | DEFAULT: 40px */
+       --HSL-server-spacing: 25px;  /* Spacing between each server icon | DEFAULT: 10px */
      }
  
      :root {
@@ -365,16 +369,16 @@
    z-index:1000000;
  }
  .winButton-iRh8-Z{
-   top:173px
-   ;right:5px;
+   top:173px;
+   right:15px;
+   margin-left: 15px;
    z-index:67438274832798;
-   border-radius: var(--border-radius);
-   transform: scale(1.1);
+   transform: scale(1.4);
  }
  .wordmarkWindows-1v0lYD{display: none;}
  .platform-win .sidebar-2K8pFh {border-radius: 0px!important;}
  .platform-win .title-3qD0b-{
-   width:calc(100% - 90px);
+   width:calc(100% - 250px);
  }
  .guilds-1SWlCJ .scroller-1Bvpku {
    margin-top: 65px !important;
@@ -399,6 +403,9 @@
  }
  .name-23GUGE {
    font-size: 14.5px;
+ }
+ .content-1x5b-n {
+    height: 30px;
  }
  .iconContainer-1BBaeJ[aria-label="Voice"] path[d="M19 3H4.99C3.88 3 3.01 3.89 3.01 5L3 19C3 20.1 3.88 21 4.99 21H19C20.1 21 21 20.1 21 19V5C21 3.89 20.1 3 19 3ZM19 15H15C15 16.66 13.65 18 12 18C10.35 18 9 16.66 9 15H4.99V5H19V15Z"]{
    d: path("M 12 2 C 6.486 2 2 6.486 2 12 C 2 17.515 6.486 22 12 22 C 14.039 22 15.993 21.398 17.652 20.259 L 16.521 18.611 C 15.195 19.519 13.633 20 12 20 C 7.589 20 4 16.411 4 12 C 4 7.589 7.589 4 12 4 C 16.411 4 20 7.589 20 12 V 12.782 C 20 14.17 19.402 15 18.4 15 L 18.398 15.018 C 18.338 15.005 18.273 15 18.209 15 H 18 C 17.437 15 16.6 14.182 16.6 13.631 V 12 C 16.6 9.464 14.537 7.4 12 7.4 C 9.463 7.4 7.4 9.463 7.4 12 C 7.4 14.537 9.463 16.6 12 16.6 C 13.234 16.6 14.35 16.106 15.177 15.313 C 15.826 16.269 16.93 17 18 17 L 18.002 16.981 C 18.064 16.994 18.129 17 18.195 17 H 18.4 C 20.552 17 22 15.306 22 12.782 V 12 C 22 6.486 17.514 2 12 2 Z M 12 14.599 C 10.566 14.599 9.4 13.433 9.4 11.999 C 9.4 10.565 10.566 9.399 12 9.399 C 13.434 9.399 14.6 10.565 14.6 11.999 C 14.6 13.433 13.434 14.599 12 14.599 Z");
@@ -430,21 +437,20 @@
    top: 50px;
  }
  [class="live-vBWnV6 liveSmall-1dy2uA textBadge-1iylP6 base-PmTxvP liveShapeRound-32u79-"] {
-   background-color: var(--background-accent) !important;
+   background-color: var(--background-accent3) !important;
  }
  .liveShapeRound-32u79- {
    border-radius: 4.5px;
  }
  .icons-1dXQdz {
    position: relative;
-   margin-top: 2.5px;
+   margin-top: 3.5px;
  }
  .theme-dark .tooltipPrimary-1d1ph4 .tooltipPointer-3ZfirK, .theme-light .tooltipPrimary-1d1ph4 .tooltipPointer-3ZfirK {
    display: none;
  }
  
  /* Modal Expanded */
- /* Center profile tabs */
 .tabBar-2MuP6-{ justify-content: center; }
 .top-28JiJ-:last-child .item-PXvHYJ:last-child { margin-right: 0; }
 
@@ -476,25 +482,26 @@
  }
  /* Channel Info */
  .elevationBorderHigh-2WYJ09, .theme-dark .container-3ayLPN {
-   position: absolute;
-   left: -1720px;
-   top: 85px;
-   width: 10px;
+   margin-top: 85px;
+   margin-right: 1720px;
    border-radius: var(--border-radius);
+ }
+ #search-results.container-3ayLPN.elevationBorderHigh-2WYJ09 {
+    width: 295px !important;
  }
  .iconWrapper-2OrFZ1[aria-label="Text Channel"] {
    display: none;
  }
  .theme-dark .searchBar-3dMhjb {
    display: fixed;
-   height: 35px;
+   height: 40px;
    width: 290px;
    position:fixed;
-   left: 10px;
+   left: 15px;
    top: 123px;
    border-radius: 4px;
    color: var(--text-normal);
-   background-color: var(--background-tertiary);
+   background-color: var(--background-secondary-alt);
  }
  .searchBar-3dMhjb .icon-38sknP {
    transform: scale(1.2);
@@ -503,7 +510,8 @@
  }
  .icon-3cZ1F_ {
    color: var(--background-accent2) !important;
-   margin-left: -205px;
+   margin-left: -210px;
+   margin-top: 2px;
  }
  .search-36MZv- {margin: 0 0px;}
  
@@ -512,11 +520,11 @@
  }
  .search-2oPWTC.DraftEditor-root {
    margin-left: 45px;
-   margin-top: 5px;
+   margin-top: 8px;
  } 
  .DraftEditor-root {
    margin-left: 45px;
-   margin-top: 5px;
+   margin-top: 8px;
  }
  .title-29uC1r {
    text-transform: uppercase;
@@ -554,6 +562,11 @@
    background-color: var(--background-mentioned-bar);
  }
  
+ /* Bot Tag */
+ .botTag-2WPJ74 {
+   border-radius: 20px !important;
+}
+
  /* Pills */
  .newMessagesBar-265mhP {
    height: 40px;
@@ -577,6 +590,11 @@
  .barButtonIcon-3t4V3d path[d="M12.291 5.70697L15.998 9.41397L21.705 3.70697L20.291 2.29297L15.998 6.58597L13.705 4.29297L12.291 5.70697ZM1.99805 7H11.088C11.564 9.837 14.025 12 16.998 12V18C16.998 19.103 16.102 20 14.998 20H8.33205L2.99805 24V20H1.99805C0.894047 20 -0.00195312 19.103 -0.00195312 18V9C-0.00195312 7.897 0.894047 7 1.99805 7Z"]{
    d: path("M18.4 4L12 10.4L5.6 4L4 5.6L10.4 12L4 18.4L5.6 20L12 13.6L18.4 20L20 18.4L13.6 12L20 5.6L18.4 4Z");
  }
+ .unread-2lAfLh {
+    margin-left: -1px;
+    border-radius: 8px;
+    height: 20px;
+   margin-top: -10px; }
  
  /* Panel */
  .clearStatusIcon-3-MDNF,
@@ -592,15 +610,15 @@
  .panels-j1Uci_ > .container-3baos1 > .avatarWrapper-2yR4wp, .usernameContainer-1fp4nu, .hoverRoll-YK53gQ {
     position: fixed;
     z-index: 5;
-    top: 0px;
+    top: 3px;
     left: 8px;
  }
  .container-3baos1 {
    margin-bottom: -55px;
  }
  .title-eS5yk3 {
-   margin-left: 60px;
-   margin-top: 18px;
+   margin-left: 65px;
+   margin-top: 20px;
  }
  .hoverRoll-YK53gQ {
    margin-left: 60px;
@@ -941,4 +959,20 @@
    display: none;
  }
  
- 
+
+ /* Colours */
+ .attachButtonPlus-jWVFah, .container-3baos1 .flex-1xMQg5 > button:first-child,  .container-3baos1 .flex-1xMQg5 > button:nth-child(2) {
+    color: var(--background-accent2);
+    fill: var(--background-accent2);
+ }
+
+.childWrapper-anI2G9 {
+   background-color: var(--background-accent2);
+   border-radius: 50%;
+   transition: 0.5s;
+}
+#app-mount .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9 {
+   background-color: var(--alt-color);
+   border-radius: 50%;
+   transition: 0.5s;
+}
