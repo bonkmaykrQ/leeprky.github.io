@@ -976,3 +976,13 @@
    border-radius: 50%;
    transition: 0.5s;
 }
+/* NagBar */
+.noticeWrapper-8z511t {
+   margin-left: 340px;
+   margin-top: 110px;
+   width: 720px;
+   position: absolute;
+}
+.notice-3bPHh-, .notice-3uyY6c {
+   border-radius: 0px 0px 12px 12px !important;
+}
