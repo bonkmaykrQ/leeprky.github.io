@@ -1,0 +1,23 @@
+
+/* Chatbox */
+.channelTextArea-rNsIhG, .scrollableContainer-2NUZem {
+  background-color: var(--chatbox-colour);
+  min-height: 55px;
+}
+[class="inner-MADQqc sansAttachButton-td2irx"] {
+  margin-top: 6px;
+}
+
+.buttons-3JBrkn {opacity: 0; transition: opacity 0.5s;}
+.channelTextArea-rNsIhG:hover .buttons-3JBrkn {opacity: 1.0;}
+.uploadModal-2ifh8j .buttons-3JBrkn {opacity: 1.0;}
+
+/* Extras */
+::-webkit-scrollbar{display:var(--scrollbars)}
+.iconWrapper-2OrFZ1.clickable-3rdHwn[aria-label="Help"]{display: none;}
+div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
+  content: "Ovel v0.3 By Leeprky#2063";
+  color: var(--alt-color2);
+  filter: brightness(160%);
+  display: block;
+}
