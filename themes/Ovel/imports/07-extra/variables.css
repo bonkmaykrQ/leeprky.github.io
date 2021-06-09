@@ -1,0 +1,14 @@
+/* Extras */
+::-webkit-scrollbar{display:var(--scrollbars)}
+.iconWrapper-2OrFZ1.clickable-3rdHwn[aria-label="Help"]{display: none;}
+div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
+  content: "Ovel v0.3 By Leeprky#2063";
+  color: var(--alt-color2);
+  filter: brightness(160%);
+  display: block;
+}
+
+/* Colours */
+.selected-1GqIat .icon-22AiRD{color:var(--interactive-active-icons)}
+.clickable-3rdHwn:hover .icon-22AiRD{color:var(--interactive-hover-icons);transition:.7s}
+
