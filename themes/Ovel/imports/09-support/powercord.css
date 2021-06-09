@@ -1,7 +1,9 @@
 /* Serverlist */
 .guilds-1SWlCJ .scroller-1Bvpku {
-    margin-top: 275px !important;
+  margin-top: 305px !important;
+  overflow: hidden;
 }
 .tutorialContainer-2sGCg9 {
-   top: 35px ;
+ top: 10px ;
 }
+
