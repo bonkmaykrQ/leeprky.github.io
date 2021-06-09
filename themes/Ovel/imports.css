@@ -86,3 +86,8 @@ body{
 #app-mount{
  border-radius: 16px !important; 
 }
+
+:root {
+   --version: "v0.5";
+   --version-long: "Ovel v0.5 By Leeprky#2063";
+}
