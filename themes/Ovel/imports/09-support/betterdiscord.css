@@ -2,3 +2,11 @@
     .bd-button:hover{background-color:var(--bd-color-hover)}
     #bd-pub-button:hover{background-color:var(--bd-color-hover)}
     #bd-pub-li{display:var(--public-servers)}
+
+/* Serverlist */
+.guilds-1SWlCJ .scroller-1Bvpku {
+  margin-top: 305px !important;
+}
+.tutorialContainer-2sGCg9 {
+ top: 15px ;
+}
