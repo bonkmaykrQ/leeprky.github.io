@@ -1,0 +1,115 @@
+/* Member List */
+.member-3-YXUe:hover {
+  transform: scale(1.05);
+  transition: 300ms;
+}
+.member-3-YXUe{
+ transform: scale(1);
+ transition: 300ms;
+ width: 50px;
+}
+.membersGroup-v9BXpm {
+  color: #FFF !important;
+  font-size: 14px;
+  margin-bottom: 15px;
+  font-family: var(--font-primary);
+  text-overflow: ellipsis; 
+  white-space: nowrap;
+}
+.members-1998pB, .members-1998pB>div {
+  margin-top: 0px;
+}
+.activity-2Gy-9S {display: none}
+.layout-2DM8Md {
+   padding: 3px 10px;
+}
+.avatar-3uk_u9 {
+   border-radius: 0px;
+   transform: scale(1.15);
+}
+.pointerEvents-2zdfdO {
+  mask: url(#svg-mask-status-online);
+}
+.icon-27yU2q,[src*="https://cdn.discordapp.com/avatars/"]{
+  background: var(--alt-color2);
+}
+/* Channel Info */
+.elevationBorderHigh-2WYJ09, .theme-dark .container-3ayLPN,.theme-light .container-3ayLPN {
+  margin-top: 85px;
+  margin-right: 1720px;
+  border-radius: var(--border-radius);
+}
+#search-results.container-3ayLPN.elevationBorderHigh-2WYJ09 {
+   width: 295px !important;
+}
+.theme-dark .focused-2bY0OD, .theme-light .focused-2bY0OD {
+   background-color: var(--background-floating);
+}
+.iconWrapper-2OrFZ1[aria-label="Text Channel"] {
+  display: none;
+}
+.theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3,.theme-light .searchAnswer-3Dz2-q, .theme-light .searchFilter-2ESiM3  {
+   background-color: var(--background-accent2);
+}
+.theme-dark .searchBar-3dMhjb, .theme-light .searchBar-3dMhjb {
+  display: fixed;
+  height: 40px;
+  width: 290px;
+  position:fixed;
+  left: 15px;
+  top: 123px;
+  border-radius: 4px;
+  color: var(--text-normal);
+  background-color: var(--background-secondary-alt);
+}
+.searchBar-3dMhjb .icon-38sknP {
+  transform: scale(1.2);
+  left: -200px;
+  fill: var(--background-accent3) !important;
+}
+.icon-3cZ1F_ {
+  color: var(--background-accent2) !important;
+  margin-left: -210px;
+  margin-top: 2px;
+}
+.search-36MZv- {margin: 0 0px;}
+
+.search-2oPWTC .DraftEditor-root .public-DraftEditorPlaceholder-root {
+  color: #fff;
+}
+.search-2oPWTC.DraftEditor-root {
+  margin-left: 45px;
+  margin-top: 8px;
+} 
+.DraftEditor-root {
+  margin-left: 45px;
+  margin-top: 8px;
+}
+.title-29uC1r {
+  text-transform: uppercase;
+  margin-left: 8px;
+}
+.name-1jkAdW {
+  text-transform: capitalize;
+  margin-left: 12px;
+}
+.bannerImage-3KhIJ6 {
+  width: 320px;
+  margin-bottom: -10px;
+}
+.guildIconContainer-2FW_iA {
+  position: absolute;
+  margin-left: 245px;
+}
+.content-3YMskv [style="height: 84px;"] {
+  height: 35px !important;
+}
+.scroller-RmtA4e, .content-3YMskv {
+  margin-top: 25px;
+}
+  .children-3rEycc {
+    visibility: hidden;
+    }
+    .app-focused .isUnread-3Ef-o9 {
+      color: var(--ba);
+    }
