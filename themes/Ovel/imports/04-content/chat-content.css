@@ -1,0 +1,8 @@
+[class="message-2qnXI6 cozyMessage-3V1Y8y mentioned-xhSam7 groupStart-23k01U wrapper-2a6GCs cozy-3raOZG zalgo-jN1Ica"],
+[class="message-2qnXI6 cozyMessage-3V1Y8y mentioned-xhSam7 wrapper-2a6GCs cozy-3raOZG zalgo-jN1Ica"],
+[class="message-2qnXI6 cozyMessage-3V1Y8y mentioned-xhSam7 groupStart-23k01U wrapper-2a6GCs cozy-3raOZG zalgo-jN1Ica hasReply-34In-r"] {
+  background-color: var(--background-mentioned);
+}
+.mentioned-xhSam7:before {
+  background-color: var(--background-mentioned-bar);
+}
