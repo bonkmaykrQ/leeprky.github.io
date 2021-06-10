@@ -1,7 +1,7 @@
 /*  ------------------------------------------
 
                 Greenple Recolored
-                       v1
+                      v1.1
                 - leeprky#2063 -
 
     ------------------------------------------  */
@@ -16,32 +16,32 @@
   }
 
 /* Slides */
-  .container-3auIfb:not([style*="125"]) {
-    background-color: var(--green-slider-on) !important;
-  }
-  .container-3auIfb[style*="125"] {
-    background-color: var(--green-slider-off) !important;
-  }
-  svg.slider-TkfMQL svg {
-    display: none;
-  }
-  .slider-TkfMQL rect {
-    fill: var(--green-slider-dot);
-  }
-  /* Bars */
-  .slider-1PF9SW .bar-2Qqk5Z {
-    background-color: var(--green-bar-on);
-  }
-  .slider-1PF9SW .bar-2Qqk5Z .barFill-23-gu- {
-    background-color: var(--green-bar-bg);
-  }
-  .defaultValue-3gC7yw .markValue-2DwdXI {
-    color: rgb(255, 255, 255);
-  }
-  /* Bd Support */
-  .bd-switch-body {
-    --switch-color: var(--green-slider-off) !important;
-  }
-  .bd-switch input:checked+.bd-switch-body {
-    --switch-color: var(--green-slider-on) !important;
-  }
+.container-3auIfb:not([style*="125"]) {
+  background-color: var(--green-slider-on) !important;
+}
+.container-3auIfb[style="opacity: 1; background-color: hsl(218, calc(var(--saturation-factor, 1) * 4.6%), 46.9%);"] {
+  background-color: var(--green-slider-off) !important;
+}
+svg.slider-TkfMQL svg {
+  display: none !important;
+}
+.slider-TkfMQL rect {
+  fill: var(--green-slider-dot) !important;
+}
+/* Bars */
+.slider-1PF9SW .bar-2Qqk5Z {
+  background-color: var(--green-bar-on) !important; 
+}
+.slider-1PF9SW .bar-2Qqk5Z .barFill-23-gu- {
+  background-color: var(--green-bar-bg) !important;
+}
+.defaultValue-3gC7yw .markValue-2DwdXI {
+  color: rgb(255, 255, 255);
+}
+/* Bd Support */
+.bd-switch-body {
+  --switch-color: var(--green-slider-off) !important;
+}
+.bd-switch input:checked+.bd-switch-body {
+  --switch-color: var(--green-slider-on) !important;
+}
