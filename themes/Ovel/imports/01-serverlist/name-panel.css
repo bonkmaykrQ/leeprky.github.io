@@ -104,3 +104,47 @@
    bottom: -3px;
    width: 100%;
 }
+
+
+.container-3baos1 .flex-1xMQg5 {
+  position: fixed;
+  z-index: 10;
+  top: 6px;
+  left: 185px;
+  width: 100px;
+  max-height: 50px;
+  min-height: 50px;
+  align-items: center;
+  border-radius: 7px;
+  flex-direction: row-reverse;
+  background-color: transparent;
+}
+.container-3baos1 .flex-1xMQg5 > button {
+  border-radius: 30px;
+  transform: scale(1.1);
+  margin-left:0px !important;
+}
+.childWrapper-anI2G9 {
+  background-color: transparent;
+  color: var(--interactive-normal);
+  transition: 0.5s;
+}
+#app-mount .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9 {
+  background: transparent !important;
+  border-radius: 50%;
+  color: var(--interactive-active-icons) !important;
+  transition: 0.5s;
+}
+.button-14-BFJ.enabled-2cQ-u7:hover {
+  color: var(--interactive-active-icons) !important;
+  background-color: transparent;
+  transition: 0.5s;
+}
+.button-14-BFJ{
+  color: var(--interactive-normal) !important;
+  background-color: transparent;
+  transition: 0.5s;
+}
+.tutorialContainer-2sGCg9 .pill-3N7f9r {
+  display: none;
+}
