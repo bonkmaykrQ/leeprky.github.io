@@ -9,7 +9,10 @@
  --server-spacing: var(--HSL-server-spacing, var(--HSL-spacing, 10px));
  --server-container: calc(var(--server-size) + 20px);
 }
-
+.guilds-1SWlCJ .scroller-1Bvpku {
+  margin-top: 330px !important;
+  contain: unset !important;
+}
 #app-mount .app-1q1i1E .base-3dtUhz {
  top: var(--server-container) !important;
  position: absolute !important;
@@ -271,7 +274,6 @@
 #app-mount .BF-folderSidebar {
  top: calc(var(--server-container)) !important;
 }
-
 html.platform-osx #app-mount .typeMacOS-3EmCyP {
  width: 100%;
 }
@@ -282,7 +284,6 @@ html.platform-osx #app-mount #pluginNotice {
  top: 32px;
  z-index: 100000 !important;
 }
-
 body.foldercontentopened .base-3dtUhz {
  transition: 0.2s ease !important;
 }
