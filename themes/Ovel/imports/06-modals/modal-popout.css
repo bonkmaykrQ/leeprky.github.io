@@ -1,1 +1,56 @@
- /* Modal */
+/* Modal Popout */
+   .userPopout-xaxa6l {
+     border-radius: 12px;
+   }
+   .avatarPositionNormal-aZjAsn {
+     transform: scale(1.3);
+     margin-left:28%;
+     margin-top: 7.5%;
+   }
+   .avatarPositionPremium-3We5Ho {
+    transform: scale(1.3);
+    margin-left:28%;
+    margin-top: -6.5%;
+   }
+   .popoutBanner-19WKGg{
+    width: 300px;
+    height: 95px;
+    transform-origin: top;
+} 
+.popoutBannerPremium-1n96gg {
+  width: 300px;
+  height: 112px;
+  transform-origin: top;
+} 
+.bodyTitle-3FWCs2, .endBodySection-ypd-38, .aboutMeTitle-2i3lnH, .clamped-IwJfxR {
+  justify-content: center;
+  text-align: center;
+  margin-left: -15px;
+}
+.note-1MiCN7, .footer-1N3bR3, .bodyTitle-3FWCs2 {
+  display: none;
+}
+.aboutMeSection---MkQa .aboutMeBody-3JwDln {margin-bottom: -10px;}
+.bodyTitle-3FWCs2, .endBodySection-ypd-38::before {
+  content: "Roles";
+  top: -28px;
+  left: 44%;
+  position: absolute;
+  font-family: var(--font-primary);
+  font-weight: bold;
+  color: var(--interactive-normal);
+}
+.userSelectText-1o1dQ7 {
+  margin-left: -3.5%;
+  margin-top: -5%;
+  justify-content: center;
+  text-align: center;
+}
+.customStatus-oN4ZZY {
+  text-align: center;
+  justify-content: center;
+  margin-left: -3.5%;
+}
+.profileBadges-3cJaE1 {
+  display: none;
+}
