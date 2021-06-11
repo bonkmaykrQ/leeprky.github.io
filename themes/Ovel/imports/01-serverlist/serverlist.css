@@ -291,11 +291,14 @@ body.foldercontentopened .base-3dtUhz {
   margin-top: 330px !important;
   contain: unset !important;
 }
+.guilds-1SWlCJ .scroller-1Bvpku {
+  margin-top: 330px !important;
+  contain: unset !important;
+}
 .guilds-1SWlCJ .scroller-1Bvpku .tutorialContainer-2sGCg9 {
   position: fixed;
   transform: translate3d(0, 246px, 0);
 }
-
 div[aria-label="Servers"] {
   margin-top: -45px;
 }
