@@ -2,3 +2,16 @@
     .bd-button:hover{background-color:var(--bd-color-hover)}
     #bd-pub-button:hover{background-color:var(--bd-color-hover)}
     #bd-pub-li{display:var(--public-servers)}
+
+/* Serverlist BD Fix*/
+[class="listItem-GuPuDH friendsOnlineWrap-0gZ63m"] {
+  display: none;
+}
+.guilds-1SWlCJ .scroller-1Bvpku .tutorialContainer-2sGCg9 {
+  position: fixed;
+  transform: translate3d(0, 200px, 0);
+}
+.guilds-1SWlCJ .scroller-1Bvpku {
+  margin-top: 330px !important;
+  contain: unset !important;
+}
