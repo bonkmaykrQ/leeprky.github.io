@@ -1,4 +1,3 @@
-
 /* Horizontal Server List */
 :root {
  --HSL-server-icon-size: 40px;  /* Size of the server icons | DEFAULT: 40px */
@@ -315,4 +314,21 @@ div[aria-label="Servers"] {
   mask: none;
   transform: scale(1.1);
   background-color: transparent;
+}
+
+
+   #app-mount [class*=unreadMentionsIndicator] {
+    width: var(--server-size);
+    margin-top: 332px;
+    margin-bottom: 5px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.mention-1f5kbO {
+  background-color: var(--alt-color2);
+}
+#app-mount .guilds-1SWlCJ .wrapper-sa6paO {
+  height: var(--server-size) !important;
+  border-radius: 20%;
+  margin-top: 2px;
 }
