@@ -6,3 +6,8 @@
    -webkit-mask: url('https://kckarnige.github.io/improved-ui/res/restore.svg');
    background-color: currentColor;
 }
+
+.guilds-1SWlCJ .scroller-1Bvpku .tutorialContainer-2sGCg9 {
+  position: fixed;
+  transform: translate3d(0, 198px, 0) !important;
+}
