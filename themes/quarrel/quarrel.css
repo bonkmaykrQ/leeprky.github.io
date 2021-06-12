@@ -1,6 +1,6 @@
 /*  ------------------------------------------
                  Quarrel Source
-                      v1.4.3.2
+                    v1.4.5.1
                 - leeprky#2063 -
     ------------------------------------------  */
 
@@ -252,3 +252,34 @@ html:root{--font-display:var(--font-primary)}
    filter: brightness(160%);
    display: block;
  }
+
+      #app-mount .container-3baos1 {
+        position: unset;
+        background-color: transparent;
+        bottom: 0px;
+        max-width: 223px;
+    }
+    #app-mount .sidebar-2K8pFh{
+        padding-bottom: unset;
+    }
+    .panels-j1Uci_ {
+         background-color: var(--bar-background-primary);
+    }
+    .container-3baos1{
+        padding-top:16.5px;
+        padding-bottom:16.5px;
+    }
+    .powercord-spotify .container-3baos1{
+         background-color: var(--bar-background-primary);
+         padding-top:0px;
+         padding-bottom:0px;
+    }
+    .powercord-spotify .spotify-buttons button{
+        visibility:hidden
+    }
+    .powercord-spotify {
+        background-color: var(--bar-background-primary);
+    }
+    .powercord-spotify .spotify-seek-bar{
+        background-color: var(--bar-background-primary);  
+    }
