@@ -1,2 +1,27 @@
 .layout-2DM8Md{width:max-content!important;max-width:190px!important}
 .scroller-1JbKMe{margin-bottom:0;-webkit-mask-image:linear-gradient(to bottom,black var(--friends-sidebar-fade),transparent 100%)}
+
+  .root-217Brm {
+    background-color: var(--background-floating);
+  }
+  .title-eS5yk3 {
+    margin-bottom: 20px;
+  }
+  
+/*Call dock*/
+.wrapper-3EGhDO {
+  background-color: var(--background-secondary);
+  border-radius: 25px;
+  padding: 0px;
+}
+.colorable-1bkp8v.white-3GPOIp, .colorable-1bkp8v.white-3GPOIp .centerIcon-2G6o-T {
+  color: currentColor;
+}
+.colorable-1bkp8v.primary-3NQg8g,
+.colorable-1bkp8v.primary-3NQg8g.active-1QRrIS, .colorable-1bkp8v.primary-3NQg8g:hover, 
+.colorable-1bkp8v.white-3GPOIp,
+.centerButton-3CaNcJ,
+.colorable-1bkp8v.white-3GPOIp.active-1QRrIS, .colorable-1bkp8v.white-3GPOIp:hover,
+.colorable-1bkp8v.red-33-Lnk {
+  background: none !important;
+}
