@@ -1,27 +1,9 @@
-@import url("https://raw.githack.com/mr-miner1/Better-Badges/main/BetterBadges(BD).theme.css");
-
+@import "https://raw.githack.com/mr-miner1/Better-Badges/main/BetterBadges(BD).theme.css";
 .bd-button,.bd-server-tag,.bd-addon-views .bd-view-button.selected{background-color:var(--bd-color)}
 .bd-button:hover{background-color:var(--bd-color-hover)}
 #bd-pub-button:hover{background-color:var(--bd-color-hover)}
 #bd-pub-li{display:var(--public-servers)}
-
-/* Serverlist BD Fix*/
-[class="listItem-GuPuDH friendsOnlineWrap-0gZ63m"] {
-  display: none;
-}
-.guilds-1SWlCJ .scroller-1Bvpku .tutorialContainer-2sGCg9 {
-  position: fixed;
-  transform: translate3d(0, 200px, 0);
-}
-.guilds-1SWlCJ .scroller-1Bvpku {
-  margin-top: 330px !important;
-  contain: unset !important;
-}
-
-      .noticeWrapper-8z511t, .notice-3bPHh-, .notice-3uyY6c {
-        margin-left: 340px;
-        margin-top: 108px;
-        width: 650px;
-        position: absolute;
-        border-radius: 0px;
-    }
+[class="listItem-GuPuDH friendsOnlineWrap-0gZ63m"]{display:none}
+.guilds-1SWlCJ .scroller-1Bvpku .tutorialContainer-2sGCg9{position:fixed;transform:translate3d(0,200px,0)}
+.guilds-1SWlCJ .scroller-1Bvpku{margin-top:330px!important;contain:unset!important}
+.noticeWrapper-8z511t,.notice-3bPHh-,.notice-3uyY6c{margin-left:340px;margin-top:108px;width:650px;position:absolute;border-radius:0}
