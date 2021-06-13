@@ -1,5 +1,10 @@
 /* DM's */
-.selected-aXhQR6 .layout-2DM8Md, .layout-2DM8Md {
-   width: 200px;
-   border-radius: var(--border-radius);
+.layout-2DM8Md {
+  width: max-content !important;
+  max-width: 190px !important;
+  border-radius: var(--border-radius);
+}
+.scroller-1JbKMe {
+  margin-bottom: 0px;
+  -webkit-mask-image: linear-gradient(to bottom, black 48%, transparent 100%);
 }
