@@ -73,11 +73,13 @@
      font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
      position: absolute;
  }
-
  .sidebarRegion-VFTUkN {
    flex-grow: 0;
  }
- 
  .contentColumnDefault-1VQkGM {
    max-width: calc(100% - 60px);
  }
+.sidebarRegionScroller-3MXcoP {
+  margin-bottom: 0px;
+  -webkit-mask-image: linear-gradient(to bottom, black var(--sidebar-fade), transparent 100%);
+}
