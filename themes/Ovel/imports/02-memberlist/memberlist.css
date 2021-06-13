@@ -33,7 +33,7 @@
 .icon-27yU2q,[src*="https://cdn.discordapp.com/avatars/"]{
   background: var(--alt-color2);
 
-.scroller-RmtA4e, .hiddenMembers-2dcs_q {
+.members-1998pB, .members-1998pB>div, .scroller-RmtA4e, .hiddenMembers-2dcs_q {
   margin-bottom: 0px;
   -webkit-mask-image: linear-gradient(to bottom, black var(--sidebar-fade), transparent 100%);
 }
