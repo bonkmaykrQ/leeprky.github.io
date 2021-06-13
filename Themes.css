@@ -187,7 +187,7 @@
 }
 
 .u-section-2 .u-list-2 {
-  width: 597px;
+  width: 550px;
   margin: -12px auto 0;
 }
 
@@ -206,7 +206,7 @@
   border-style: solid;
   font-weight: 700;
   font-size: 0.9375rem;
-  margin: 0 auto 0 23px;
+  margin: 0 auto;
   padding: 8px 13px 8px 12px;
 }
 
@@ -222,7 +222,7 @@
   border-style: solid;
   font-weight: 700;
   font-size: 0.9375rem;
-  margin: 0 auto 0 23px;
+  margin: 0 auto;
   padding: 8px 13px 8px 12px;
 }
 
@@ -238,7 +238,7 @@
   border-style: solid;
   font-weight: 700;
   font-size: 0.9375rem;
-  margin: 0 auto 0 23px;
+  margin: 0 auto;
   padding: 8px 13px 8px 12px;
 }
 
@@ -302,18 +302,6 @@
   .u-section-2 .u-repeater-2 {
     grid-auto-columns: 100%;
     grid-template-columns: 100%;
-  }
-
-  .u-section-2 .u-btn-1 {
-    margin-left: 0;
-  }
-
-  .u-section-2 .u-btn-2 {
-    margin-left: 0;
-  }
-
-  .u-section-2 .u-btn-3 {
-    margin-left: 0;
   }
 }
 
