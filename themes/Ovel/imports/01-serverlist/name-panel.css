@@ -21,6 +21,10 @@
 .title-eS5yk3 {
   margin-left: 65px;
   margin-top: 20px;
+  font-family: var(--font-primary);
+  color: var(--header-primary);
+  line-height: 18px;
+  font-weight: 650;
 }
 .hoverRoll-YK53gQ {
   margin-left: 60px;
