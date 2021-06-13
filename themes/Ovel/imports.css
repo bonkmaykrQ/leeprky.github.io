@@ -84,3 +84,10 @@
    --version-long: "Ovel v1.0.1 By Leeprky#2063";
 }
 
+/* Rounded Corners */
+body{
+ background-color: transparent !important;
+}
+#app-mount{
+ border-radius: var(--app-rounding) !important; 
+}
