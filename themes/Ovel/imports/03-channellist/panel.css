@@ -3,10 +3,6 @@
    .container-1giJp5{border-radius:12px;margin:12px;background-color:var(--background-secondary-alt)}
    .container-6sXIoE.withTimeline-824fT_{top:var(--spotify-height);left:var(--spotify-left);background-color:var(--alt-color2)!important;opacity:.8;position:absolute;display:fixed;z-index:99999;min-width:50px;max-width:280px;border-radius:12px 12px 12px 12px;margin:12px}
    .bar-g2ZMIm{margin-top:0!important}
-   .powercord-spotify{top:var(--spotify-height);left:var(--spotify-left);background-color:var(--alt-color2)!important;opacity:.8;position:absolute;min-width:50px;max-width:280px;border-radius:12px 12px 12px 0;margin:12px}
-   .container-3baos1{background-color:var(--alt-color2);opacity:.8;border-radius:12px 12px 12px 0}
-   .powercord-spotify:hover{transition:.2s;opacity:0}
-   .powercord-spotify{display:var(--spotify-modal)}
    .colorStandard-2KCXvj.size14-e6ZScH.spotify-title{margin-left:-55px;margin-top:-15px}
    .powercord-spotify .spotify-extra-controls + .spotify-seek{margin-top:58px!important}
    [class="spotify-extra-controls"]{display:none}
