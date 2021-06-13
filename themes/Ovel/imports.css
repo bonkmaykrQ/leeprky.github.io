@@ -11,7 +11,7 @@
            █ █▀▄▀█ █▀█ █▀█ █▀█ ▀█▀ █▀
            █ █░▀░█ █▀▀ █▄█ █▀▄ ░█░ ▄█
 
-                     v0.5
+                    v1.0.0
 
    --------------------------------------------- */
 
@@ -80,15 +80,7 @@
    --------------------------------------------- */
 
 .theme-dark, .theme-light {
-   --version: "1.0.0";
-   --version-long: "Ovel v1.0.0 By Leeprky#2063";
-}
-
-/* Rounded Corners */
-body{
- background-color: transparent !important;
-}
-#app-mount{
- border-radius: var(--app-rounding) !important; 
+   --version: "1.0.1";
+   --version-long: "Ovel v1.0.1 By Leeprky#2063";
 }
 
