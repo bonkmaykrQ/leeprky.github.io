@@ -1,3 +1,5 @@
+@import "https://raw.githack.com/mr-miner1/Better-Badges/main/theme.css";
+
 .theme-dark .titleBar-AC4pGV > *:nth-child(3) > svg {
    -webkit-mask: url('https://kckarnige.github.io/improved-ui/res/restore.svg');
    background-color: currentColor;
