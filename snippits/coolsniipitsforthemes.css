@@ -138,6 +138,9 @@ ul.tree-2wKJdG:focus {
 .item-PXvHYJ[data-item-id="pc-moduleManager-themes"]:selected:after {
   color: var(--interactive-active) !important;
 }
+.item-PXvHYJ[data-item-id="pc-moduleManager-themes"], .item-PXvHYJ[data-item-id="theme-toggler"] {
+   padding-bottom: 6px;
+}
 
 /*fix emoji suggestions not being scrollable*/
 .autocompleteInner-zh20B_ {
