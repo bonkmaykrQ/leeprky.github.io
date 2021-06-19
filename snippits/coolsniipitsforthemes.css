@@ -94,29 +94,50 @@ ul.tree-2wKJdG:focus {
   margin-top: -12px;
 }
 
-.item-PXvHYJ[data-item-id=pc-updater] {
-  height: 4.65rem;
-  align-items: unset !important;
+/* Rename Settings page v2.1 */
+.item-PXvHYJ[data-item-id="theme-toggler"] {
+  font-size: 0px;
+    visibility: none !important;
+    padding-top: 6px;
+  padding-bottom: 1px;
+  margin-bottom: 2px;
 }
-.item-PXvHYJ[data-item-id=pc-updater]:hover {
-background: transparent;
+.item-PXvHYJ[data-item-id="theme-toggler"]:after {
+  font-size: 16px;
+    visibility: visible !important;
+  content: "Themes";
 }
-.item-PXvHYJ[data-item-id=pc-updater][class*=selected] {
-background: transparent;
+.item-PXvHYJ[data-item-id="theme-toggler"]:not(:selected):hover:after {
+  color: var(--interactive-hover) !important;
 }
-.item-PXvHYJ[data-item-id=pc-updater]:after {
-position: absolute;
-margin-top: 2.19rem;
-border-top: 1px solid var(--background-modifier-accent);
-line-height: 2.6rem;    
-width: 89.5%;
-content: "Plugin Settings";
-  color: rgb(159, 159, 159);
-  text-transform: uppercase;
-  font-weight: 700;
-  font-size: 12px;
+.item-PXvHYJ[data-item-id="theme-toggler"]:active:after {
+  color: var(--interactive-active) !important;
 }
-
+.item-PXvHYJ[data-item-id="theme-toggler"]:selected:after {
+  color: var(--interactive-active) !important;
+}
+/* Rename Settings page v2.1 */
+.item-PXvHYJ[data-item-id="pc-moduleManager-themes"] {
+  font-size: 0px;
+    visibility: none !important;
+    padding-top: 6px;
+  padding-bottom: 1px;
+  margin-bottom: 2px;
+}
+.item-PXvHYJ[data-item-id="pc-moduleManager-themes"]:after {
+  font-size: 16px;
+    visibility: visible !important;
+  content: "Quick CSS";
+}
+.item-PXvHYJ[data-item-id="pc-moduleManager-themes"]:not(:selected):hover:after {
+  color: var(--interactive-hover) !important;
+}
+.item-PXvHYJ[data-item-id="pc-moduleManager-themes"]:active:after {
+  color: var(--interactive-active) !important;
+}
+.item-PXvHYJ[data-item-id="pc-moduleManager-themes"]:selected:after {
+  color: var(--interactive-active) !important;
+}
 
 /*fix emoji suggestions not being scrollable*/
 .autocompleteInner-zh20B_ {
