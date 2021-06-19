@@ -39,3 +39,10 @@
   margin-bottom: 0px;
   -webkit-mask-image: linear-gradient(to bottom, black var(--sidebar-fade), transparent 100%);
 }
+   .layout-2DM8Md:hover {
+     transform: scale(1.038);
+     transition: 300ms
+   }
+   .layout-2DM8Md {
+    transition: 300ms
+  }
