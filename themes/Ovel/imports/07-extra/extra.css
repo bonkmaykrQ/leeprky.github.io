@@ -1,1 +1,5 @@
-.avatar-SmRMf2, .avatar-VxgULZ, .icon-27yU2q {position: relative;border-radius: 50% !important;}
+.avatar-SmRMf2, .avatar-VxgULZ, .icon-27yU2q {position: relative;border-radius: var(--avatar-radius) !important;}
+   .theme-dark .tooltipPrimary-1d1ph4, .theme-light .tooltipPrimary-1d1ph4 {
+    top: 24px !important;
+    position: relative;
+}
