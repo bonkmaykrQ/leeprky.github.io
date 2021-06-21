@@ -183,12 +183,14 @@ ul.tree-2wKJdG:focus {
     color: #fff;
     font-weight: 500
 }
-/* lets try something with user spacing */
-.voiceUsers-2V7vuh {
-  width: 100%; 
-  display: flex;
-  justify-content: space-evenly;
-  grid-template-columns: none;
+
+   .voiceUsers-2V7vuh {
+    width: 30%;
+    align-content: center;
+    margin-left: 32%;
+    display: flex;
+    justify-content: space-evenly;
+    grid-template-columns: none;
 }
 
 .header-2V-4Sw[data-guild-id="824402452014039130"]:before {
