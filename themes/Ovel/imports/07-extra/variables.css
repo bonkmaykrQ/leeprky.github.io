@@ -3,7 +3,7 @@
 .selected-1GqIat .icon-22AiRD{color:var(--interactive-active-icons)}
 .clickable-3rdHwn:hover .icon-22AiRD{color:var(--interactive-hover-icons);transition:.7s}
 .info-1VyQPT::after {
-  content: "Latest Version: v1.0.4.4";
+  content: "Latest Version: v1.0.4.4" !important;
   color: var(--alt-color2);
   opacity: 0.4;
   filter: brightness(160%);
@@ -13,7 +13,7 @@
   font-weight: 600;
 }
 .info-1VyQPT::before {
-    content: var(--version-long);
+    content: var(--version-long) !important;
     color: var(--alt-color2);
     opacity: 1;
     filter: brightness(180%);
