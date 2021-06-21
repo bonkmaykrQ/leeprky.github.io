@@ -20,52 +20,56 @@
 @import "https://leeprky.github.io/themes/FullyThemedDiscord/FullyThemedDiscord.css";
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
 @import url(https://leeprky.github.io/snippits/coolsniipitsforthemes.css);
-@import "https://raw.githack.com/mr-miner1/Better-Badges/main/theme.css";
 @import url(https://leeprky.github.io/themes/lode/default/support/gradients/luckfiregradientbuttons.css);
 @import url(https://leeprky.github.io/themes/GreenBeGo/greenple-replacer.css);
 
+/* Rawget Imports */
+
 /* Essential Imports */
 
-/* Titlebar */
+/* Titlebar - 01*/
 @import "https://leeprky.github.io/themes/Ovel/imports/00-titlebar/titlebar.css";
 
-/* Serverlist */
+/* Serverlist - 01 */
 @import "https://leeprky.github.io/themes/Ovel/imports/01-serverlist/serverlist.css";
 @import "https://leeprky.github.io/themes/Ovel/imports/01-serverlist/name-panel.css";
 
-/* Memberlist */
+/* Memberlist - 02*/
 @import "https://leeprky.github.io/themes/Ovel/imports/02-memberlist/memberlist.css";
 
-/* Channellist */
+/* Channellist - 03 */
 @import "https://leeprky.github.io/themes/Ovel/imports/03-channellist/panel.css";
 @import "https://leeprky.github.io/themes/Ovel/imports/03-channellist/channel-list.css";
 
-/* Chat Content Area */
+/* Chat Content Area - 04 */
 @import "https://leeprky.github.io/themes/Ovel/imports/04-content/chatbox.css";
 @import "https://leeprky.github.io/themes/Ovel/imports/04-content/chat-content.css";
 @import "https://leeprky.github.io/themes/Ovel/imports/04-content/channel-header.css";
 
-/* Settings Area */
+/* Settings Area - 05 */
 @import "https://leeprky.github.io/themes/Ovel/imports/05-settings/setting-alignment.css";
 @import "https://leeprky.github.io/themes/Ovel/imports/05-settings/account-info.css";
 
-/* Settings Area > Friends Area */
+/* Settings Area > Friends Area - 05.1 */
 @import "https://leeprky.github.io/themes/Ovel/imports/05-settings/05.1-friends/directmessages.css";
 
-/* Modals */
+/* Modals - 06 */
 @import "https://leeprky.github.io/themes/Ovel/imports/06-modals/modal-popout.css";
 @import "https://leeprky.github.io/themes/Ovel/imports/06-modals/usrbg.css";
 @import "https://leeprky.github.io/themes/Ovel/imports/06-modals/modal-expanded.css";
 @import "https://leeprky.github.io/themes/Ovel/imports/06-modals/activities.css";
 
-/* Extras */
+/* Extras - 07 */
 @import "https://leeprky.github.io/themes/Ovel/imports/07-extra/variables.css";
 @import "https://leeprky.github.io/themes/Ovel/imports/07-extra/pills.css";
 @import "https://leeprky.github.io/themes/Ovel/imports/07-extra/nag-bar.css";
 @import "https://leeprky.github.io/themes/Ovel/imports/07-extra/extra.css";
 
-/* Colour */
+/* Colour - 08 */
 @import "https://leeprky.github.io/themes/Ovel/imports/08-colours/Ovel.css";
+
+/* Support - 09 */
+@import "https://leeprky.github.io/themes/Ovel/imports/09-support/plugins/nsfw-text.css";
 
 
 /* ---------------------------------------------
