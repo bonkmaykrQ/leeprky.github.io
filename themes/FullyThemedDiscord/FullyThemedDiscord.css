@@ -122,3 +122,6 @@ ul.tree-2wKJdG:focus{outline-color:transparent}
 .tierHeaderContent-3t3DoO {background-color: var(--background-secondary-alt);}
 .theme-dark .tierBody-3aUxuc, .theme-light .tierBody-3aUxuc{background-color: var(--background-secondary);}
 .theme-dark .container-1D34oG, .homeWrapperNormal-2KSUEa, .container-3Mxszk, .container-1a3EgQ {background-color: var(--background-primary);}
+   [class="paymentHistory-2FXzro"] {
+    background-color: var(--background-tertiary);
+  }
