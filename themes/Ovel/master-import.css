@@ -90,5 +90,4 @@
    --theme: "Ovel";
    --version-latest: "v1.0.5";
    --version-latest-long: "Latest Ovel Version " var(--version-latest);
-   --outdated: none; 
 }
