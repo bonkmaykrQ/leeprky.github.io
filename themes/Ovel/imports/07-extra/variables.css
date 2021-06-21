@@ -12,6 +12,18 @@
   font-family: var(--font-primary);
   font-weight: 600;
 }
+.info-1VyQPT::before {
+    content: var(--version-long);
+    color: var(--alt-color2);
+    opacity: 1;
+    filter: brightness(180%);
+    display: block;
+    font-size: 12px;
+    font-family: var(--font-primary);
+    font-weight: 400;
+    position: absolute;
+    margin-top: 80px;
+}
 div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
   margin-top: 10px;
 }
