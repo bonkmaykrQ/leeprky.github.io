@@ -332,3 +332,10 @@ div[aria-label="Servers"] {
   border-radius: 20%;
   margin-top: 2px;
 }
+  .guildSeparator-33mFX6 {
+    margin-top: 15px;
+}
+   #app-mount .guilds-1SWlCJ .scrollerBase-289Jih > div[style]:not(.listItem-2P_4kh) {
+    height: auto !important;
+    margin-top: -20px !important; 
+  }
