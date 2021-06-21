@@ -18,12 +18,13 @@
 /* Base Imports */
 @import "https://leeprky.github.io/themes/BaseStuff/alt-color.css";
 @import "https://leeprky.github.io/themes/FullyThemedDiscord/FullyThemedDiscord.css";
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
-@import url(https://leeprky.github.io/snippits/coolsniipitsforthemes.css);
-@import url(https://leeprky.github.io/themes/lode/default/support/gradients/luckfiregradientbuttons.css);
-@import url(https://leeprky.github.io/themes/GreenBeGo/greenple-replacer.css);
+@import "https://leeprky.github.io/snippits/coolsniipitsforthemes.css";
+@import "https://leeprky.github.io/themes/lode/default/support/gradients/luckfiregradientbuttons.css";
+@import "https://leeprky.github.io/themes/GreenBeGo/greenple-replacer.css";
 
-/* Rawget Imports */
+/* Other User Imports */
+@import "https://raw.githack.com/mr-miner1/Better-Badges/main/theme.css";
+@import "https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css";
 
 /* Essential Imports */
 
@@ -83,6 +84,7 @@
 
    --------------------------------------------- */
 
+/* Latest Version */
 .theme-dark, .theme-light {
    --version-latest: "1.0.4.6";
    --version-latest-long: "Latest Version: v1.0.4.6";
