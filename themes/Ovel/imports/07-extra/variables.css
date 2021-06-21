@@ -2,6 +2,27 @@
 .iconWrapper-2OrFZ1.clickable-3rdHwn[aria-label="Help"]{display:none}
 .selected-1GqIat .icon-22AiRD{color:var(--interactive-active-icons)}
 .clickable-3rdHwn:hover .icon-22AiRD{color:var(--interactive-hover-icons);transition:.7s}
-div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
-  margin-top: 10px;
+div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {margin-top: 10px;}
+
+.info-1VyQPT::after {
+  content: var(--version-latest-long) !important;
+  color: var(--alt-color2);
+  opacity: 0.4;
+  filter: brightness(160%);
+  display: block;
+  font-size: 12px;
+  font-family: var(--font-primary);
+  font-weight: 600;
+}
+.info-1VyQPT::before {
+    content: var(--version-long) !important;
+    color: var(--alt-color2);
+    opacity: 1;
+    filter: brightness(180%);
+    display: block;
+    font-size: 12px;
+    font-family: var(--font-primary);
+    font-weight: 400;
+    position: absolute;
+    margin-top: 80px;
 }
