@@ -85,7 +85,8 @@
    --------------------------------------------- */
 
 /* Latest Version */
-.theme-dark, .theme-light {
-   --version-latest: "1.0.5";
-   --version-latest-long: "Latest Version: v1.0.5";
+:root {
+   --theme: "Ovel";
+   --version-latest: "v1.0.5";
+   --version-latest-long: "Latest Ovel Version " var(--version-latest;
 }
