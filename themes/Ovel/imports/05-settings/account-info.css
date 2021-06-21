@@ -83,3 +83,88 @@
   margin-bottom: 0px;
   -webkit-mask-image: linear-gradient(to bottom, black var(--sidebar-fade), transparent 100%);
 }
+
+
+
+/* PART 2 */
+.hero-EvfTTA {
+  height: 420px;
+  border-radius: var(--border-radius);
+  background-image: url("https://i.imgur.com/NBvRLE7.gif") !important;
+  max-width: 1720px;
+  min-width: 400px;
+  background-position-y: 27%;
+  background-position-x: 10%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: var(--border-radius);
+  text-align: left;
+}
+.marketingLogo-1D8DV6 {
+  height: 80px;
+  border-radius: var(--border-radius);
+  background: linear-gradient(var(--special-gradient));
+  max-width: 1630px;
+  min-width: 400px;
+  background-position-y: 57%;
+  background-position-x: 10%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  border-radius: var(--border-radius);
+}
+.marketingLogoIcon-3bZq9h {
+  margin-left: 600px;
+}
+.featuresHeader-4YwLcc, .marketingRefreshTier2Cta-bw9Vyc {
+  display: none;
+}
+.marketingRefreshSectionTier1-dRwS-6 {
+  margin-top: 0px;
+}
+[src="/assets/5a4ac7879fb43bc2509169b8fac68a4a.svg"] {
+  transform: scale(1.5);
+  margin-left: 120px;
+  margin-top: 50px;
+}
+.heroIcon-3QgOM5, .hero-EvfTTA .heroHeader-IulZgg, .heroBody-2P4UF5, .heroButtons-2NvgKB {
+  margin-left: -40%;
+  top: 20%;
+  margin-top: 10px;
+  transform: scale(1.1);
+  position: relative;
+}
+.typeWindows-1za-n7 {
+  z-index: 9999999999999;
+}
+.contentRegionScroller-26nc1e .toolsContainer-1edPuj {
+  margin-right: 5px;
+  -webkit-app-region: drag;
+  background-color: transparent;
+  opacity: .5;
+  border-radius: 12px;
+  top: -55px;
+  z-index: 99999999999;
+}
+.contentRegionScroller-26nc1e .toolsContainer-1edPuj::after {
+display: none;
+}
+.theme-dark .closeButton-1tv5uR {
+  border-color: var(--alt-color2);
+  background-color: var(--alt-color2);
+}
+.contentRegion-3nDuYy .contentColumn-2hrIYH::before {
+  background-color: var(--alt-color2);
+  opacity: 0.2;
+  content: "";
+  height: 30px;
+  right: 20%;
+  align-content: center;
+  border-radius: 12px 12px 12px 12px;
+  min-width: 1200px;
+  top: 10px;
+  position: absolute;
+  -webkit-app-region: drag;
+}
+.sidebarRegion-VFTUkN {
+  margin-top: -40px;
+}
