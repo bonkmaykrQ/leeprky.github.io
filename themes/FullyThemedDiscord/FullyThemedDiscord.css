@@ -125,3 +125,19 @@ ul.tree-2wKJdG:focus{outline-color:transparent}
    [class="paymentHistory-2FXzro"] {
     background-color: var(--background-tertiary);
   }
+   .messagesPopoutWrap-1MQ1bW {
+     background-color: var(--background-floating);
+   }
+   .css-1ye7vu0, .theme-dark .addGamePopout-2RY8Ju {
+     background-color: var(--background-secondary-alt) !important;
+     border: 1px solid var(--background-floating);
+     box-shadow: var(--background-floating) 0px 1px 5px 0px;
+   }
+
+   .theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4 {
+    background-color: var(--background-primary);
+} 
+.theme-dark .container-VSDcQc .sectionTag-pXyto9 {
+  background-color: var(--background-secondary);
+  color: var(--interactive-normal);
+}
