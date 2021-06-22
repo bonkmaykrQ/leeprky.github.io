@@ -11,7 +11,7 @@
            █ █▀▄▀█ █▀█ █▀█ █▀█ ▀█▀ █▀
            █ █░▀░█ █▀▀ █▄█ █▀▄ ░█░ ▄█
 
-                     v1.0.5
+                    v1.0.5.2
 
    --------------------------------------------- */
 
@@ -88,8 +88,8 @@
 /* Latest Version */
 :root {
    --theme: "Ovel";
-   --version-latest: "v1.0.5";
-   --version-latest-long: "Latest Ovel Version " var(--version-latest);
+   --version-latest: "v1.0.5.2";
+   --version-latest-long: "Latest Version: " var(--version-latest);
    --version-long: "Current Version: " var(--version);
 }
 .info-1VyQPT::after {
