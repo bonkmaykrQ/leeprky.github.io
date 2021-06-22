@@ -12,3 +12,28 @@
 .profileBadges-3cJaE1{display:none}
 .role-2irmRk{position:relative;overflow:hidden;border:none;padding:5px}
 .roleCircle-3xAZ1j::before{content:'';position:absolute;top:0;left:0;width:100%;height:100%;background:inherit;opacity:.2;pointer-events:none}
+
+/* Other Modals */
+ .popoutRoleDot-1XPcoA {
+  width: 226px;
+  height: 30px;
+  z-index: 1;
+  position: absolute;
+  background-color: currentColor;
+  border-radius: 8px;
+  right: -5px;
+  margin-left: 10px;
+  opacity: 0.2;
+ }
+ .itemLabel-38pPIt {
+   z-index: 2;
+   color: #fff;
+ }
+ .focused-dKLoQt, .item-2J2GlB:hover {
+  background-color: rgba(255, 255, 255, 0.308);
+  color: var(--interactive-hover);
+}
+ .container-3XJ8ns {
+   background-color: var(--background-floating);
+   border-radius: var(--border-radius);
+ }
