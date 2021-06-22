@@ -43,8 +43,8 @@
       text-transform: none !important;
   }
   #app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before {
-      content: var(--theme)" outdated! Redownload the theme on \"https://github.com/leeprky/leeprky.github.io\"." !important;
-      display: block; /* Default value if the theme does not have this display property. */
+      content: var(--theme)" Is outdated! Redownload the theme From \"https://github.com/leeprky/leeprky.github.io\"." !important;
+      display: block;
       background-color: var(--alt-color2);
       color: #fff;
       flex-grow: 0;
