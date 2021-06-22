@@ -11,7 +11,7 @@
            █ █▀▄▀█ █▀█ █▀█ █▀█ ▀█▀ █▀
            █ █░▀░█ █▀▀ █▄█ █▀▄ ░█░ ▄█
 
-                    v1.0.5.2
+                    v1.0.6
 
    --------------------------------------------- */
 
@@ -92,8 +92,8 @@
 /* Outdated Version Code*/
 :root {
    --theme: "Ovel";
-   --build: "135";
-   --version-latest: "v1.0.5.2";
+   --build: "133";
+   --version-latest: "v1.0.6";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
    --theme-dl: "https://github.com/leeprky/Ovel"
