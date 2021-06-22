@@ -76,5 +76,5 @@
   }
 
    [id*="Ovel"] .bd-addon-header .bd-meta:before {
-       content:"build " var(--version) " | ";
+       content:"Commit " var(--build) " | ";
    }
