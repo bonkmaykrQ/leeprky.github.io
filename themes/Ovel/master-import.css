@@ -92,9 +92,10 @@
 /* Latest Version */
 :root {
    --theme: "Ovel";
+   --build: "133";
    --version-latest: "v1.0.5.2";
-   --version-latest-long: "Latest Version: " var(--version-latest);
-   --version-long: "Current Version: " var(--version);
+   --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
+   --version-long: "Version: " var(--version) " (Current) ";
 }
 .info-1VyQPT::after {
   content: var(--version-latest-long) !important;
