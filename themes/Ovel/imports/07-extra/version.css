@@ -21,9 +21,13 @@
     margin-top: 80px;
 }
 
-#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before {
-         display: var(--outdated_ovel, block) !important;
-     }
+   #app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before {
+    display: var(--outdated_ovel, block) !important;
+    position: absolute;
+    left: 30%;
+    border-radius: 0px 0px 12px 12px;
+    top: 48px;
+}
 
      .info-1VyQPT:after {
       content: var(--version-latest-long) !important;
