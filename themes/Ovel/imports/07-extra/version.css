@@ -9,6 +9,7 @@
   font-family: var(--font-primary);
   font-weight: 600;
 }
+*/
 .info-1VyQPT::before {
     content: var(--version-long) !important;
     color: var(--alt-color2);
@@ -21,7 +22,6 @@
     position: absolute;
     margin-top: 80px;
 }
-*/
 
      .info-1VyQPT:after {
       content: var(--version-latest-long) !important;
