@@ -1,6 +1,6 @@
 /*  ------------------------------------------
                   Lode Source
-                     v1.0.4
+                     v1.0.8
                 - leeprky#2063 -
     ------------------------------------------  */
 
@@ -14,7 +14,7 @@
 :root {
    --theme: "Lode";
    --build: "463";
-   --version-latest: "v1.0.4";
+   --version-latest: "v1.0.8";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
    --theme-dl: "https://github.com/leeprky/Lode"
