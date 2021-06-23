@@ -93,7 +93,7 @@
 /* Outdated Version Code*/
 :root {
    --theme: "Ovel";
-   --build: "144";
+   --build-latest: "144";
    --version-latest: "v1.0.6";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
