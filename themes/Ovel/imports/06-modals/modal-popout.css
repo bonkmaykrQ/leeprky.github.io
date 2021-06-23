@@ -32,6 +32,9 @@
    margin-left: 0px !important;
 }
    
+.avatar-AvHqJA, .avatar-37jOim {
+   border-radius: var(--avatar-radius);
+}
 
 /* Other Modals */
  .popoutRoleDot-1XPcoA {
