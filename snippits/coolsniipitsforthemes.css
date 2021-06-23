@@ -192,14 +192,3 @@ ul.tree-2wKJdG:focus {
     justify-content: space-evenly;
     grid-template-columns: none;
 }
-
-.header-2V-4Sw[data-guild-id="824402452014039130"]:before {
-  content: url("https://cdn.discordapp.com/emojis/742962393763807312.png?size=64 ");
-  filter: saturate(600%);
-  filter: hue-rotate(295deg);
-  transform: scale(0.25);
-  margin-left: -10px;
-}
-.header-2V-4Sw[data-guild-id="824402452014039130"] .name-1jkAdW {
-  margin-left: -15px !important;
-}
