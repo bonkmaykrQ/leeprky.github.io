@@ -23,6 +23,14 @@
       background-color: var(--alt-color2);
       margin-left: 0px;
   }
+
+ .popoutBanner-19WKGg {
+    background-color: var(--alt-color2) !important;
+ }
+ .activityUserPopout-2yItg2 {
+   background-color: var(--alt-color2);
+   margin-left: 0px !important;
+}
    
 
 /* Other Modals */
