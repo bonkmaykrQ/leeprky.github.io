@@ -225,9 +225,3 @@
     .submenu-2-ysNh { min-width: 188px;max-width: 320px;margin-left: -10px;}
     .tooltipPrimary-1d1ph4 .tooltipPointer-3ZfirK {border-top-color: var(--background-accent)  !important; }
     #app-mount .container-3baos1 {background-color: transparent;}
- div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
-   content: "Lode v1.0.8 By Leeprky#2063";
-   color: var(--alt-color2);
-   filter: brightness(160%);
-   display: block;
- }
