@@ -10,7 +10,7 @@
 /* Outdated Version Code*/
 :root {
    --theme: "Slook";
-   --build: "390";
+   --build-latest: "390";
    --version-latest: "v3.0";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
