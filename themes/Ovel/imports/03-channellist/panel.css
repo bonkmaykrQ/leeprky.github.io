@@ -29,3 +29,23 @@
 .header-2V-4Sw[data-guild-id="824402452014039130"] .name-1jkAdW {
   margin-left: -15px !important;
 }
+.powercord-spotify {
+   position: fixed !important;
+   bottom: 5.5%;
+   right: 0.1%;
+   width: 230px;
+   background-color: var(--background-tertiary);
+   border-radius: 10px;
+}
+.powercord-spotify.hover {
+   position: fixed !important;
+   bottom: 5.5%;
+   right: 0.1%;
+   width: 230px;
+   background-color: var(--background-tertiary);
+   border-radius: 10px;
+}
+
+.jumpToPresentBar-G1R9s6 {
+   margin-bottom: 6px;
+}
