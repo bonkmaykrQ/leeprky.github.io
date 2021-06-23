@@ -16,7 +16,7 @@
 /* Outdated Version Code*/
 :root {
    --theme: "Quarrel";
-   --build: "155";
+   --build-latest: "155";
    --version-latest: "v1.5";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
