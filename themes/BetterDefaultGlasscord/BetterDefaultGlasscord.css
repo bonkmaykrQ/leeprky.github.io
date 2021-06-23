@@ -16,7 +16,7 @@
 /* Outdated Version Code*/
 :root {
    --theme: "BetterDefaultDiscord";
-   --build: "39";
+   --build-latest: "39";
    --version-latest: "v1.4";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
