@@ -21,3 +21,23 @@
 .colorable-1bkp8v.red-33-Lnk {
   background: none !important;
 }
+
+
+/* DM List */
+.content-3YMskv[style="height: 2476px;"] {
+   margin-top: 55px;
+}
+.searchBar-6Kv8R2 .searchBarComponent-32dTOx {
+      display: fixed;
+      height: 40px;
+      width: 290px;
+      position: fixed;
+      left: 15px;
+      border-radius: 4px;
+      color: var(--text-normal);
+      background-color: var(--background-secondary-alt);
+}
+
+.privateChannels-1nO12o .layout-2DM8Md  {
+   margin-right: -70px !important;
+}
