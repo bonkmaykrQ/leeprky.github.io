@@ -19,5 +19,27 @@
    .spotify-seek-bar-cursor{border:none!important;width:15px;height:15px}
    .spotify-title div:first-child{margin-top:-1px!important;margin-bottom:3px;margin-left:0}
    .spotify-seek-bar-progress{background-color:var(--spotify-color) !important}
-   .powercord-spotify {background-color: var(--background-tertiary);border-radius: 10px;}
-   .powercord-spotify.hover {background-color: var(--background-tertiary);border-radius: 10px;}
+   .powercord-spotify {
+      background-color: var(--background-tertiary);
+      right: 0.1%;
+      width: 230px;
+      bottom: 70px;
+      position: absolute;
+      border-radius: 10px;
+   }
+   .powercord-spotify.hover {
+      background-color: var(--background-tertiary);
+      right: 0.1%;
+      width: 230px;
+      bottom: 70px;
+      position: absolute;
+      border-radius: 10px;
+   }
+
+
+   .avatar-SmRMf2[style="width: 32px; height: 32px; border-radius: 50%;"] {
+      border-radius: var(--avatar-radius) !important;
+   }
+   .message-2qnXI6 .avatar-1BDn8e {
+      border-radius: var(--avatar-radius) !important;
+   }
