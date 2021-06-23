@@ -11,7 +11,7 @@
 /* Outdated Version Code*/
 :root {
    --theme: "Lode";
-   --build: "464";
+   --build-latest: "464";
    --version-latest: "v1.0.8";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
