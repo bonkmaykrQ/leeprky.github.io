@@ -16,7 +16,7 @@
 /* Outdated Version Code*/
 :root {
    --theme: "Quarrel";
-   --build-latest: "155";
+   --build-latest: "174";
    --version-latest: "v1.5";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
@@ -27,8 +27,8 @@
        content:"Build " var(--build) " | ";
    }
 
-#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before{display:var(--outdated_quarrel-155,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
-:root {--version: "UNKOWN"; --build: "UNKNOWN"; --outdated_ovel-144: var(--outdated_quarrel-155), block}
+#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before{display:var(--outdated_quarrel-174,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
+:root {--version: "UNKOWN"; --build: "UNKNOWN"; --outdated_ovel-144: var(--outdated_quarrel-174), block}
 
 /* Source */
 .membersGroup-v9BXpm{padding:16px 8px 38px;height:45px;margin-top:6px;font-size:14px}
