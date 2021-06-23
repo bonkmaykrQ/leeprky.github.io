@@ -19,3 +19,13 @@
 .spotify-seek-bar-cursor{border:none!important;width:15px;height:15px}
 .spotify-title div:first-child{margin-top:-1px!important;margin-bottom:3px;margin-left:0}
 .spotify-seek-bar-progress{background-color:var(--spotify-color)}
+.header-2V-4Sw[data-guild-id="824402452014039130"]:before {
+  content: url("https://cdn.discordapp.com/emojis/742962393763807312.png?size=64 ");
+  filter: saturate(600%);
+  filter: hue-rotate(295deg);
+  transform: scale(0.25);
+  margin-left: -10px;
+}
+.header-2V-4Sw[data-guild-id="824402452014039130"] .name-1jkAdW {
+  margin-left: -15px !important;
+}
