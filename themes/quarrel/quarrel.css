@@ -17,7 +17,7 @@
 :root {
    --theme: "Quarrel";
    --build-latest: "174";
-   --version-latest: "v1.5";
+   --version-latest: "v1.5.1";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
    --theme-dl: "https://github.com/leeprky/Quarrel"
