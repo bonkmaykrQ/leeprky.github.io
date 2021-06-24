@@ -1,6 +1,10 @@
    .userPopout-xaxa6l{border-radius:12px}
    .avatarPositionNormal-aZjAsn{transform:scale(1.28);margin-left:28%;margin-top:7.5%}
-   .avatarPositionPremium-3We5Ho{transform:scale(1.28);margin-left:28%;margin-top:-38.5%}
+.avatarPositionPremium-3We5Ho {
+   transform: scale(1.28);
+   margin-left: 28%;
+   margin-top: -5.5%;
+}
    .popoutBanner-19WKGg{width:300px;height:95px;transform-origin:top}
    .popoutBannerPremium-1n96gg{width:300px;height:112px;transform-origin:top}
    .bodyTitle-3FWCs2,.endBodySection-ypd-38,.aboutMeTitle-2i3lnH,.clamped-IwJfxR{justify-content:center;text-align:center;margin-left:-15px}
