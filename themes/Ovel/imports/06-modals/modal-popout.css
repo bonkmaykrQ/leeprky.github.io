@@ -75,6 +75,7 @@
       top: 28px;
       left: 38%;
       position: absolute;
+      font-size: 15px;
       font-family: var(--font-primary);
       font-weight: 700;
       color: var(--interactive-normal);
@@ -82,3 +83,4 @@
   .aboutMeSection-1Fw5Ia .aboutMeBody-3GuvKk {
      margin-top: 15px;
 }
+
