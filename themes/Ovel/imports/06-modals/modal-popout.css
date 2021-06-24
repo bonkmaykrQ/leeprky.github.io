@@ -70,3 +70,15 @@
    background-color: var(--background-floating);
    border-radius: var(--border-radius);
  }
+   .aboutMeSection-1Fw5Ia .aboutMeBody-3GuvKk::before {
+      content: "About Me";
+      top: 28px;
+      left: 38%;
+      position: absolute;
+      font-family: var(--font-primary);
+      font-weight: 700;
+      color: var(--interactive-normal);
+  }
+  .aboutMeSection-1Fw5Ia .aboutMeBody-3GuvKk {
+     margin-top: 15px;
+}
