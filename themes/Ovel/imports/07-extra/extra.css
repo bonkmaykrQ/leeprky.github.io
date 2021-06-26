@@ -6,3 +6,23 @@
 .formNotice-2_hHWR, .cardPrimaryOutline-29Ujqw ,.powercord-account, .powercord-product, .theme-dark .card-o7rAq-, .theme-dark .card-3IImnr, .connectionOptionsWrapper-3KIj1Z{
   background-color: var(--background-tertiary);
 }
+
+ /* Show Discord, even when you're offline */
+.container-16j22k {
+   background: transparent;
+   pointer-events: none;
+ }
+ .container-16j22k * {
+   display: none;
+ }
+ .container-16j22k::before {
+   content: 'No Internet';
+   display: block;
+   bottom: 24px;
+   right: 24px;
+   position: absolute;
+   padding: 8px 16px;
+   background-color: var(--red-hsl);
+   border-radius: 4px;
+   color: #fff;
+ }
