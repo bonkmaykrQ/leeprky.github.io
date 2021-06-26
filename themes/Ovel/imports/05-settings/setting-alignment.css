@@ -10,3 +10,9 @@
 .customScroller-26gWhv>div{max-width:100%}
 .contentRegionScroller-26nc1e .toolsContainer-1edPuj{margin-right:10px;-webkit-app-region:drag;background-color:var(--alt-color2);opacity:.5;border-radius:12px}
 .contentRegionScroller-26nc1e .toolsContainer-1edPuj::after{content:"Drag me lel";position:absolute;top:5px}
+
+   .layers-3iHuyZ>.layer-3QrUeG:first-child{opacity:1!important}
+   .layers-3iHuyZ>.layer-3QrUeG:nth-child(2),.perksModal-fSYqOq{background-color:rgba(4,1,14,0.459)!important;backdrop-filter:blur(10px)}
+   .contentRegionScroller-26nc1e,.contentRegion-3nDuYy,.standardSidebarView-3F1I7i,.sidebarRegionScroller-3MXcoP{background:transparent}
+   .titleContainer-2CXtJo{border-radius:10px;padding-top:10px;padding-bottom:10px;top:5px}
+   .header-2mZ9Ov{border-radius:10px;padding-top:10px;padding-bottom:10px;top:5px}
