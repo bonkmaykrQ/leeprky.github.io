@@ -15,14 +15,18 @@
  .container-16j22k * {
    display: none;
  }
- .container-16j22k::before {
-   content: 'No Internet';
-   display: block;
-   bottom: 24px;
-   right: 24px;
-   position: absolute;
-   padding: 8px 16px;
-   background-color: var(--red-hsl);
-   border-radius: 4px;
-   color: #fff;
- }
+   .container-16j22k::before {
+      content: 'No Internet';
+      display: block;
+      right: 0.45%;
+      width: 205px;
+      height: 18px;
+      bottom: 25px;
+      position: absolute;
+      padding: 8px 16px;
+      background-color: var(--red-hsl);
+      border-radius: 12px;
+      color: #fff;
+      text-align: center;
+  }
+  
