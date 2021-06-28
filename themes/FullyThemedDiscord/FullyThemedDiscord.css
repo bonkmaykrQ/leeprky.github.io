@@ -70,11 +70,11 @@
 .categoryHeader-O1zU94, .theme-dark .container-3ayLPN, .theme-dark .calendarPicker-2yf6Ci .react-datepicker, .theme-dark .autocomplete-1vrmpx, .container-3XJ8ns, .theme-dark .quickSelectPopout-X1hvgV, .theme-dark .addGamePopout-2RY8Ju
 {background-color: var(--background-floating) !important}
 /* Primary */
-.peopleColumn-29fq28, .theme-dark .perksModal-fSYqOq
+.peopleColumn-29fq28, .theme-dark .perksModal-fSYqOq, .theme-dark .root-1gCeng
 { background-color: var(--background-primary) !important}
 
 /* Secondary */
-.popout-3fRpdY, .theme-dark .codeRedemptionRedirect-1wVR4b, .theme-dark .gemIndicatorContainer-2jdECl, .theme-dark .default-3oAQTF, .theme-dark .pageWrapper-1PgVDX, .theme-dark .modal-yWgWj-, .root-217Brm, .theme-dark .container-2x5lvQ .header-2C89wJ, .theme-dark .root-1gCeng, .theme-dark .uploadModal-2ifh8j, .small-3iVZYw, .theme-dark .background-3xPPFc, .theme-dark .tierHeaderLocked-3S508x, .theme-dark .tierHeaderUnlocked-3lTDnP, .theme-dark .barBackground-2EEiLw, .theme-dark .tierHeaderLocked-1s2JJz, .theme-dark .perk-2WeBWW, .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month
+.theme-dark .footer-2gL1pp, .popout-3fRpdY, .theme-dark .codeRedemptionRedirect-1wVR4b, .theme-dark .gemIndicatorContainer-2jdECl, .theme-dark .default-3oAQTF, .theme-dark .pageWrapper-1PgVDX, .theme-dark .modal-yWgWj-, .root-217Brm, .theme-dark .container-2x5lvQ .header-2C89wJ, .theme-dark .root-1gCeng, .theme-dark .uploadModal-2ifh8j, .small-3iVZYw, .theme-dark .background-3xPPFc, .theme-dark .tierHeaderLocked-3S508x, .theme-dark .tierHeaderUnlocked-3lTDnP, .theme-dark .barBackground-2EEiLw, .theme-dark .tierHeaderLocked-1s2JJz, .theme-dark .perk-2WeBWW, .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month
 { background-color: var(--background-secondary) !important}
 
 /* Secondary Alternative */
