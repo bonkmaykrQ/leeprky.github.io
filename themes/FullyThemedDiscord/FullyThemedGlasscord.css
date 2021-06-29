@@ -93,7 +93,7 @@
 
 /* Accent */
 .notice-18685F 
-{ background-color: var(--background-accent);}
+{ background-color: var(--background-accent) !important;}
 
 /* Display None */
 .theme-dark .option-96V44q:after, .theme-dark .option-96V44q.selected-rZcOL-:after
