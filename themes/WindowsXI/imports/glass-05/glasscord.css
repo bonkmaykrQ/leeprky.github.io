@@ -314,3 +314,11 @@
 .footer-1fjuF6 {
 	display: none;
 }
+
+.titleBar-AC4pGV {
+   background-color: var(--glasscord-background);
+   border-radius: 0px !important;
+}
+.container-2lgZY8, .layer-3QrUeG.baseLayer-35bLyl, .layers-3iHuyZ  {
+   border-radius: 0px !important;
+}
