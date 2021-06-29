@@ -12,18 +12,18 @@
   font-family: var(--font-primary);
   font-weight: 600;
 }
-.info-1VyQPT::before {
-    content: var(--version-long) !important;
-    color: var(--alt-color2);
-    opacity: 1;
-    filter: brightness(180%);
-    display: block;
-    font-size: 12px;
-    font-family: var(--font-primary);
-    font-weight: 400;
-    position: absolute;
-    margin-top: 80px;
-}
+              .info-1VyQPT::before {
+               content: var(--version-long) !important;
+               color: var(--alt-color2);
+               opacity: 1;
+               filter: brightness(180%);
+               display: block;
+               font-size: 12px;
+               font-family: var(--font-primary);
+               font-weight: 400;
+               position: absolute;
+               margin-top: 67px;
+           }
 
      .info-1VyQPT:after {
       content: var(--version-latest-long) !important;
