@@ -13,3 +13,6 @@
   .userPopout-3XzG_A .timeBarUserPopout-AWPFf2 + div .button-38aScr{border:none;background-color:#e1f1e6;color:var(--spotify-color);transition:.15s}
   .userPopout-3XzG_A .timeBarUserPopout-AWPFf2 + div .button-38aScr:hover{background-color:#fff}
   .userPopout-3XzG_A .timeBarUserPopout-AWPFf2 + div .button-38aScr:active{box-shadow:none;transform:translateY(1px)}
+   .theme-dark .newPopoutActivityStyles .spotifyIcon-2J9kSv, .theme-light .newPopoutActivityStyles .spotifyIcon-2J9kSv {
+      display: none;
+   }
