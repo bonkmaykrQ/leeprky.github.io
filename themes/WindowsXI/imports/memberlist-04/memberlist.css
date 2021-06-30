@@ -22,3 +22,7 @@
                    transform: translate(-50%, -50%);
            position: relative;
          }
+   .pointerEvents-2zdfdO[width="10"][mask="url(#svg-mask-status-online-mobile)"] {
+      x: 20px;
+      y: 15px;
+  }
