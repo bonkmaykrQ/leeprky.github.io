@@ -30,11 +30,14 @@ mask: none !important;
 :root .avatar-3Heyg_, :root .avatarContainer-2LLZwy, :root .appAvatar-3bgkQ9 {
 border-radius: var(--roundness) !important;}
 
-.children-19S4PO, .toolbar-1t6TWx {
+.theme-dark .children-19S4PO, .toolbar-1t6TWx {
   background-color: rgba(0,0,0,0.2);
   border-radius: var(--roundness);
   padding: 5px;
   height: 30px;
+}
+.theme-light .children-19S4PO, .toolbar-1t6TWx {
+  background-color: rgba(255, 255, 255, 0.432);
 }
 .children-19S4PO::after {
   display: none;
