@@ -2,3 +2,11 @@
    .members-1998pB, .members-1998pB>div {
      background-color: var(--background-primary);
    }
+            .pointerEvents-2zdfdO[width="10"] {
+               x:20px;
+               y:20px;
+            }
+            .members-1998pB  .pointerEvents-2zdfdO[width="10"][mask="url(#svg-mask-status-online-mobile)"] {
+               x:20px;
+               y: 15px;
+            }
