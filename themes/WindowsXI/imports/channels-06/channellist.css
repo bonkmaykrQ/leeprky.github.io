@@ -51,3 +51,19 @@
                -webkit-box-shadow: none;
                box-shadow: none;
             }
+ .avatar-SmRMf2.spotify-cover{
+   animation: rotate 3s infinite;
+   -webkit-animation-timing-function: linear;
+   border-radius: 50% !important;
+ }
+.powercord-spotify {
+   background-color: var(--background-tertiary);
+   box-shadow: 0px 22px var(--background-primary);
+   right: 0.4%;
+   width: 225px;
+   bottom: 22px;
+   position: absolute;
+}
+.powercord-spotify .spotify-buttons {display: none;}
+.powercord-spotify.hover .spotify-buttons {display: flex !important;}
+.spotify-seek-bar, .powercord-spotify .spotify-seek-bar-progress{height:3.8px !important;}
