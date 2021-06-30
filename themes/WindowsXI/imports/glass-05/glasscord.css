@@ -21,6 +21,11 @@ body{
     background-color: transparent;
 }
 
+.standardSidebarView-3F1I7i {
+   background-color: var(--glasscord-background);
+   border-radius: 0px !important;
+}
+
 #app-mount{
 	background-color: transparent;
 	border-radius: var(--glasscord-blur-corner-radius);
