@@ -3,11 +3,11 @@
 .titleBar-AC4pGV > *:nth-child(4):hover {background-color: #0ea70e;}
 .layer-3QrUeG.baseLayer-35bLyl {background-color: var(--background-tertiary) !important;}
 /* .container-2lgZY8 {margin-top: 10px;} */
-.withFrame-haYltI {
-   padding-top: 0.5px;
-   height: 24px;
-   margin-top: 4px;
-}
+   .withFrame-haYltI {
+      padding-top: 0.5px;
+      height: 26.5px;
+      margin-top: 4px;
+  }
 .wordmark-2iDDfm:after {
   color: rgb(247, 245, 245);
   content: "Discord";
