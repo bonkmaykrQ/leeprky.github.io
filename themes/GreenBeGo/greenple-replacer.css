@@ -8,7 +8,7 @@
 
 /*
 :root {
---green-color: var(--alt-color2);
+--green-color: red;
 --green-bar-on: #5c646480;
 --green-bar-bg: var(--green-color);
 --green-slider-on: var(--green-color);
