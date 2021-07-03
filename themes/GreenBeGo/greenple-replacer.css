@@ -1,47 +1,46 @@
 /*  ------------------------------------------
 
                 Greenple Recolored
-                      v1.1
+                      v1.2
                 - leeprky#2063 -
 
     ------------------------------------------  */
-/*
-    :root {
-      --green-color: #df2911; 
-      --green-bar-on: var(--greenple-color);
-      --green-bar-bg: #16171a;
-      --green-slider-on: var(--greenple-color);
-      --green-slider-off: rgb(48, 48, 54);
-      --green-slider-dot: #fff;
-  }
 
-/* Slides */
-.container-3auIfb:not([style*="125"]) {
-  background-color: var(--green-slider-on) !important;
+/*
+:root {
+--green-color: var(--alt-color2);
+--green-bar-on: #5c646480;
+--green-bar-bg: var(--green-color);
+--green-slider-on: var(--green-color);
+--green-slider-off: #404447fd;
+--green-slider-dot: #fff;
 }
-.container-3auIfb[style="opacity: 1; background-color: hsl(218, calc(var(--saturation-factor, 1) * 4.6%), 46.9%);"] {
-  background-color: var(--green-slider-off) !important;
-}
-svg.slider-TkfMQL svg {
-  display: none !important;
-}
-.slider-TkfMQL rect {
-  fill: var(--green-slider-dot) !important;
-}
-/* Bars */
-.slider-1PF9SW .bar-2Qqk5Z {
-  background-color: var(--green-bar-on) !important; 
-}
-.slider-1PF9SW .bar-2Qqk5Z .barFill-23-gu- {
-  background-color: var(--green-bar-bg) !important;
-}
-.defaultValue-3gC7yw .markValue-2DwdXI {
-  color: rgb(255, 255, 255);
-}
-/* Bd Support */
-.bd-switch-body {
-  --switch-color: var(--green-slider-off) !important;
-}
-.bd-switch input:checked+.bd-switch-body {
-  --switch-color: var(--green-slider-on) !important;
-}
+*/
+
+ /* green-color */
+ [class="item-3HknzM item-PXvHYJ themed-OHr7kt"][aria-label="Add Friend"]
+ {background-color: var(--green-color) !important;}
+
+ /* green-bar-on */
+ .slider-1PF9SW .bar-2Qqk5Z
+ {background-color: var(--green-bar-on) !important; }
+
+ /* green-bar-bg */
+ .slider-1PF9SW .bar-2Qqk5Z .barFill-23-gu-
+{background-color: var(--green-bar-bg) !important;}
+
+ /* green-slider-on */
+.container-3auIfb:not([style*="125"]),  .bd-switch input:checked+.bd-switch-body
+{background-color: var(--green-slider-on) !important;}
+
+ /* green-slider-off */
+.container-3auIfb[style="opacity: 1; background-color: hsl(218, calc(var(--saturation-factor, 1) * 4.6%), 46.9%);"],  .bd-switch-body 
+{background-color: var(--green-slider-off) !important;}
+
+ /* green-slider-dot */
+.slider-TkfMQL rect, .defaultValue-3gC7yw .markValue-2DwdXI
+{ fill: var(--green-slider-dot) !important;}
+
+/* Other */
+svg.slider-TkfMQL svg 
+{display: none !important;}
