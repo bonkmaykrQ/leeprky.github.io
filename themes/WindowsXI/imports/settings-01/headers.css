@@ -79,3 +79,29 @@
 .sidebar-CFHs9e{
    margin-top: -50px;
 }
+
+
+   .layers-3iHuyZ>.layer-3QrUeG:first-child{
+      transform: scale(1) !important;
+      opacity: 1 !important;
+    }
+    .layers-3iHuyZ>.layer-3QrUeG:nth-child(2),.perksModal-fSYqOq{
+      background-color: rgba(15, 15, 15, 0.801)!important;
+      backdrop-filter: blur(9px);
+    }
+    .contentRegionScroller-26nc1e,.contentRegion-3nDuYy,.standardSidebarView-3F1I7i,
+    .sidebarRegionScroller-3MXcoP{
+      background: transparent;
+    }
+    .titleContainer-2CXtJo {
+      border-radius: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      top: 5px;
+    }
+    .header-2mZ9Ov {
+      border-radius: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      top: 5px;
+    }
