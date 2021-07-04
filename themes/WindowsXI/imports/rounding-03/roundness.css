@@ -1,10 +1,10 @@
-{
+/* * {
     border-radius: var(--roundness) !important;
   }
               .form-2fGMdU, .sidebar-2K8pFh, .chat-3bRxxu {
                  border-radius: 0px !important;
               }
-
+*/
 /* Avatar Roundness */ 
 img[class^="avatar"]{
 border-radius: var(--borders-avatars) !important;}
