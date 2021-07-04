@@ -1,14 +1,14 @@
-  * {
+ /* * {
     border-radius: var(--roundness) !important;
   }
-
+*/
               .form-2fGMdU, .sidebar-2K8pFh, .chat-3bRxxu {
                  border-radius: 0px !important;
               }
 
 /* Avatar Roundness */ 
 img[class^="avatar"]{
-border-radius: var(--roundness) !important;}
+border-radius: var(--borders-avatars) !important;}
 :root .root-3QyAh1 .topSection-y3p-_D > header .header-4zuFdR .mask-1l8v16 foreignObject, .wrapper-25eVIn foreignObject {
 mask: none !important; border-radius: var(--roundness) !important;}
 :root .userProfileCustomizationSection-8Vpo48 .baseLayout-2GkbfB .avatarUploaderInner-Oiob_P {
