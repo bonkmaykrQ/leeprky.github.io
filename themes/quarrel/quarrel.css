@@ -296,3 +296,15 @@ html:root{--font-display:var(--font-primary)}
     .powercord-spotify .spotify-seek-bar{
         background-color: var(--bar-background-primary);  
     }
+        #app-mount .avatarHint-2A3RNb foreignObject {
+          -webkit-mask: none;
+                  mask: none;
+        }
+
+        .avatarHint-2A3RNb {
+          position: absolute;
+          top: 12px;
+          left: 8px;
+          transform: scale(1.2);
+          border-radius: var(--rs-avatar-shape);
+      }
