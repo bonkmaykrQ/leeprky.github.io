@@ -298,4 +298,17 @@ html:root{--font-display:var(--font-primary)}
     }
 
 
-
+        #app-mount .avatarHint-2A3RNb foreignObject {
+          -webkit-mask: none;
+                  mask: none;
+        }
+        .avatarHint-2A3RNb {
+          position: absolute;
+          top: 12px;
+          left: 11px;
+          transform: scale(1.16);
+          border-radius: var(--rs-avatar-shape);
+      }
+      #app-mount .wrapper-3t9DeA rect[height="24"][x="88"][y="88"] {
+        width: 88% !important;
+    }
