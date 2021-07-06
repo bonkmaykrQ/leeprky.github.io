@@ -2,3 +2,6 @@
 .bd-button:hover{background-color:var(--bd-color-hover)}
 #bd-pub-button:hover, #bd-pub-button{background-color:var(--bd-color-hover)}
 #bd-pub-li{display:var(--public-servers)}
+.bd-toast.toast-success {
+   background-color: var(--green-color);
+}
