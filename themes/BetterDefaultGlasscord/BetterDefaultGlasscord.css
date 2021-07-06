@@ -17,6 +17,8 @@
 @import "https://leeprky.github.io/themes/lode/default/support/gradients/luckfiregradientbuttons.css";
 @import "https://leeprky.github.io/themes/GreenBeGo/greenple-replacer.css";
 
+@import "https://leeprky.github.io/themes/Ovel/imports/07-extra/version.css";
+
 :root {
 	--chatbox-colour: var(--glasscord-chatbox-colour) !important; 
 	--background-primary: transparent !important; 
