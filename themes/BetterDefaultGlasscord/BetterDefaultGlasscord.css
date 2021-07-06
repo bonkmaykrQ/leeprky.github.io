@@ -11,7 +11,14 @@
    limitations under the License.
 */
 
-
+:root {
+	--chatbox-colour: var(--glasscord-chatbox-colour) !important; 
+	--background-primary: transparent !important; 
+	--background-secondary: transparent !important; 
+	--background-secondary-alt: var(--glasscord-secondary-alt) !important; 
+	--background-tertiary: transparent !important; 
+	--background-floating: var(--glasscord-floating) !important; 
+  }
 
 /* Outdated Version Code*/
 :root {
