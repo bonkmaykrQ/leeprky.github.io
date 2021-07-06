@@ -9,7 +9,9 @@
 .guilds-1SWlCJ .scroller-1Bvpku .tutorialContainer-2sGCg9{position:fixed;transform:translate3d(0,200px,0)}
 .guilds-1SWlCJ .scroller-1Bvpku{margin-top:330px!important;contain:unset!important}
 .noticeWrapper-8z511t,.notice-3bPHh-,.notice-3uyY6c{margin-left:340px;margin-top:108px;width:650px;position:absolute;border-radius:0}
-
+.bd-toast.toast-success {
+   background-color: var(--green-color);
+}
        .userPopout-xaxa6l[style*="--user-background"] .banner-2QYc2d,
        .root-3QyAh1[style*="--user-background"] .banner-2QYc2d {
            height: 200px;
