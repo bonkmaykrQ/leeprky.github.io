@@ -15,12 +15,23 @@
 .bannerImage-3KhIJ6{width:320px;margin-bottom:-10px}
 .guildIconContainer-2FW_iA{position:absolute;margin-left:245px}
 .content-3YMskv [style="height: 84px;"]{height:35px!important}
+   .controlSection-2h3cS0 .headerWrapper-3NUKsd .title-3qD0b- .toolbar-1t6TWx {
+      left: 300px !important;
+   }
+   .controlSection-2h3cS0 .headerWrapper-3NUKsd .container-1r6BKw.transparent-2ZlE3R {
+      left: -175px !important;
+   }
    .scroller-RmtA4e, .content-3YMskv {
       margin-top: 60px;
    }
-   .controlSection-2h3cS0 .headerWrapper-3NUKsd .title-3qD0b- .toolbar-1t6TWx {
-      left: 305px !important;
-   }
-   .controlSection-2h3cS0 .headerWrapper-3NUKsd .container-1r6BKw.transparent-2ZlE3R {
-      left: -185px !important;
-   }
+   .controlSection-2h3cS0 .headerWrapper-3NUKsd .container-1r6BKw.transparent-2ZlE3R .searchBar-3dMhjb  {
+      display: fixed;
+      height: 40px;
+      width: 290px;
+      position: fixed;
+      left: -3px;
+      top: 50px;
+      border-radius: 4px;
+      color: var(--text-normal);
+      background-color: var(--background-secondary-alt);
+  }
