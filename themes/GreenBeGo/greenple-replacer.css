@@ -18,7 +18,7 @@
 */
 
  /* green-color */
- [class="item-3HknzM item-PXvHYJ themed-OHr7kt"][aria-label="Add Friend"]
+ [class="item-3HknzM item-PXvHYJ themed-OHr7kt"][aria-label="Add Friend"], .circleIconButton-1QV--U
  {background-color: var(--green-color) !important;}
 
  /* green-bar-on */
@@ -44,3 +44,6 @@
 /* Other */
 svg.slider-TkfMQL svg 
 {display: none !important;}
+
+.circleIconButton-1QV--U.selected-1JjBPm 
+{background-color: var(--green-color);color: white;}
