@@ -44,3 +44,10 @@
 /* Other */
 svg.slider-TkfMQL svg 
 {display: none !important;}
+
+ .circleIconButton-1QV--U {
+    color: var(--green-color); 
+    background-color: var(--background-primary);
+ }
+ .circleIconButton-1QV--U.selected-1JjBPm 
+{background-color: var(--green-color);color: white;}
