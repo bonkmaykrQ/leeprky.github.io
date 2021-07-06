@@ -72,12 +72,11 @@
 --elevation-medium: 0 4px 4px rgba(0,0,0,0.16) !important; 
 --elevation-high: 0 8px 16px rgba(0,0,0,0.24) !important; 
 
---scrollbar-thin-thumb: #eaedf100 !important; 
---scrollbar-thin-track: transparent !important;
---scrollbar-auto-thumb: var(--alt-color2) !important; 
---scrollbar-auto-track: #26272902 !important; 
---scrollbar-auto-scrollbar-color-thumb: #f0f3f8 !important; 
---scrollbar-auto-scrollbar-color-track: #2f313600 !important; 
+--background-modifier-hover: rgba(56, 168, 151, 0.459);
+--background-modifier-active: rgba(56, 168, 151, 0.521);
+--background-modifier-selected: rgba(56, 168, 151, 0.178);
+--background-modifier-accent: rgba(56, 168, 151, 0.418);
+--background-message-hover: transparent;
 
 /* Other */
 --radio-group-dot-foreground: var(--alt-color) !important; 
@@ -147,12 +146,11 @@
 --elevation-medium: 0 4px 4px rgba(0,0,0,0.16) !important;  
 --elevation-high: 0 8px 16px rgba(0,0,0,0.24) !important;  
 
---scrollbar-thin-thumb: #01011300 !important;  
---scrollbar-thin-track: transparent !important;  
---scrollbar-auto-thumb: var(--alt-color2) !important;  
---scrollbar-auto-track: #1b315c02 !important;  
---scrollbar-auto-scrollbar-color-thumb: #f0f3f8 !important;  
---scrollbar-auto-scrollbar-color-track: #2d56be00 !important;  
+--background-modifier-hover: rgba(56, 168, 151, 0.459);
+--background-modifier-active: rgba(56, 168, 151, 0.521);
+--background-modifier-selected: rgba(56, 168, 151, 0.178);
+--background-modifier-accent: rgba(56, 168, 151, 0.418);
+--background-message-hover: transparent;
  
 /* Other */
 --radio-group-dot-foreground: var(--alt-color2) !important;  /* Ignore */
