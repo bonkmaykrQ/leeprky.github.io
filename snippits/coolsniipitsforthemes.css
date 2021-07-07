@@ -192,3 +192,10 @@ ul.tree-2wKJdG:focus {
     justify-content: space-evenly;
     grid-template-columns: none;
 }
+
+            .iconWrapper-2OrFZ1[aria-label="Help"] {
+               display: none;
+            }
+            [class="ring-13rgEW"] {
+               display: none !important;
+            }
