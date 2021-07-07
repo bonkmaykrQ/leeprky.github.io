@@ -74,7 +74,30 @@
             color: rgba(var(--alt-color), 9);
             filter: brightness(150%);
         }
+
+
 /* -------- BASE ---- */
+
+              :root {
+               /* ---- base -- */
+               --indicator-border-info: 2px solid;
+           
+               /* ---- selected -- */
+               --indicator-selected-border: rgba(var(--indicator-selected));
+               --indicator-selected-background: rgba(var(--indicator-selected), 0.1);
+               --indicator-selected-hover: rgba(var(--indicator-selected), 0.18);
+           
+               /* ---- unreads -- */
+               --indicator-unread-border: rgba(var(--indicator-unread), 0.6);
+               --indicator-unread-background: rgba(var(--indicator-unread), 0.01);
+               
+               /* ---- connected -- */
+               --indicator-connected-border: rgba(var(--indicator-connected));
+               --indicator-connected-background: rgba(var(--indicator-connected), 0.1);
+               --indicator-connected-hover: rgba(var(--indicator-connected), 0.18);
+           }
+         
+
 /* ---- Borders -- */
 #app-mount {
 	/* ---- Remove Default -- */
