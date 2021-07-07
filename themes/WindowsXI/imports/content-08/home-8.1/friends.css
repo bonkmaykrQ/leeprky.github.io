@@ -104,3 +104,8 @@
 [class="contents-18-Yxp premiumSubscribeButton-3TowJw"],[class="contents-18-Yxp giftButton-2uAsFo"] {
    color: #161616 !important;
 }
+           
+              .info-1VyQPT:after {
+                 top: 10px !important;
+                 left: 3px; 
+              }
