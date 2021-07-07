@@ -5,7 +5,13 @@
    https://github.com/phenom4n4n/blurple-replacer
     ------------------------------------------  */
 
-:root{--radio-group-dot-foreground:rgba(var(--alt-color))}
+/*
+:root{
+  --alt-color: 88, 101, 242;
+  --alt-color2: #5865F2;  
+}
+*/
+
 .theme-light{--logo-primary:rgba(var(--alt-color))}
 .ephemeral-1PsL1r:before,.localBot-GrCgVt:before,.replying-1x3H0T:before{background-color:rgba(var(--alt-color))!important}
 .ephemeral-1PsL1r,.localBot-GrCgVt,.replying-1x3H0T{background-color:rgba(var(--alt-color),.05)!important}
