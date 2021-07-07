@@ -70,3 +70,7 @@
           .panels-j1Uci_ {
               background-color: var(--background-secondary);
            }
+           .listDefault-3ir5aS .clickable-1lCRLF.selected-3t3Csj .username-3KYl0N, .usernameSpeaking-RmltQx {
+            color: rgba(var(--alt-color), 9);
+            filter: brightness(150%);
+        }
