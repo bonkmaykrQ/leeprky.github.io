@@ -67,6 +67,6 @@
 .powercord-spotify .spotify-buttons {display: none;}
 .powercord-spotify.hover .spotify-buttons {display: flex !important;}
 .spotify-seek-bar, .powercord-spotify .spotify-seek-bar-progress{height:3.8px !important;}
-           .panels-j1Uci_ {
-              background-color: var(--background-primary);
+          .panels-j1Uci_ {
+              background-color: var(--background-secondary);
            }
