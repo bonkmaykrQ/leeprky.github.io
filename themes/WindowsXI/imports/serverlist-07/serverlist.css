@@ -23,3 +23,7 @@
    margin-left: 5px;
    margin-top: 5px;
 }
+div[style="opacity: 1; height: 56px; transform: scale(1);"] {
+   top: 8px;
+   position: relative;
+}
