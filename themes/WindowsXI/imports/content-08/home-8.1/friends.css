@@ -99,3 +99,8 @@
                color: var(--header-primary);
                font-weight: 600;
            }
+
+
+[class="contents-18-Yxp premiumSubscribeButton-3TowJw"],[class="contents-18-Yxp giftButton-2uAsFo"] {
+   color: #161616 !important;
+}
