@@ -7,13 +7,9 @@
 
                          █ █▀▄▀█ █▀█ █▀█ █▀█ ▀█▀ █▀
                          █ █░▀░█ █▀▀ █▄█ █▀▄ ░█░ ▄█                             
-                                 １．０．２．１                                       */
+                                 １．０．２．２                                       */
 
 /* ███████████████████ ███████████████████████████████ █████████████████████████  */
-
-/* Compiled Version */
-
-@import "https://leeprky.github.io/themes/WindowsXI/compiled.css";
 
 /*  █▄▄ ▄▀█ █▀ █▀▀   █ █▀▄▀█ █▀█ █▀█ █▀█ ▀█▀ █▀
     █▄█ █▀█ ▄█ ██▄   █ █░▀░█ █▀▀ █▄█ █▀▄ ░█░ ▄█ */
@@ -33,32 +29,32 @@
 /*  █▀▀ █▀ █▀ █▀▀ █▄░█ ▀█▀ █ ▄▀█ █░░   █ █▀▄▀█ █▀█ █▀█ █▀█ ▀█▀ █▀
     ██▄ ▄█ ▄█ ██▄ █░▀█ ░█░ █ █▀█ █▄▄   █ █░▀░█ █▀▀ █▄█ █▀▄ ░█░ ▄█ */
 
-/* Titlebar - 00 */ /*
+/* Titlebar - 00 */ 
 @import "https://leeprky.github.io/themes/WindowsXI/imports/titlebar-00/titlebar.css";
 @import "https://leeprky.github.io/themes/WindowsXI/imports/titlebar-00/scrollbars.css";
 
-/* Settings - 01 */  /*
+/* Settings - 01 */ 
 @import "https://leeprky.github.io/themes/WindowsXI/imports/settings-01/headers.css";
 
-/* Modals - 02 */ /*
+/* Modals - 02 */ 
 @import "https://leeprky.github.io/themes/WindowsXI/imports/modal-02/popout.css";
 
-/* Rounding - 03 */ /*
+/* Rounding - 03 */ 
 @import "https://leeprky.github.io/themes/WindowsXI/imports/rounding-03/roundness.css";
 
-/* Memberlist - 04 */ /*
+/* Memberlist - 04 */ 
 @import "https://leeprky.github.io/themes/WindowsXI/imports/memberlist-04/memberlist.css";
 
-/* Channelist -06 */ /*
+/* Channelist -06 */
 @import "https://leeprky.github.io/themes/WindowsXI/imports/channels-06/channellist.css";
 
-/* Serverlist - 07 */ /*
+/* Serverlist - 07 */ 
 @import "https://leeprky.github.io/themes/WindowsXI/imports/serverlist-07/serverlist.css";
  
-/* Content - 08 */ /*
+/* Content - 08 */ 
 @import "https://leeprky.github.io/themes/WindowsXI/imports/content-08/chatbox.css";
 
-/* Friends - 08.1 */ /*
+/* Friends - 08.1 */ 
 @import "https://leeprky.github.io/themes/WindowsXI/imports/content-08/home-8.1/friends.css";
 
 /* ██████╗░░█████╗░░██████╗███████╗
@@ -73,11 +69,11 @@
 /* Outdated Version Code*/
 :root {
    --theme: "WindowsXI";
-   --build-latest: "049";
-   --version-latest: "v1.0.2.1";
+   --build-latest: "059";
+   --version-latest: "v1.0.2.2";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
    --theme-dl: "https://github.com/leeprky/WindowsXI"
 }
 
-#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before{display:var(--outdated_windowsXI-049,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
+#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before{display:var(--outdated_windowsXI-059,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
