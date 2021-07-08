@@ -29,6 +29,10 @@
 
 /* Compiled */
 
+* {
+    border-radius: var(--roundness) !important;
+  }
+
 .container-3baos1::before,.container-3w7J-x::before,.wrapper-24pKcD::before,.privateChannels-1nO12o::before{display:flex!important;flex-flow:column!important}
 .container-3baos1::after,.container-3w7J-x::after,.wrapper-24pKcD::after,.privateChannels-1nO12o::after{flex-flow:column}
 .container-2baos1{order:1}
