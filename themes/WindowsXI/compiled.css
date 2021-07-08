@@ -1,3 +1,20 @@
+/*  █▄▄ ▄▀█ █▀ █▀▀   █ █▀▄▀█ █▀█ █▀█ █▀█ ▀█▀ █▀
+    █▄█ █▀█ ▄█ ██▄   █ █░▀░█ █▀▀ █▄█ █▀▄ ░█░ ▄█ */
+
+@import "https://leeprky.github.io/themes/BaseStuff/alt-color.css";
+@import "https://leeprky.github.io/themes/FullyThemedDiscord/FullyThemedDiscord.css";
+@import "https://leeprky.github.io/snippits/coolsniipitsforthemes.css";
+@import "https://leeprky.github.io/themes/lode/default/support/gradients/luckfiregradientbuttons.css";
+@import "https://leeprky.github.io/themes/GreenBeGo/greenple-replacer.css";
+
+/*  █▀█ ▀█▀ █░█ █▀▀ █▀█   █ █▀▄▀█ █▀█ █▀█ █▀█ ▀█▀ █▀
+    █▄█ ░█░ █▀█ ██▄ █▀▄   █ █░▀░█ █▀▀ █▄█ █▀▄ ░█░ ▄█ */
+
+@import "https://raw.githack.com/mr-miner1/Better-Badges/main/theme.css";
+@import "https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css";
+
+/* Compiled */
+
 .container-3baos1::before,.container-3w7J-x::before,.wrapper-24pKcD::before,.privateChannels-1nO12o::before{display:flex!important;flex-flow:column!important}
 .container-3baos1::after,.container-3w7J-x::after,.wrapper-24pKcD::after,.privateChannels-1nO12o::after{flex-flow:column}
 .container-2baos1{order:1}
