@@ -46,3 +46,30 @@
 .subtext-3CDbHg p {
   margin: 0;
 }
+
+              .container-2ax-kl {
+                 color: rgba(var(--alt-color), 0.9);
+                 font-weight: bold;
+                 font-family: "Segoe UI";
+              }
+
+              .icon-2yIBmh {
+               position: absolute;
+               left: 2px;
+               top: 6px;
+               width: 12px;
+               height: 12px;
+           }
+
+           .collapsed-2-tg8y .icon-2yIBmh {
+            -webkit-transform: rotate(-90deg);
+            transform: rotate(-90deg);
+        }
+
+        .arrow-gKvcEx.icon-2yIBmh {
+           width: 19px;
+           height: 19px;
+           margin-left: -5px;
+           margin-top: -4px;
+           color: rgba(var(--alt-color), 0.9);
+        }
