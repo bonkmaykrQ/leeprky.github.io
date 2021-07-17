@@ -17,9 +17,9 @@
          background-color: var(--glasscord-background);
       }
 
-body{
-    background-color: transparent;
-}
+   body {
+      background-color: var(--glasscord-background);
+   }
 
 .standardSidebarView-3F1I7i {
    background-color: var(--glasscord-background);
