@@ -78,8 +78,9 @@
    --glasscord-secondary-alt: #11142280;
    --glasscord-floating: #111422; 
 }
+*/
 
-:root{--theme:"OvelCompiled";--build-latest:"144C";--version-latest:"v1.0.6C";--version-latest-long:"Version: " var(--version-latest) " (Latest) ";--version-long:"Version: " var(--version) " (Current) ";--theme-dl:https://github.com/leeprky/Ovel}
+:root{--theme:"OvelCompiled";--build-latest:"144C";--version-latest:"v1.0.6.DEV";--version-latest-long:"Version: " var(--version-latest) " (Latest) ";--version-long:"Version: " var(--version) " (Current) ";--theme-dl:https://github.com/leeprky/Ovel}
 #app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before{display:var(--outdated_ovelC-144,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
 
 /* -----------------------------------
