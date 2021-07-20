@@ -100,6 +100,7 @@ polyline[stroke*="7289da"]{stroke:rgba(var(--alt-color))!important}
 [class="embedWrapper-lXpS3L embedFull-2tM8-- embed-IeVjo6 markup-2BOw-j"]{border-color:var(--alt-color2)}
 .keybindShortcut-1BD6Z1 span{background-color:var(--alt-color2)}
 .botTagRegular-2HEhHi, .questionMark-3qBhGj {background-color: var(--alt-color2);}
+.theme-dark .notDetected-33MY4s, .theme-light .notDetected-33MY4s {background-color: var(--alt-color2);}
 
 [data-popout-root].newBrand, html.newBrand {
   --brand-experiment-100: #f7f7fe;
