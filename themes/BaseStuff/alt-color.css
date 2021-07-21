@@ -9,6 +9,7 @@
 :root{
   --alt-color: 88, 101, 242;
   --alt-color2: #5865F2;  
+  --alt-color3: 125;
 }
 */
 
@@ -102,53 +103,52 @@ polyline[stroke*="7289da"]{stroke:rgba(var(--alt-color))!important}
 .botTagRegular-2HEhHi, .questionMark-3qBhGj {background-color: var(--alt-color2);}
 .theme-dark .notDetected-33MY4s, .theme-light .notDetected-33MY4s {background-color: var(--alt-color2);}
 
-[data-popout-root].newBrand, html.newBrand {
-  --brand-experiment-100: #f7f7fe;
-  --brand-experiment-130: #f0f1fe;
-  --brand-experiment-160: #e7e9fd;
-  --brand-experiment-200: #dee0fc;
-  --brand-experiment-230: var(--alt-color2);
-  --brand-experiment-260: var(--alt-color2);
-  --brand-experiment-300: var(--alt-color2);
-  --brand-experiment-330: var(--alt-color2);
-  --brand-experiment-360: var(--alt-color2);
-  --brand-experiment-400: var(--alt-color2);
-  --brand-experiment-430: var(--alt-color2);
-  --brand-experiment-460: var(--alt-color2);
-  --brand-experiment: var(--alt-color2);
-  --brand-experiment-500: var(--alt-color2);
-  --brand-experiment-530: var(--alt-color2);
-  --brand-experiment-560: var(--alt-color2);
-  --brand-experiment-600: var(--alt-color2);
-  --brand-experiment-630: var(--alt-color2);
-  --brand-experiment-660: var(--alt-color2);
-  --brand-experiment-700: var(--alt-color2);
-  --brand-experiment-730: var(--alt-color2);
-  --brand-experiment-760: var(--alt-color2);
-  --brand-experiment-800: var(--alt-color2);
-  --brand-experiment-830: var(--alt-color2);
-  --brand-experiment-860: var(--alt-color2);
-  --brand-experiment-900: var(--alt-color2);
-  --brand-experiment-05a: var(--alt-color2);
-  --brand-experiment-10a: var(--alt-color2);
-  --brand-experiment-15a: var(--alt-color2);
-  --brand-experiment-20a: var(--alt-color2);
-  --brand-experiment-25a: var(--alt-color2);
-  --brand-experiment-30a: var(--alt-color2);
-  --brand-experiment-35a: var(--alt-color2);
-  --brand-experiment-40a: var(--alt-color2);
-  --brand-experiment-45a: var(--alt-color2);
-  --brand-experiment-50a: var(--alt-color2);
-  --brand-experiment-55a: var(--alt-color2);
-  --brand-experiment-60a: var(--alt-color2);
-  --brand-experiment-65a: var(--alt-color2);
-  --brand-experiment-70a: var(--alt-color2);
-  --brand-experiment-75a: var(--alt-color2);
-  --brand-experiment-80a: var(--alt-color2);
-  --brand-experiment-85a: var(--alt-color2);
-  --brand-experiment-90a: var(--alt-color2);
-  --brand-experiment-95a: var(--alt-color2);
-  --control-brand-foreground: var(--alt-color2);
+[data-popout-root], html {
+  --brand-experiment-100: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*77.8%),98.2%);
+  --brand-experiment-130: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*87.5%),96.9%);
+  --brand-experiment-160: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*84.6%),94.9%);
+  --brand-experiment-200: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*83.3%),92.9%);
+  --brand-experiment-230: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*87%),91%);
+  --brand-experiment-260: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*86.2%),88.6%);
+  --brand-experiment-300: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*86.1%),85.9%);
+  --brand-experiment-330: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*85.1%),81.6%);
+  --brand-experiment-360: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*86.1%),77.5%);
+  --brand-experiment-400: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*86.1%),71.8%);
+  --brand-experiment-430: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*85.7%),69.8%);
+  --brand-experiment-460: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*85.5%),67.5%);
+  --brand-experiment: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%);
+  --brand-experiment-500: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%);
+  --brand-experiment-530: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*66.7%),58.8%);
+  --brand-experiment-560: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*51.4%),52.4%);
+  --brand-experiment-600: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*46.7%),44.1%);
+  --brand-experiment-630: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*46.7%),38.2%);
+  --brand-experiment-660: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*47.1%),33.3%);
+  --brand-experiment-700: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*47%),25.9%);
+  --brand-experiment-730: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*46.8%),24.3%);
+  --brand-experiment-760: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*46.9%),22.2%);
+  --brand-experiment-800: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*47.5%),19.4%);
+  --brand-experiment-830: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*47.4%),14.9%);
+  --brand-experiment-860: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*46.9%),9.6%);
+  --brand-experiment-900: hsl(var(--alt-color3),calc(var(--saturation-factor, 1)*50%),3.1%);
+  --brand-experiment-05a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.05);
+  --brand-experiment-10a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.1);
+  --brand-experiment-15a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.15);
+  --brand-experiment-20a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.2);
+  --brand-experiment-25a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.25);
+  --brand-experiment-30a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.3);
+  --brand-experiment-35a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.35);
+  --brand-experiment-40a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.4);
+  --brand-experiment-45a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.45);
+  --brand-experiment-50a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.5);
+  --brand-experiment-55a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.55);
+  --brand-experiment-60a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.6);
+  --brand-experiment-65a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.65);
+  --brand-experiment-70a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.7);
+  --brand-experiment-75a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.75);
+  --brand-experiment-80a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.8);
+  --brand-experiment-85a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.85);
+  --brand-experiment-90a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*85.6%),64.7%,0.9);
+  --brand-experiment-95a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*64.0%),44.7%,0.95);
 }
 
 /* Goosemod */
