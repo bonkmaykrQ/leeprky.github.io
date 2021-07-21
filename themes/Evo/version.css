@@ -11,3 +11,4 @@
 }
 
 #app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before{display:var(--outdated_evo-001,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
+:root {--version: "UNKOWN"; --build: "UNKNOWN"; --outdated_evo-001: var(--outdated_evo-001), block}
