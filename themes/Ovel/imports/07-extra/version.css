@@ -78,6 +78,7 @@
     font-size: 25px; padding: 100px;
     text-align: center;
     color: rgba(var(--alt-color), 1);
+    z-index: 9999999;
     border-radius: 8px;
     line-height: 40px;
     pointer-events: none;
