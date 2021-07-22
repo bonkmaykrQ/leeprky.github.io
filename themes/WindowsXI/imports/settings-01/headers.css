@@ -89,6 +89,10 @@
       background-color: rgba(15, 15, 15, 0.801)!important;
       backdrop-filter: blur(9px);
     }
+    .theme-light .layers-3iHuyZ>.layer-3QrUeG:nth-child(2),.theme-light .perksModal-fSYqOq{
+      background-color: rgba(255,255,255, 0.701)!important;
+      backdrop-filter: blur(9px);
+
     .contentRegionScroller-26nc1e,.contentRegion-3nDuYy,.standardSidebarView-3F1I7i,
     .sidebarRegionScroller-3MXcoP{
       background: transparent;
