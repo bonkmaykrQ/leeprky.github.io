@@ -37054,7 +37054,21 @@ a.u-link.u-text-hover-grey-90:hover {
     min-height: 115px;
   }
 }
+@media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 142px;
+  }
 
+  .u-header .u-image-1 {
+    margin-left: 17px;
+  }
+
+  .u-header .u-menu-1 {
+    margin-top: -60px;
+    margin-right: 0;
+    margin-bottom: 58px;
+  }
+}
 .u-footer {
   background-image: linear-gradient(#07060e, black);
 }
