@@ -19996,7 +19996,7 @@ a.u-button-style.u-border-20 {
 }
 /*begin-variables font-family*/
 .u-body {
-  font-family: 'Open Sans',sans-serif;
+  font-family: Roboto,sans-serif;
 }
 h1,
 h2,
@@ -20024,7 +20024,7 @@ h6 {
 /*end-variables color*/
 /*begin-variables font*/
 .u-custom-font.u-text-font {
-  font-family: 'Open Sans',sans-serif !important;
+  font-family: Roboto,sans-serif !important;
 }
 .u-custom-font.u-heading-font {
   font-family: Roboto,sans-serif !important;
@@ -36700,9 +36700,10 @@ a.u-link.u-text-hover-grey-90:hover {
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
-        font-weight: 700;
+        text-transform: uppercase;
         list-icon-spacing: 0.3;
         list-icon-size: 0.8;
+        font-weight: 700;
         }
         h2:not(.u-subtitle)
         {
@@ -36745,11 +36746,14 @@ a.u-link.u-text-hover-grey-90:hover {
         }
         h6
         {
-        font-weight: 400;
-        font-size: 1.125rem;
+        font-size: 1rem;
         line-height: 1.2;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-weight: 400;
+        text-transform: uppercase;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
         }
         p.u-large-text
         {
@@ -36886,10 +36890,24 @@ a.u-link.u-text-hover-grey-90:hover {
         {
         color: #ffffff;
         }
+        .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > h1:not(.u-title),
+        .u-gradient > .u-container-layout > h1:not(.u-title),
+        .u-image:not(.u-shading) > .u-container-layout > h1:not(.u-title),
+        h1:not(.u-title)
+        {
+        color: #ffffff;
+        }
         .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > h3,
         .u-gradient > .u-container-layout > h3,
         .u-image:not(.u-shading) > .u-container-layout > h3,
         h3
+        {
+        color: #ffffff;
+        }
+        .u-overlap.u-overlap-transparent:not(.u-overlap-contrast) .u-header :not(.u-nav-item) > h6,
+        .u-gradient > .u-container-layout > h6,
+        .u-image:not(.u-shading) > .u-container-layout > h6,
+        h6
         {
         color: #ffffff;
         }
@@ -36960,7 +36978,15 @@ a.u-link.u-text-hover-grey-90:hover {
         {
         color: #b3b3b3;
         }
+        .u-shading h1:not(.u-title),.u-overlap-contrast .u-header h1:not(.u-title):not(.u-nav-link):not(.u-btn)
+        {
+        color: #b3b3b3;
+        }
         .u-shading h3,.u-overlap-contrast .u-header h3:not(.u-nav-link):not(.u-btn)
+        {
+        color: #b3b3b3;
+        }
+        .u-shading h6,.u-overlap-contrast .u-header h6:not(.u-nav-link):not(.u-btn)
         {
         color: #b3b3b3;
         }
@@ -37005,7 +37031,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: 40px auto 0 674px;
+  margin: 37px auto 0 674px;
 }
 
 .u-header .u-nav-1 {
@@ -37060,7 +37086,7 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 1px;
-  margin: -35px 13px 44px;
+  margin: -35px auto 41px 13px;
 }
 
 .u-header .u-btn-2 {
@@ -37069,7 +37095,6 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
-    margin-top: 37px;
     margin-left: 487px;
   }
 
@@ -37087,8 +37112,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    margin-bottom: 41px;
-    margin-left: 0;
+    margin-left: auto;
   }
 }
 @media (max-width: 991px) {
@@ -37100,8 +37124,8 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-btn-1 {
-    margin-top: -37px;
-    margin-right: 84px;
+    margin-top: 20px;
+    margin-right: 20px;
     margin-left: auto;
   }
 
@@ -37125,8 +37149,8 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    width: auto;
-    margin: -33px auto 38px 20px;
+    margin-top: -33px;
+    margin-bottom: 38px;
   }
 }
 @media (max-width: 575px) {
@@ -37151,8 +37175,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-text-1 {
-    margin-top: -32px;
-    margin-bottom: 44px;
+    margin: 20px 17px 41px 234px;
   }
 }
 .u-footer {

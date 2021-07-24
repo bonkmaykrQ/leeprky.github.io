@@ -477,7 +477,7 @@
   }
 }.u-section-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url("images/68747470733a2f2f692e696d6775722e636f6d2f38526c5a3345442e706e67.png");
-  background-position: 50% 0%;
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-sheet-1 {
@@ -505,7 +505,6 @@
 .u-section-4 .u-slider-1 {
   min-height: 383px;
   width: 763px;
-  height: auto;
   margin: 6px auto 11px;
 }
 
@@ -765,6 +764,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-4 .u-slider-1 {
+    height: auto;
+  }
+
   .u-section-4 .u-text-15 {
     width: 127px;
     margin-right: 253px;
@@ -1175,7 +1178,7 @@
   }
 }.u-section-5 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url("images/68747470733a2f2f692e696d6775722e636f6d2f38526c5a3345442e706e67.png");
-  background-position: 50% 100%;
+  background-position: 50% 50%;
 }
 
 .u-section-5 .u-sheet-1 {
@@ -1444,9 +1447,9 @@
 
 .u-section-6 .u-image-2 {
   min-height: 513px;
-  background-size: auto 115%;
   transition-duration: 0.25s;
   background-image: url("images/DiscordCanary_PbQmAMnhx1.png");
+  background-position: 0% 0%;
 }
 
 .u-section-6 .u-container-layout-2 {
@@ -1456,7 +1459,6 @@
 .u-section-6 .u-slider-1 {
   min-height: 513px;
   width: 570px;
-  height: auto;
   margin: -513px auto 19px 0;
 }
 
@@ -1591,11 +1593,13 @@
   .u-section-6 .u-image-2 {
     background-position: 0% 100%;
     min-height: 479px;
+    background-size: auto 115%;
   }
 
   .u-section-6 .u-slider-1 {
     min-height: 479px;
     width: 407px;
+    height: auto;
     margin-top: -479px;
     margin-bottom: 60px;
   }
@@ -1989,7 +1993,6 @@
 
 .u-section-8 .u-custom-html-1 {
   min-height: 427px;
-  height: auto;
   animation-duration: 1000ms;
   width: 308px;
   margin: 24px auto 0;
@@ -2008,6 +2011,10 @@
 
   .u-section-8 .u-layout-cell-1 {
     min-height: 786px;
+  }
+
+  .u-section-8 .u-custom-html-1 {
+    height: auto;
   }
 }
 
