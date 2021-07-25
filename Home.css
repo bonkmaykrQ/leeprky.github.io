@@ -15,30 +15,12 @@
   border-style: none none double;
   margin: 13px auto 32px;
   padding: 0;
-}
-
-@media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 154px;
-  }
-
-  .u-section-1 .u-text-1 {
-    width: auto;
-    margin-top: 23px;
-    margin-left: 0;
-    margin-right: 0;
-  }
-
-  .u-section-1 .u-btn-1 {
-    margin-top: 0;
-    margin-bottom: 23px;
-  }
 }.u-section-2 {
   background-image: none;
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 329px;
+  min-height: 349px;
 }
 
 .u-section-2 .u-text-1 {
@@ -131,7 +113,7 @@
 .u-section-2 .u-text-5 {
   font-size: 1rem;
   font-weight: 700;
-  margin: 14px auto 18px;
+  margin: 10px auto 22px;
 }
 
 .u-section-2 .u-btn-6 {
@@ -185,7 +167,6 @@
   .u-section-2 .u-text-5 {
     width: auto;
     margin-top: 9px;
-    margin-bottom: 22px;
   }
 }
 
@@ -268,7 +249,7 @@
 
   .u-section-2 .u-text-1 {
     width: 340px;
-    margin-top: 16px;
+    margin-top: 19px;
   }
 
   .u-section-2 .u-line-1 {
@@ -306,7 +287,7 @@
 
   .u-section-2 .u-text-5 {
     margin-top: 7px;
-    margin-bottom: 16px;
+    margin-bottom: 19px;
   }
 }.u-section-3 {
   background-image: linear-gradient(#121314, #0b0b13);
@@ -476,7 +457,7 @@
     margin-left: initial;
   }
 }.u-section-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url("images/68747470733a2f2f692e696d6775722e636f6d2f38526c5a3345442e706e67.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.9), rgba(0,0,0,0.9));
   background-position: 50% 50%;
 }
 
@@ -522,7 +503,6 @@
 .u-section-4 .u-image-1 {
   width: 83px;
   height: 83px;
-  background-image: url("images/e461aa699188bf6f2925db37c30401f1.webp");
   background-position: 50% 50%;
   margin: 55px auto 0;
 }
@@ -551,7 +531,6 @@
 .u-section-4 .u-image-2 {
   width: 83px;
   height: 83px;
-  background-image: url("images/847920711a6b64dee34018060aecb919.webp");
   background-position: 50% 50%;
   margin: 25px auto 0;
 }
@@ -580,7 +559,6 @@
 .u-section-4 .u-image-3 {
   width: 83px;
   height: 83px;
-  background-image: url("images/4bd3c4577079a22358b797bfd647b17c.webp");
   background-position: 50% 50%;
   margin: 25px auto 0;
 }
@@ -609,7 +587,6 @@
 .u-section-4 .u-image-4 {
   width: 83px;
   height: 83px;
-  background-image: url("images/a_4dbb5dbc4bfe32a5e89707ed2ec9f19f.gif");
   background-position: 50% 50%;
   margin: 25px auto 0;
 }
@@ -638,7 +615,6 @@
 .u-section-4 .u-image-5 {
   width: 83px;
   height: 83px;
-  background-image: url("images/0af81d7bc569b265f7b3d58c13bcfb17.webp");
   background-position: 50% 50%;
   margin: 25px auto 0;
 }
@@ -667,7 +643,6 @@
 .u-section-4 .u-image-6 {
   width: 83px;
   height: 83px;
-  background-image: url("images/cae36f543fdf0417cb33c7aea8f853a8.webp");
   background-position: 50% 50%;
   margin: 25px auto 0;
 }
@@ -696,7 +671,6 @@
 .u-section-4 .u-image-7 {
   width: 83px;
   height: 83px;
-  background-image: url("images/317aeb98477335f2058b64229dafae0d.webp");
   background-position: 50% 50%;
   margin: 25px auto 0;
 }
@@ -725,7 +699,6 @@
 .u-section-4 .u-image-8 {
   width: 83px;
   height: 83px;
-  background-image: url("images/f6102785359253d20a94a904b3ff38a0.webp");
   background-position: 50% 50%;
   margin: 25px auto 0;
 }
@@ -819,8 +792,7 @@
   }
 
   .u-section-4 .u-container-layout-1 {
-    padding-left: 65px;
-    padding-right: 65px;
+    padding: 0 65px;
   }
 
   .u-section-4 .u-container-layout-2 {
@@ -1177,7 +1149,7 @@
     margin-left: auto;
   }
 }.u-section-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.9), rgba(0,0,0,0.9)), url("images/68747470733a2f2f692e696d6775722e636f6d2f38526c5a3345442e706e67.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.9), rgba(0,0,0,0.9));
   background-position: 50% 50%;
 }
 
@@ -1222,7 +1194,7 @@
 }
 
 .u-section-5 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/DiscordCanary_9icxoo3P7V.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25));
   background-position: 0% 50%;
 }
 
@@ -1247,7 +1219,7 @@
 }
 
 .u-section-5 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/Discord_brNVhtR2zY.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25));
   background-position: 0% 50%;
 }
 
@@ -1272,7 +1244,7 @@
 }
 
 .u-section-5 .u-image-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25)), url("images/DiscordCanary_iPW6Ojecnh.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25));
   background-position: 0% 50%;
 }
 
@@ -1437,7 +1409,7 @@
 }
 
 .u-section-6 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.65), rgba(0,0,0,0.65)), url("images/DiscordCanary_OyOUNhoHYn.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.65), rgba(0,0,0,0.65));
   background-position: 100% 0%;
 }
 
@@ -1448,8 +1420,7 @@
 .u-section-6 .u-image-2 {
   min-height: 513px;
   transition-duration: 0.25s;
-  background-image: url("images/DiscordCanary_PbQmAMnhx1.png");
-  background-position: 0% 0%;
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-container-layout-2 {
@@ -1468,8 +1439,7 @@
 }
 
 .u-section-6 .u-image-3 {
-  background-image: url("images/DiscordCanary_ZCMTv2G8Fl.png");
-  background-position: 0% 50%;
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-container-layout-3 {
@@ -1477,8 +1447,7 @@
 }
 
 .u-section-6 .u-image-4 {
-  background-image: url("images/DiscordCanary_9icxoo3P7V.png?rand=e3ba");
-  background-position: 0% 50%;
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-container-layout-4 {
@@ -1486,8 +1455,7 @@
 }
 
 .u-section-6 .u-image-5 {
-  background-image: url("images/DiscordCanary_mIWeOUnuvB.png");
-  background-position: 0% 50%;
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-container-layout-5 {
@@ -1495,8 +1463,7 @@
 }
 
 .u-section-6 .u-image-6 {
-  background-image: url("images/DiscordCanary_Qx4ob8lgQB.png");
-  background-position: 0% 50%;
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-container-layout-6 {
@@ -1504,8 +1471,7 @@
 }
 
 .u-section-6 .u-image-7 {
-  background-image: url("images/DiscordCanary_wXhY60gPaX.png");
-  background-position: 0% 50%;
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-container-layout-7 {
@@ -1513,8 +1479,7 @@
 }
 
 .u-section-6 .u-image-8 {
-  background-image: url("images/DiscordCanary_dnMzrQbDFN.png");
-  background-position: 0% 50%;
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-container-layout-8 {
@@ -1522,8 +1487,7 @@
 }
 
 .u-section-6 .u-image-9 {
-  background-image: url("images/DiscordCanary_uypTfh4DdD.png");
-  background-position: 0% 50%;
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-container-layout-9 {
@@ -1531,8 +1495,7 @@
 }
 
 .u-section-6 .u-image-10 {
-  background-image: url("images/DiscordCanary_LCrI55DQHU.png");
-  background-position: 0% 50%;
+  background-position: 50% 50%;
 }
 
 .u-section-6 .u-container-layout-10 {
@@ -1634,8 +1597,16 @@
     margin-top: 22px;
   }
 
+  .u-section-6 .u-container-layout-1 {
+    padding: 0;
+  }
+
   .u-section-6 .u-image-2 {
     min-height: 367px;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding: 0;
   }
 
   .u-section-6 .u-slider-1 {
@@ -1862,18 +1833,11 @@
   font-size: 0.9em;
 }
 
-.u-section-7 .u-line-2 {
-  width: 139px;
-  height: 3px;
-  transform-origin: right center 0px;
-  margin: -878px auto 0;
-}
-
 .u-section-7 .u-text-3 {
   font-weight: 700;
   font-size: 0.875rem;
   animation-duration: 1000ms;
-  margin: 886px 434px 24px 608px;
+  margin: 11px 434px 24px 608px;
 }
 
 @media (max-width: 1199px) {
@@ -1887,12 +1851,9 @@
     margin-left: auto;
   }
 
-  .u-section-7 .u-line-2 {
-    margin-top: -877px;
-  }
-
   .u-section-7 .u-text-3 {
     width: auto;
+    margin-top: 12px;
     margin-right: 341px;
     margin-left: 504px;
   }
@@ -1913,12 +1874,10 @@
     margin-right: 201px;
   }
 
-  .u-section-7 .u-line-2 {
-    margin-top: 12px;
-  }
-
   .u-section-7 .u-text-3 {
-    margin: 12px 212px 25px 399px;
+    margin-right: 212px;
+    margin-bottom: 25px;
+    margin-left: 399px;
   }
 }
 
@@ -2025,6 +1984,10 @@
 
   .u-section-8 .u-layout-cell-1 {
     min-height: 100px;
+  }
+
+  .u-section-8 .u-container-layout-1 {
+    padding: 0;
   }
 }
 
