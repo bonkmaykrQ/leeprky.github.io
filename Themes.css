@@ -9,8 +9,8 @@
 .u-section-1 .u-text-1 {
   letter-spacing: -1px;
   font-weight: 400;
-  width: 334px;
   animation-duration: 1000ms;
+  width: 346px;
   margin: 14px auto 0;
 }
 
@@ -24,7 +24,7 @@
 .u-section-1 .u-text-2 {
   font-weight: 700;
   font-size: 2.25rem;
-  width: 92px;
+  width: 105px;
   margin: 14px auto 0;
 }
 
@@ -100,8 +100,7 @@
 .u-section-2 .u-text-1 {
   text-transform: uppercase;
   font-weight: 400;
-  width: 545px;
-  margin: 14px auto 0;
+  margin: 16px 308px 0 272px;
 }
 
 .u-section-2 .u-btn-1 {
@@ -114,7 +113,7 @@
   width: 150px;
   height: 3px;
   transform-origin: right center 0px;
-  margin: 14px auto 0;
+  margin: 12px auto 0;
 }
 
 .u-section-2 .u-list-1 {
@@ -1253,6 +1252,12 @@
     min-height: 2794px;
   }
 
+  .u-section-2 .u-text-1 {
+    width: 545px;
+    margin-left: 172px;
+    margin-right: 208px;
+  }
+
   .u-section-2 .u-list-1 {
     width: 940px;
     margin-left: 0;
@@ -1705,6 +1710,11 @@
     min-height: 2140px;
   }
 
+  .u-section-2 .u-text-1 {
+    margin-left: 62px;
+    margin-right: 98px;
+  }
+
   .u-section-2 .u-list-1 {
     width: 720px;
   }
@@ -1997,6 +2007,8 @@
 
   .u-section-2 .u-text-1 {
     width: 540px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-2 .u-list-1 {
@@ -2978,7 +2990,7 @@
 
 .u-section-4 .u-text-2 {
   animation-duration: 1000ms;
-  width: 280px;
+  width: 294px;
   margin: 566px auto 24px;
 }
 
