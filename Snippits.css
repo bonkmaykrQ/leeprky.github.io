@@ -56,7 +56,7 @@
 
 .u-section-2 .u-image-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  background-position: 6.28% 50%;
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -407,7 +407,7 @@
   font-weight: 700;
   font-size: 0.9375rem;
   animation-duration: 1000ms;
-  margin: -42px auto 0 523px;
+  margin: -42px auto 0 518px;
   padding: 6px 5px 6px 4px;
 }
 
@@ -433,7 +433,7 @@
 .u-section-2 .u-btn-18 {
   background-image: none;
   animation-duration: 1000ms;
-  margin: 7px auto 0 540px;
+  margin: 7px auto 0 535px;
   padding: 0;
 }
 
@@ -597,7 +597,7 @@
 
   .u-section-2 .u-btn-16 {
     align-self: center;
-    margin-left: 323px;
+    margin-left: 418px;
   }
 
   .u-section-2 .u-btn-17 {
@@ -607,7 +607,7 @@
 
   .u-section-2 .u-btn-18 {
     align-self: center;
-    margin-left: 340px;
+    margin-left: 435px;
   }
 
   .u-section-2 .u-btn-19 {
@@ -681,7 +681,7 @@
   }
 
   .u-section-2 .u-btn-18 {
-    margin-left: 120px;
+    margin-left: 215px;
   }
 
   .u-section-2 .u-btn-19 {
@@ -772,7 +772,7 @@
   }
 
   .u-section-2 .u-btn-16 {
-    margin-left: 0;
+    margin-left: 18px;
   }
 
   .u-section-2 .u-btn-17 {
@@ -780,7 +780,7 @@
   }
 
   .u-section-2 .u-btn-18 {
-    margin-left: 0;
+    margin-left: 35px;
   }
 
   .u-section-2 .u-btn-19 {
