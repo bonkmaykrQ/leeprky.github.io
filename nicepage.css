@@ -39610,10 +39610,6 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-left: 420px;
   }
 
-  .u-footer .u-icon-2 {
-    color: rgb(92, 107, 192) !important;
-  }
-
   .u-footer .u-text-1 {
     width: 437px;
   }
@@ -39628,6 +39624,10 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 767px) {
+  .u-footer .u-icon-2 {
+    color: rgb(92, 107, 192) !important;
+  }
+
   .u-footer .u-text-1 {
     width: 314px;
   }
