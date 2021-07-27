@@ -3108,7 +3108,7 @@
 
 .u-section-4 .u-text-1 {
   animation-duration: 1000ms;
-  width: 446px;
+  width: 684px;
   margin: 30px auto 0;
 }
 
@@ -3152,6 +3152,10 @@
 @media (max-width: 767px) {
   .u-section-4 .u-layout-cell-1 {
     min-height: 894px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: 540px;
   }
 }
 
