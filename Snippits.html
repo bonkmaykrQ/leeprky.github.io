@@ -286,7 +286,7 @@
           <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-4-base u-btn-1" href="TOS.html" data-page-id="278622977">TO​S</a>
         </p>
       </div></footer>
-  <section class="u-black u-clearfix u-container-style u-dialog-block u-opacity u-opacity-70 u-section-8" id="sec-4c27">
+  <section class="u-black u-clearfix u-container-style u-dialog-block u-opacity u-opacity-70 u-section-8" id="sec-4c27" data-dialog-show-on="click">
       <div class="u-container-style u-dialog u-opacity u-opacity-40 u-radius-20 u-shape-round u-white u-dialog-1">
         <div class="u-container-layout u-valign-top u-container-layout-1">
           <div class="u-shortcode u-shortcode-1">/* Compact Expanded Popouts - Leeprky#2063# */
@@ -317,7 +317,6 @@
 .u-section-8 .u-dialog-1 {
   width: 800px;
   min-height: 497px;
-  height: auto;
   margin: 346px auto 60px;
 }
 
@@ -336,6 +335,12 @@
   width: 20px;
   height: 20px;
   background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-dialog-1 {
+    height: auto;
+  }
 }
 
 @media (max-width: 991px) {
