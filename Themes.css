@@ -647,7 +647,7 @@
   font-size: 0.9375rem;
   animation-duration: 1000ms;
   align-self: center;
-  margin: -41px 401px 0 auto;
+  margin: -42px 401px 0 auto;
   padding: 6px 7px 6px 6px;
 }
 
@@ -660,7 +660,7 @@
   font-size: 0.75rem;
   text-transform: uppercase;
   font-weight: normal;
-  margin: 11px 991px 0 70px;
+  margin: 12px 991px 0 70px;
 }
 
 .u-section-2 .u-btn-18 {
@@ -3229,7 +3229,7 @@
   }
 }.u-section-4 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.9), rgba(0,0,0,0.9));
-  background-position: 46.1% 50%;
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-sheet-1 {
