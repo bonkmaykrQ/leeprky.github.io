@@ -67,10 +67,10 @@
 */
 
 /* Floating */
-.quickswitcher-3JagVE, .theme-dark .focused-2bY0OD, .categoryHeader-O1zU94, .theme-dark .container-3ayLPN, .theme-dark .calendarPicker-2yf6Ci .react-datepicker, .theme-dark .autocomplete-1vrmpx, .container-3XJ8ns, .theme-dark .quickSelectPopout-X1hvgV, .theme-dark .addGamePopout-2RY8Ju
+.theme-dark .colorPickerCustom-2CWBn2, .quickswitcher-3JagVE, .theme-dark .focused-2bY0OD, .categoryHeader-O1zU94, .theme-dark .container-3ayLPN, .theme-dark .calendarPicker-2yf6Ci .react-datepicker, .theme-dark .autocomplete-1vrmpx, .container-3XJ8ns, .theme-dark .quickSelectPopout-X1hvgV, .theme-dark .addGamePopout-2RY8Ju
 {background-color: var(--background-floating) !important}
 /* Primary */
-.theme-dark .container-2x5lvQ section, .theme-dark .container-1D34oG, .peopleColumn-29fq28, .theme-dark .perksModal-fSYqOq, .theme-dark .root-1gCeng, .theme-dark .contentWrapper-3WC1ID, .homeWrapper-3-Wh5T
+.theme-dark .progress-1IcQ3A, .theme-dark .container-2x5lvQ section, .theme-dark .container-1D34oG, .peopleColumn-29fq28, .theme-dark .perksModal-fSYqOq, .theme-dark .root-1gCeng, .theme-dark .contentWrapper-3WC1ID, .homeWrapper-3-Wh5T
 { background-color: var(--background-primary) !important}
 
 /* Secondary */
@@ -78,13 +78,13 @@
 { background-color: var(--background-secondary) !important}
 
 /* Secondary Alternative */
-.input-2VB9rf, .theme-dark .container-2x5lvQ, .theme-dark .footer-3mqk7D, .theme-dark .footer-2gL1pp, .theme-dark .tierBody-3aUxuc, .theme-dark .tierMarkerBackground-3q29am,.theme-dark .tierMarkerBackground-3q29am[style="transform: scale(1.625); background: rgb(32, 34, 37);"], .theme-dark .tierBody-16Chc9,  .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover
-{ background-color: var(--background-tertiary) !important;
+.theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3, .theme-dark .defaultIndicator-G3c16x, .input-2VB9rf, .theme-dark .container-2x5lvQ, .theme-dark .footer-3mqk7D, .theme-dark .footer-2gL1pp, .theme-dark .tierBody-3aUxuc, .theme-dark .tierMarkerBackground-3q29am,.theme-dark .tierMarkerBackground-3q29am[style="transform: scale(1.625); background: rgb(32, 34, 37);"], .theme-dark .tierBody-16Chc9,  .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled,.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover
+{ background-color: var(--background-secondary-alt) !important;
   backdrop-filter: brightness(20%) !important;
 }
 
 /* Tertiary */
-.cardPrimaryOutline-29Ujqw, .css-3vaxre-menu, .main-3auUui, .cardPrimary-1Hv-to, .cardPrimaryEditable-3KtE4g, .paymentHistory-2FXzro, .theme-dark .inset-3sAvek, .theme-light .inset-3sAvek
+.noticeRegion-1YviSH [class="container-2VW0UT elevationHigh-1PneE4"], .theme-dark .colorPickerCustom-2CWBn2.cardPrimaryOutline-29Ujqw, .css-3vaxre-menu, .main-3auUui, .cardPrimary-1Hv-to, .cardPrimaryEditable-3KtE4g, .paymentHistory-2FXzro, .theme-dark .inset-3sAvek, .theme-light .inset-3sAvek
 { background-color: var(--background-tertiary) !important}
 
 /* Background Modifier Hover*/
@@ -96,8 +96,10 @@
 {background-color: var(--channeltextarea-background);}
 
 /* Accent */
-.notice-18685F 
-{ background-color: var(--background-accent);}
+.notice-18685F
+{ background-color: var(--background-accent) !important}
+.notice-18685F:hover
+{ background-color: var(--background-accent); filter:saturate(80%)}
 
 /* Display None */
 .theme-dark .option-96V44q:after, .theme-dark .option-96V44q.selected-rZcOL-:after
