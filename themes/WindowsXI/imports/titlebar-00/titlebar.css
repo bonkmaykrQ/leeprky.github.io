@@ -8,15 +8,28 @@
   height: 26.5px;
   margin-top: 4px;
 }
-.wordmark-2iDDfm:after {
-  color: rgb(247, 245, 245);
-  content: "Discord";
-  font-size: 15px;
-  font-weight: 700;
-  position: absolute;
-  width: 4000px;
-  top: 8.8px;
-}
+   .wordmark-2iDDfm:after {
+      color: rgb(247, 245, 245);
+      content: "Discord";
+      font-size: 15px;
+      font-weight: 700;
+      position: absolute;
+      width: 4000px;
+      top: 8.8px;
+    }
+   .wordmark-2iDDfm:before{
+      content: "" var(--version);
+      color: rgba(var(--alt-color), 0.7);
+      background-color: var(--glasscord-secondary-alt);
+      font-size: 14.1px;
+      font-weight: 700;
+      position: absolute;
+      display: var(--display-version) !important;
+      width: 4000px;
+      top: 9.5px;
+      left: calc(var(--Watermark-Alignment) + 310%);
+      display: var(--version-display);
+    }
 .wordmark-2iDDfm {
    left: var(--Watermark-Alignment);
    top: -0.5px;
