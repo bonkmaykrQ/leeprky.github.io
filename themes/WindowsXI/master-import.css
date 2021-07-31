@@ -7,7 +7,7 @@
 
                          █ █▀▄▀█ █▀█ █▀█ █▀█ ▀█▀ █▀
                          █ █░▀░█ █▀▀ █▄█ █▀▄ ░█░ ▄█                             
-                                 １．０．２．２                                       */
+                                 １．０．２．3                                    */
 
 /* ███████████████████ ███████████████████████████████ █████████████████████████  */
 
@@ -70,11 +70,11 @@
 /* Outdated Version Code*/
 :root {
    --theme: "WindowsXI";
-   --build-latest: "059";
-   --version-latest: "v1.0.2.2";
+   --build-latest: "077";
+   --version-latest: "v1.0.3";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
    --theme-dl: "https://github.com/leeprky/WindowsXI"
 }
 
-#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before{display:var(--outdated_windowsXI-059,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
+#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before{display:var(--outdated_windowsXI-077,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
