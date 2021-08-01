@@ -34,6 +34,9 @@
 [style="height: 1644px;"] {
    margin-top: -32px;
 }
+[style="height: 8px;"] {
+   margin-top: -62px;
+}
  [class*="animatedContainer-"] {
     opacity: 0 !important;
  }
