@@ -1,0 +1,19 @@
+.u-section-1 {
+  background-image: linear-gradient(black, #151426);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 217px;
+}.u-section-2 {
+  background-image: linear-gradient(#151426, #151426);
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 160px;
+}.u-section-3 {
+  background-image: linear-gradient(#151426, black);
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 500px;
+}
