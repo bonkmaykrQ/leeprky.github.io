@@ -106,7 +106,7 @@
   font-weight: bold;
   font-size: 0.875rem;
   text-transform: none;
-  margin: -15px 490px 0 600px;
+  margin: -16px 509px 0 auto;
 }
 
 .u-section-1 .u-text-9 {
@@ -114,7 +114,7 @@
   font-weight: bold;
   font-size: 0.875rem;
   text-transform: none;
-  margin: 5px auto 0 472px;
+  margin: 6px auto 0 472px;
 }
 
 .u-section-1 .u-text-10 {
@@ -549,8 +549,7 @@
   }
 
   .u-section-1 .u-text-8 {
-    margin-right: 411px;
-    margin-left: 500px;
+    margin-right: 419px;
   }
 
   .u-section-1 .u-text-9 {
@@ -671,8 +670,7 @@
 
   .u-section-1 .u-text-8 {
     margin-top: -53px;
-    margin-right: 315px;
-    margin-left: 390px;
+    margin-right: 321px;
   }
 
   .u-section-1 .u-text-9 {
@@ -845,8 +843,7 @@
 
   .u-section-1 .u-text-8 {
     margin-top: -73px;
-    margin-right: 236px;
-    margin-left: 300px;
+    margin-right: 241px;
   }
 
   .u-section-1 .u-text-9 {
@@ -1027,8 +1024,7 @@
   }
 
   .u-section-1 .u-text-8 {
-    margin-right: 149px;
-    margin-left: 200px;
+    margin-right: 152px;
   }
 
   .u-section-1 .u-text-9 {
@@ -1342,7 +1338,7 @@
   animation-duration: 1000ms;
   letter-spacing: -3px;
   font-weight: normal;
-  margin: -36px 291px 0;
+  margin: -36px 235px 0 205px;
 }
 
 .u-section-3 .u-shape-2 {
@@ -1386,8 +1382,8 @@
   }
 
   .u-section-3 .u-text-1 {
-    margin-left: 191px;
-    margin-right: 191px;
+    margin-left: 105px;
+    margin-right: 135px;
   }
 }
 
@@ -1398,8 +1394,8 @@
   }
 
   .u-section-3 .u-text-1 {
-    margin-left: 81px;
-    margin-right: 81px;
+    margin-left: 0;
+    margin-right: 20px;
   }
 
   .u-section-3 .u-text-2 {
@@ -1414,7 +1410,6 @@
   }
 
   .u-section-3 .u-text-1 {
-    margin-left: 0;
     margin-right: 0;
   }
 
@@ -1511,7 +1506,7 @@
 }
 
 .u-section-4 .u-image-2 {
-  background-position: 0% 50%;
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-container-layout-2 {
@@ -1519,7 +1514,7 @@
 }
 
 .u-section-4 .u-image-3 {
-  background-position: 0% 50%;
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-container-layout-3 {
@@ -1603,7 +1598,7 @@
 .u-section-4 .u-image-11 {
   min-height: 534px;
   transition-duration: 0.25s;
-  background-position: 0% 50%;
+  background-position: 50% 50%;
 }
 
 .u-section-4 .u-container-layout-11 {
@@ -1863,7 +1858,7 @@
   }
 
   .u-section-4 .u-image-11 {
-    background-position: 0% 50%;
+    background-position: 50% 50%;
     min-height: 307px;
   }
 }.u-section-5 {
