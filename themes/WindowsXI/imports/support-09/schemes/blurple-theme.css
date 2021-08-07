@@ -28,7 +28,7 @@
     --green-bar-bg: var(--green-color) !important;
     --green-slider-on: var(--green-color) !important;
     --green-slider-off: #2b3555 !important;
-    --green-slider-dot: #fff; !important;
+    --green-slider-dot: #fff !important;
 
     /* Indiicator */
     --indicator-connected: 60, 150, 60 !important;
