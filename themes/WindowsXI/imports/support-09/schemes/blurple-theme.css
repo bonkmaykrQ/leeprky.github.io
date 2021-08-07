@@ -1,9 +1,49 @@
+:root {
+
+    /* Gradients */
+    --default-gradient: 315deg, rgba(var(--alt-color), 0.6) 0%, rgba(var(--alt-color), 0.8) 74% !important;
+    --special-gradient: 315deg, rgba(var(--alt-color), 0.1) 0%, #c987b8 74% !important;
+    --red-gradient: 315deg, #AA3738 0%, #F04747 74% !important;
+    --red-hsl: hsl(359, 63%, 53%) !important;
+    --yellow-gradient: 315deg, #c29b1b 0%, #ffa640 74% !important;
+    --yellow-hsl: hsl(46, 72%, 52%) !important;
+    --green-gradient: 315deg, #507a73 0%, #4b7c72  74% !important;
+    --grey-gradient: 315deg, rgba(var(--alt-color), 0.6) 0%, rgba(var(--alt-color), 0.8) 74% !important;
+    --white-gradient: 315deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.342) 74% !important;
+       
+    /* Transitions */
+    --font-normal: 500;
+    --font-hover: bold;
+    --font-size-hover: 15px;
+    --hover-transition: 0.1s linear;
+    --transform-normal: scale(1);
+    --hover-transform: scale(1.15);
+    --setting-hover-transform: scale(1.025);
+    --button-hover-transform: scale(1.03);
+ 
+    /* Greenple Colour*/
+    --green-color: var(--alt-color2);
+    --green-color2: var(--alt-color);
+    --green-bar-on: #2b3555 !important;
+    --green-bar-bg: var(--green-color);
+    --green-slider-on: var(--green-color);
+    --green-slider-off: #2b3555 !important;
+    --green-slider-dot: #fff;
+
+    /* Indiicator */
+    --indicator-connected: 60, 150, 60;
+    --indicator-hovered: rgba(36, 36, 36, 0.25);
+    --indicator-unread: 255, 255, 255;
+    --indicator-selected: var(--alt-color);
+    --indicator-rounding: 4px !important;
+}
+
 /*  █▀▄ ▄▀█ █▀█ █▄▀
     █▄▀ █▀█ █▀▄ █░█ */
    
    .theme-dark {
 
-      --channeltextarea-background: var(--background-secondary);
+      --channeltextarea-background: var(--background-secondary) !important
    
       --alt-color: 103, 124, 192;
       --alt-color2: #677CC0 !important;
