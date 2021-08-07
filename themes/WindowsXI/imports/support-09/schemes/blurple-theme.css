@@ -43,7 +43,7 @@
    
    .theme-dark {
 
-      --channeltextarea-background: var(--background-secondary) !important
+      --channeltextarea-background: var(--background-secondary) !important;
    
       --alt-color: 103, 124, 192;
       --alt-color2: #677CC0 !important;
