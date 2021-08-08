@@ -205,7 +205,11 @@ ul.tree-2wKJdG:focus {
                display: none !important;
             }
 /* PowercordToasts */
-.powercord-toast {border-radius: 18px; background-color: transparent;}
+
+.powercord-toast {
+   border-radius: 18px;
+   background-color: var(--background-floating);
+}
 .powercord-toast .header { background-color: var(--toast-header); border-radius: 12px 12px 0px 0px;}
 .powercord-toast .buttons { background-color: var(--background-secondary); border-radius: 0px 0px 10px 10px;}
 .lookGhost-2Fn_0-.colorBrand-3pXr91 { color: #F4F7F5; background-color: var(--background-help-info)}
