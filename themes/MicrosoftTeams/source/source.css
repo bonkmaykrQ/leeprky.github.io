@@ -2,7 +2,6 @@
 .app-1q1i1E,.mobileApp-13Vx-n{margin-top:44px}
 .winButton-iRh8-Z [aria-hidden="false"][width="12"][height="12"]{margin-top:4.5px}
 .winButton-iRh8-Z{color:#fff;transform:scale(1)}
-;
 .titleBar-AC4pGV > :nth-child(2):hover{background-color:#E81123;color:#fff}
 .titleBar-AC4pGV > :nth-child(3):hover{backdrop-filter:brightness(40%);color:#fff}
 .titleBar-AC4pGV > :nth-child(4):hover{backdrop-filter:brightness(40%);color:#fff}
@@ -145,3 +144,5 @@ path[d="M20 11.1111H12.8889V4H11.1111V11.1111H4V12.8889H11.1111V20H12.8889V12.88
 .root-3QyAh1 .listScroller-3GmIYj .listRow-1iDGel .iconSizeMedium-2OqPjI{filter:blur(var(--blur-the-things));width:calc(var(--user-modal-avatar-size) * 1/3)!important;height:calc(var(--user-modal-avatar-size) * 1/3)!important}
 .root-3QyAh1 .listScroller-3GmIYj .listName-U3shDM,.root-3QyAh1 .listScroller-3GmIYj .listRowContent-i8Bizk{margin-top:2px;display:none}
 .listRow-1iDGel:hover{background-color:transparent}
+.chat-3bRxxu {box-shadow: -2px 5px 15px #0f0f0f;}
+.layers-3iHuyZ {box-shadow: 0px 5px 15px #0e0d0d;}
