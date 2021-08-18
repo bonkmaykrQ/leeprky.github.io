@@ -808,7 +808,7 @@
         transition:300ms
         }
         
-        [class="listItem-GuPuDH selected"], [class="listItem-GuPuDH unread selected"], {
+        [class="listItem-GuPuDH selected"], [class="listItem-GuPuDH unread selected"] {
         background-color:rgba(var(--alt-color),0.6);
         padding-top:5px;
         padding-bottom:5px;
