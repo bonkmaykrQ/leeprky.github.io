@@ -97,9 +97,9 @@ path[d="M19.738 10H22V14H19.739C19.498 14.931 19.1 15.798 18.565 16.564L20 18L18
 .contentRegionScroller-26nc1e,.contentRegion-3nDuYy,.standardSidebarView-3F1I7i,.sidebarRegionScroller-3MXcoP{background:transparent}
 .container-23jqbX .list-I3aHXn .side-8zPYf6 [class="row-3GRgeK item-PXvHYJ themed-OHr7kt"]::before,[class="row-3GRgeK item-PXvHYJ selected-3s45Ha themed-OHr7kt"]::before{display:none}
 .panels-j1Uci_{position:relative;bottom:10px;margin-left:10px;margin-right:10px;border-radius:8px;border-width:1.9px;border-color:#6C6C6C;border-style:solid;background-color:var(--background-secondary)}
-[aria-label="Noise suppression powered by Krisp"],[aria-label="Disconnect"]{position:relative;top:38px;left:-61px;transform:scale(0.95)}
+[aria-label="Noise suppression powered by Krisp"],.connection-3KRENF [aria-label="Disconnect"]{position:relative;top:38px;left:-61px;transform:scale(0.95)}
 .actionButtons-14eAc_{position:absolute;top:5px;right:-4px}
-#app-mount .lookFilled-1Gx00P.colorBrand-3pXr91:not(.buttonActive-3FrkXp)[aria-label="Turn on camera"],#app-mount .lookFilled-1Gx00P.colorBrand-3pXr91:not(.buttonActive-3FrkXp)[aria-label="Share Your screen"],#app-mount .lookFilled-1Gx00P.colorBrand-3pXr91:not(.buttonActive-3FrkXp)[aria-label="Start an Activity"]{background-color:transparent!important;background:transparent;margin-left:-20px}
+#app-mount .lookFilled-1Gx00P.colorBrand-3pXr91:not(.buttonActive-3FrkXp)[aria-label="Turn on camera"],#app-mount .lookFilled-1Gx00P.colorBrand-3pXr91:not(.buttonActive-3FrkXp)[aria-label="Share Your screen"],#app-mount .lookFilled-1Gx00P.colorBrand-3pXr91:not(.buttonActive-3FrkXp)[aria-label="Start an Activity"],#app-mount .lookFilled-1Gx00P.colorGreen-29iAKY,#app-mount .lookFilled-1Gx00P.buttonActive-3FrkXp[aria-label="Share Your screen"]{background-color:transparent!important;background:transparent;margin-left:-20px}
 #app-mount .lookFilled-1Gx00P.colorBrand-3pXr91:not(.buttonActive-3FrkXp)[aria-label="Turn on camera"]:hover,#app-mount .lookFilled-1Gx00P.colorBrand-3pXr91:not(.buttonActive-3FrkXp)[aria-label="Share Your screen"]:hover,#app-mount .lookFilled-1Gx00P.colorBrand-3pXr91:not(.buttonActive-3FrkXp)[aria-label="Start an Activity"]:hover{background-color:var(--background-modifier-hover)!important;background:transparent;margin-left:-20px}
 .container-3baos1{margin-bottom:-23px}
 .hoverRoll-YK53gQ,[class="size12-3cLvbJ subtext-3CDbHg channel-1TmDQ6"]{display:none}
@@ -192,3 +192,15 @@ path[d="M20 11.1111H12.8889V4H11.1111V11.1111H4V12.8889H11.1111V20H12.8889V12.88
 .bodyInnerWrapper-26fQXj{background-color:transparent}
 .popoutBanner-19WKGg,.footer-3UKYOU,.pc-connections .connectedAccounts-QlRa4m:empty::before,.setIdentityLink-1t8Ahd{display:none}
 .input-cIJ7To:hover,.input-cIJ7To,.note-1oo11U,.textarea-2r0oV8,.inputDefault-_djjkz,.input-cIJ7To,.scrollbarGhostHairline-1mSOM1{background-color:transparent!important}
+.root-217Brm{background-color:var(--background-secondary)!important}
+.callContainer-36WRfH,.wrapper-2qzCYF.minimum-28Z35l{min-height:650px}
+.controlSection-2h3cS0 .headerWrapper-3NUKsd .container-1r6BKw.transparent-2ZlE3R{background:#1F1F1F;min-height:60px}
+.voiceCallWrapper-3kPwHm{transform:scale(1.6)}
+.border-Jn5IOt{left:10px!important;position:absolute}
+.colorable-1bkp8v.red-33-Lnk,.colorable-1bkp8v.red-33-Lnk .centerIcon-2G6o-T{width:90px;height:20px;border-radius:3px;background-color:#AF243D}
+.wrapper-3EGhDO{top:-632px;right:-0;position:fixed}
+.controlButton-2MhVEL{margin:0 2px}
+.colorable-1bkp8v.primaryDark-3mSFDl{background-color:transparent!important;transform:scale(0.98)}
+.colorable-1bkp8v.primaryDark-3mSFDl[aira-label="Turn Off Camera"]{background-color:transparent!important;transform:scale(0.98)}
+.controlSection-2h3cS0 .headerWrapper-3NUKsd .title-3qD0b- .toolbar-1t6TWx .iconWrapper-2OrFZ1{left:-290px}
+.controlSection-2h3cS0 .headerWrapper-3NUKsd .title-3qD0b- .toolbar-1t6TWx .search-36MZv- .search-2oPWTC .searchBar-3dMhjb{display:none}
