@@ -16,3 +16,19 @@
    .contentRegionScroller-26nc1e,.contentRegion-3nDuYy,.standardSidebarView-3F1I7i,.sidebarRegionScroller-3MXcoP{background:transparent}
    .titleContainer-2CXtJo{border-radius:10px;padding-top:10px;padding-bottom:10px;top:5px}
    .header-2mZ9Ov{border-radius:10px;padding-top:10px;padding-bottom:10px;top:5px}
+.gameName-1RiWHm {
+  z-index: 1 !important;
+  width: unset !important;
+}
+.gameVerifiedIcon-2dGGa5 {
+  margin-left: 8px !important;
+}
+.gameNameLastPlayed-3LJo8n>div>div {
+  position: relative;
+  width: 100%;
+  left: unset !important;
+  top: unset !important;
+  margin-left: unset;
+  margin-top: unset;
+  z-index: unset;
+}
