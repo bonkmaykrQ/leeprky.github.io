@@ -1,5 +1,52 @@
 :root {
-      /* Gradients */
+  --alt-color: var(--main-colour);
+  --alt-color2: var(--main-colour2);
+  --alt-color3: var(--main-colour3);
+  --header-primary: var(--headers);
+  --header-secondary: var(--headers-secondary);
+  --channeltextarea-background: var(--chatbox-colour);
+  --text-normal: var(--text);
+  --text-muted: var(--muted) !important;
+  --text-link: var(--links);
+  --text-link-self: var(--links-from-self);
+  --channels-default: var(--namesusernames);
+  --interactive-normal: var(--button-interactive);
+  --interactive-hover: var(--button-interactive-hover);
+  --interactive-active: var(--button-interactive-active);
+  --interactive-muted: var(--button-interactive-muted);
+  --background-primary: var(--main-background) ;
+  --background-primary-alt: var(--main-background-alternative);
+  --background-secondary: var(--secondary-background) ;
+  --background-secondary-alt: var(--secondary-background-alternative);
+  --background-tertiary: var(--tertiary) ;
+  --background-accent: var(--accent) ;
+  --background-floating: var(--floating);
+  --indicator-connected: var(--connected);
+  --indicator-hovered: var(--hovered);
+  --indicator-unread: var(--unread);
+  --indicator-selected: var(--selected);
+  --indicator-rounding: var(--rounding);
+  --background-mentioned: var(--mentioned);
+  --background-mentioned-hover: var(--mentioned-hover);
+  --info-warning-foreground: var(--info-warning);
+  --text-positive: var(--text-positive1);
+  --background-help-warning: var(--help-warning);
+  --background-help-info: var(--help-info);
+  --background-modifier-hover: var(--main-hover);
+  --background-modifier-active: var(--main-hover-active);
+  --background-modifier-selected: var(--main-hover-selected); 
+  --background-modifier-accent:var(--main-hover-accent); 
+  --elevation-stroke: var(--shadow-stroke);
+  --elevation-low: var(--shadow-low);
+  --elevation-medium: var(--shadow-medium);
+  --elevation-high: var(--shadow-high);
+  --scrollbar-thin-thumb: var(--scrollbar-small);
+  --scrollbar-thin-track: var(--scrollbar-thin-track);
+  --scrollbar-auto-thumb: var(--scrollbar-large-thumb);
+  --scrollbar-auto-track: var(--scrollbar-large-track);
+  --scrollbar-auto-scrollbar-color-thumb: var(--scrollbar-small-scrollbar-color);
+  --scrollbar-auto-scrollbar-color-track: var(--scrollbar-small-scrollbar-color-track);
+  --radio-group-dot-foreground: var(--radio-group-dot);
     --default-gradient: 315deg, rgba(var(--alt-color), 0.6) 0%, rgba(var(--alt-color), 0.8) 74%;
     --special-gradient: 315deg, rgba(var(--alt-color), 0.1) 0%, #c987b8 74%;
     --red-gradient: 315deg, #AA3738 0%, #F04747 74%;
@@ -9,8 +56,6 @@
     --green-gradient: 315deg, #507a73 0%, #4b7c72  74%;
     --grey-gradient: 315deg, rgba(var(--alt-color), 0.6) 0%, rgba(var(--alt-color), 0.8) 74%;
     --white-gradient: 315deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.342) 74%;
-       
-    /* Transitions */
     --font-normal: 500;
     --font-hover: bold;
     --font-size-hover: 15px;
@@ -19,12 +64,10 @@
     --hover-transform: scale(1.15);
     --setting-hover-transform: scale(1.025);
     --button-hover-transform: scale(1.03);
-
     --settings-icon-color: var(--alt-color2);
     --settings-subscriptions: var(--alt-color2);
     --settings-hypesquad: #fbb848;
     --settings-logout: #f04747;
-
     --settings-icon-color: white;
     --settings-subscriptions: white;
     --settings-hypesquad: var(--yellow);
