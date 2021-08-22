@@ -1,9 +1,9 @@
-.userPopout-xaxa6l {
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
+/* Leeprky */
+.userPopout-xaxa6l[aria-label="Leeprky"] .headerNormal-3KXFBt [class="banner-2QYc2d popoutBannerPremium-1n96gg bannerPremium-2hSAwz"] {
+background-image: url("https://media1.giphy.com/media/jTNq2YmZ8P9OlRX1Ub/200.webp") !important;
 }
 
-.userPopout-xaxa6l[aria-label="Leeprky"]{
-    background-image: url("https://media1.giphy.com/media/jTNq2YmZ8P9OlRX1Ub/200.webp") !important;
+/* 01C1 */
+.userPopout-xaxa6l[aria-label="01C1"] .headerNormal-3KXFBt [class="banner-2QYc2d popoutBannerPremium-1n96gg bannerPremium-2hSAwz"] {
+background-image: url("https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F24.media.tumblr.com%2F8b7e2dc271761981870c6847fbaed003%2Ftumblr_mv6ph7gaxK1sq027zo1_500.gif&f=1&nofb=1") !important;
 }
