@@ -1,3 +1,39 @@
+:root {
+      /* Gradients */
+    --default-gradient: 315deg, rgba(var(--alt-color), 0.6) 0%, rgba(var(--alt-color), 0.8) 74%;
+    --special-gradient: 315deg, rgba(var(--alt-color), 0.1) 0%, #c987b8 74%;
+    --red-gradient: 315deg, #AA3738 0%, #F04747 74%;
+    --red-hsl: hsl(359, 63%, 53%);
+    --yellow-gradient: 315deg, #c29b1b 0%, #ffa640 74%;
+    --yellow-hsl: hsl(46, 72%, 52%);
+    --green-gradient: 315deg, #507a73 0%, #4b7c72  74%;
+    --grey-gradient: 315deg, rgba(var(--alt-color), 0.6) 0%, rgba(var(--alt-color), 0.8) 74%;
+    --white-gradient: 315deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.342) 74%;
+       
+    /* Transitions */
+    --font-normal: 500;
+    --font-hover: bold;
+    --font-size-hover: 15px;
+    --hover-transition: 0.1s linear;
+    --transform-normal: scale(1);
+    --hover-transform: scale(1.15);
+    --setting-hover-transform: scale(1.025);
+    --button-hover-transform: scale(1.03);
+
+    --settings-icon-color: var(--alt-color2);
+    --settings-subscriptions: var(--alt-color2);
+    --settings-hypesquad: #fbb848;
+    --settings-logout: #f04747;
+
+    --settings-icon-color: white;
+    --settings-subscriptions: white;
+    --settings-hypesquad: var(--yellow);
+    --settings-logout: var(--red);
+    --settings-alt-focused: white;
+    --settings-guild-premium: #7289da;
+    --settings-guild-delete: var(--red);
+}
+
 .appMount-3lHmkl,body,.bg-h5JY_x{background-color:var(--alt-color2)}
 .app-1q1i1E,.mobileApp-13Vx-n{margin-top:44px}
 .winButton-iRh8-Z [aria-hidden="false"][width="12"][height="12"]{margin-top:4.5px}
@@ -216,3 +252,5 @@ path[d="M20 11.1111H12.8889V4H11.1111V11.1111H4V12.8889H11.1111V20H12.8889V12.88
 .role-2irmRk{position:relative;overflow:hidden;border:none;padding:5px;filter:saturate(70%);transition:300ms}
 .roleCircle-3xAZ1j::before{content:'';position:absolute;top:0;left:0;width:100%;height:100%;background:inherit;opacity:.2;pointer-events:none;filter:saturate(70%);transition:300ms}
 .roleCircle-3xAZ1j:hover,.role-2irmRk:hover{filter:saturate(180%);transition:300ms}
+.message-2qnXI6.selected-2P5D_Z, .mouse-mode.full-motion .message-2qnXI6:hover {background-color: var(--mentioned-hover);}
+*::-webkit-scrollbar {display: var(--scrollbars);}
