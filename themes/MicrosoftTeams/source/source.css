@@ -128,7 +128,7 @@ path[d="M19.738 10H22V14H19.739C19.498 14.931 19.1 15.798 18.565 16.564L20 18L18
 .circleIconButton-1QV--U{background-color:transparent}
 path[d="M20 11.1111H12.8889V4H11.1111V11.1111H4V12.8889H11.1111V20H12.8889V12.8889H20V11.1111Z"]{d:path("M16.002 8.00598C16.002 10.211 14.208 12.006 12.002 12.006C9.79695 12.006 8.00195 10.211 8.00195 8.00598C8.00195 5.80098 9.79595 4.00598 12.002 4.00598C14.208 4.00598 16.002 5.80098 16.002 8.00598ZM4.00195 19.006C4.00195 15.473 7.29195 13.006 12.002 13.006C16.713 13.006 20.002 15.473 20.002 19.006V20.006H4.00195V19.006Z")}
 .theme-dark .root-1gCeng .body-r6_QPy,.topSection-y3p-_D .tabBarContainer-37hZsr .tabBar-3nvOPa,.tabBarItem-3dfX8P{display:table;margin-bottom:15px;font-size:16px;margin-left:8px}
-.theme-dark .root-1gCeng .tabBarContainer-37hZsr{top:100px;position:relative}
+.theme-dark .root-1gCeng .topSection-y3p-_D .tabBarContainer-37hZsr{top:100px;position:relative}
 .nameTag-ECvD8P{top:80px;left:20px;width:150px;text-overflow:ellipsis}
 .top-28JiJ- .item-PXvHYJ,.top-28JiJ- .selected-3s45Ha.themed-OHr7kt.item-PXvHYJ,.top-28JiJ- .themed-OHr7kt.item-PXvHYJ:active{border-bottom-color:transparent;top:0}
 .body-r6_QPy{position:absolute;background-color:transparent;left:170px;top:30px;height:350px;width:400px}
@@ -187,10 +187,10 @@ path[d="M20 11.1111H12.8889V4H11.1111V11.1111H4V12.8889H11.1111V20H12.8889V12.88
 .avatarPositionPremium-3We5Ho{top:0;transform:scale(0.9)}
 .customStatus-oN4ZZY{margin-top:5px}
 .role-2irmRk{background-color:rgba(var(--alt-color),0.2)}
-.popoutBannerPremium-1n96gg{height:var(--popout-height);border-radius:12px 12px 12px 12px}
+.popoutBannerPremium-1n96gg,.popoutBanner-19WKGg{height:var(--popout-height);border-radius:12px 12px 12px 12px}
 .userPopout-xaxa6l{height:var(--popout-height)}
 .bodyInnerWrapper-26fQXj{background-color:transparent}
-.popoutBanner-19WKGg,.footer-3UKYOU,.pc-connections .connectedAccounts-QlRa4m:empty::before,.setIdentityLink-1t8Ahd{display:none}
+.footer-3UKYOU,.pc-connections .connectedAccounts-QlRa4m:empty::before,.setIdentityLink-1t8Ahd{display:none}
 .input-cIJ7To:hover,.input-cIJ7To,.note-1oo11U,.textarea-2r0oV8,.inputDefault-_djjkz,.input-cIJ7To,.scrollbarGhostHairline-1mSOM1{background-color:transparent!important}
 .root-217Brm{background-color:var(--background-secondary)!important}
 .callContainer-36WRfH,.wrapper-2qzCYF.minimum-28Z35l{min-height:650px}
