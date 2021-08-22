@@ -1,0 +1,9 @@
+.userPopout-xaxa6l {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.userPopout-xaxa6l[aria-label="Leeprky"]{
+    background-image: url("https://media1.giphy.com/media/jTNq2YmZ8P9OlRX1Ub/200.webp") !important;
+}
