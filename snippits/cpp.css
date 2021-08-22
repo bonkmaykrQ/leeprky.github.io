@@ -1,9 +1,9 @@
 [class="banner-2QYc2d popoutBannerPremium-1n96gg bannerPremium-2hSAwz"],
 [class="banner-2QYc2d popoutBanner-19WKGg"] 
 {
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-position: center !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
 }
 
 /* Leeprky */
