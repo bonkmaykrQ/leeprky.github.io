@@ -18,7 +18,7 @@
 */
 
  /* green-color */
- [class="item-3HknzM item-PXvHYJ themed-OHr7kt"][aria-label="Add Friend"]
+ [class="item-3HknzM item-PXvHYJ themed-OHr7kt"][aria-label="Add Friend"], [class="item-3HknzM item-PXvHYJ themed-OHr7kt"][data-item-id="ADD_FRIEND"]
  {background-color: var(--green-color) !important;}
 
  /* green-bar-on */
