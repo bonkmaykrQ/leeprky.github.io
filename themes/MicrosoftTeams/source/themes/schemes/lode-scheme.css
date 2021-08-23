@@ -4,6 +4,7 @@
   --speed: 6s !important;
   --topbar-animation-colour: 124deg, rgb(59, 218, 218), rgb(59, 147, 218), rgb(62, 189, 140), rgb(62, 189, 129) !important;
 }
+.theme-dark .wrapper-3NnKdC, .theme-dark .scroller-1Bvpku {background-color: var(--background-secondary-alt) !important;}
 .theme-dark {
 
   /* Main Colours - Try Keep These The Same */
