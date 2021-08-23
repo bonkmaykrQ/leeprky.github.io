@@ -1,9 +1,20 @@
+/*
+░▒█▀▄▀█░█▀▀▄░▒█▀▀▀█░▀▀█▀▀░▒█▀▀▀░▒█▀▀▄░░░▀█▀░▒█▀▄▀█░▒█▀▀█░▒█▀▀▀█░▒█▀▀▄░▀▀█▀▀
+░▒█▒█▒█▒█▄▄█░░▀▀▀▄▄░░▒█░░░▒█▀▀▀░▒█▄▄▀░░░▒█░░▒█▒█▒█░▒█▄▄█░▒█░░▒█░▒█▄▄▀░░▒█░░
+░▒█░░▒█▒█░▒█░▒█▄▄▄█░░▒█░░░▒█▄▄▄░▒█░▒█░░░▄█▄░▒█░░▒█░▒█░░░░▒█▄▄▄█░▒█░▒█░░▒█░░
+*/
+
+/* Important */
+@import "https://leeprky.github.io/themes/MicrosoftTeams/version.css";
+@import "https://leeprky.github.io/themes/MicrosoftTeams/source/source.css";
+
+/* Tools */
 @import "https://leeprky.github.io/themes/FullyThemedDiscord/FullyThemedDiscord.css";
 @import "https://leeprky.github.io/themes/BaseStuff/alt-color.css"; 
 @import "https://leeprky.github.io/snippits/coolsniipitsforthemes.css"; 
 @import "https://leeprky.github.io/themes/lode/default/support/gradients/luckfiregradientbuttons.css";
 @import "https://leeprky.github.io/themes/GreenBeGo/greenple-replacer.css";
-@import url('https://snappercord.github.io/Settings-Icons/source.css');
 
-@import "https://leeprky.github.io/themes/MicrosoftTeams/version.css";
-@import url(https://leeprky.github.io/themes/MicrosoftTeams/source/source.css);
+/* Other */
+@import "https://snappercord.github.io/Settings-Icons/source.css";
+
