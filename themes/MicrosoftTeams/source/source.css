@@ -227,3 +227,6 @@ path[d="M20 11.1111H12.8889V4H11.1111V11.1111H4V12.8889H11.1111V20H12.8889V12.88
 .content-1Wq3SX{margin-left:5px}
 .root-217Brm{background-color:var(--secondary-background)!important}
 .warningCircleIcon-cBU5e2{left:53px;top:76px;transform:scale(0.89)}
+.wrapper-3Njo_c [role="group"]{
+  margin-bottom: calc(0px + 80px);
+}
