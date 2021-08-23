@@ -1,3 +1,9 @@
+@import "https://leeprky.github.io/themes/MicrosoftTeams/source/TopBar/main.css";
+:root {
+  --speed: 12s !important;
+  --topbar-animation-colour: 124deg, #4C46A3, #5d87d6 !important;
+}
+
 .theme-dark {
 
   /* Main Colours - Try Keep These The Same */
