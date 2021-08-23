@@ -10,7 +10,7 @@
 .userPopout-xaxa6l[aria-label="Leeprky"] .headerNormal-3KXFBt [class="banner-2QYc2d popoutBannerPremium-1n96gg bannerPremium-2hSAwz"], 
 .userPopout-xaxa6l[aria-label="Leeprky"] .headerNormal-3KXFBt [class="banner-2QYc2d popoutBanner-19WKGg"] 
 {
-  background-image: var(--user-background) !important;
+	background: var(--user-background) center/cover no-repeat;
 }
 */
   
