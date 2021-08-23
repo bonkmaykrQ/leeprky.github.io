@@ -5,3 +5,7 @@
 .bd-button:hover{background-color:var(--bd-color-hover)}
 #bd-pub-button:hover{background-color:var(--bd-color-hover)}
 #bd-pub-li{display:var(--public-servers)}
+
+.info-1VyQPT:after {
+  top: 11px !important;
+}
