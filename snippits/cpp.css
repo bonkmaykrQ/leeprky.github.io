@@ -7,11 +7,10 @@
 }
 
 /* Leeprky */
-/*
 .userPopout-xaxa6l[aria-label="Leeprky"] .headerNormal-3KXFBt [class="banner-2QYc2d popoutBannerPremium-1n96gg bannerPremium-2hSAwz"], 
 .userPopout-xaxa6l[aria-label="Leeprky"] .headerNormal-3KXFBt [class="banner-2QYc2d popoutBanner-19WKGg"] 
 {
-  background-image: url("https://media1.giphy.com/media/jTNq2YmZ8P9OlRX1Ub/200.webp") !important;
+  background-image: var(--user-background) !important;
 }
 */
   
