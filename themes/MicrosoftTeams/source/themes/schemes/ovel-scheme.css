@@ -3,7 +3,7 @@
   --speed: 12s !important;
   --topbar-animation-colour: 124deg, #4C46A3, #5d87d6 !important;
 }
-
+.theme-dark .wrapper-3NnKdC, .theme-dark .scroller-1Bvpku {background-color: var(--background-secondary-alt) !important;}
 .theme-dark {
 
   /* Main Colours - Try Keep These The Same */
