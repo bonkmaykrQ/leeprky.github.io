@@ -119,7 +119,7 @@ path[d="M19.738 10H22V14H19.739C19.498 14.931 19.1 15.798 18.565 16.564L20 18L18
 [class="listItem-GuPuDH mentioned"]:hover{background-color:rgba(var(--alt-color),0.5);transition:300ms}
 [class="listItem-GuPuDH"]{padding-top:5px;padding-bottom:5px;transition:300ms}
 [class="listItem-GuPuDH"]:hover{background-color:rgba(var(--alt-color),0.5);transition:300ms}
-[class="listItem-GuPuDH unread"],[class="listItem-GuPuDH unread mentioned"]{padding-top:5px;padding-bottom:5px;transition:300ms;background-color:rgba(var(--alt-color),0.2)}
+[class="listItem-GuPuDH unread"],[class="listItem-GuPuDH bd-guild bd-unread"],[class="listItem-GuPuDH bd-guild bd-unread bd-selected bd-audio"],[class="listItem-GuPuDH bd-guild bd-muted"],[class="listItem-GuPuDH bd-guild bd-badge bd-muted"],[class="listItem-GuPuDH unread mentioned"]{padding-top:5px;padding-bottom:5px;transition:300ms;background-color:rgba(var(--alt-color),0.2)}
 [class="listItem-GuPuDH unread"]:hover,[class="listItem-GuPuDH unread mentioned"]:hover{background-color:rgba(var(--alt-color),0.5);transition:300ms}
 [class="listItem-GuPuDH selected"],[class="listItem-GuPuDH unread selected"],[class="listItem-GuPuDH selected audio"],[class="listItem-GuPuDH unread audio"],[class="listItem-GuPuDH unread selected audio"],[class="listItem-GuPuDH unread mentioned selected audio"]{background-color:rgba(var(--alt-color),0.6);padding-top:5px;padding-bottom:5px;transition:300ms}
 .expandedFolderBackground-1cujaW{width:80px;margin-left:-15px;border-radius:8px;background-color:rgba(var(--alt-color),0.2)}
