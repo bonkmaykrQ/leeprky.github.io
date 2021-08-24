@@ -9,3 +9,6 @@
 .info-1VyQPT:after {
   top: 11px !important;
 }
+.contents-2mQqc9>.markup-2BOw-j:not(:empty) {
+  background-color: var(--messages-color);
+}
