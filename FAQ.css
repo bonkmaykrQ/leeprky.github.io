@@ -11,8 +11,7 @@
   background-image: none;
   text-transform: uppercase;
   font-weight: 500;
-  width: 565px;
-  margin: 19px auto 0;
+  margin: 131px 288px 0;
 }
 
 .u-section-1 .u-line-1 {
@@ -29,7 +28,7 @@
 
 .u-section-1 .u-accordion-1 {
   width: 894px;
-  margin: 22px auto 60px;
+  margin: 27px auto 60px;
 }
 
 .u-section-1 .u-accordion-link-1 {
@@ -49,7 +48,6 @@
   background-image: none;
   margin-right: auto;
   margin-left: auto;
-  height: auto;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -78,7 +76,6 @@
   background-image: none;
   margin-right: auto;
   margin-left: auto;
-  height: auto;
 }
 
 .u-section-1 .u-container-layout-2 {
@@ -87,7 +84,7 @@
 
 .u-section-1 .u-text-4 {
   margin-bottom: 0;
-  margin-top: 0;
+  margin-top: 37px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -103,7 +100,7 @@
 .u-section-1 .u-video-1 {
   width: 750px;
   height: 419px;
-  margin: -502px 30px 0 auto;
+  margin: -514px auto 0 39px;
 }
 
 .u-section-1 .embed-responsive-1 {
@@ -130,7 +127,6 @@
   background-image: none;
   margin-right: auto;
   margin-left: auto;
-  height: auto;
 }
 
 .u-section-1 .u-container-layout-3 {
@@ -147,7 +143,9 @@
   }
 
   .u-section-1 .u-text-1 {
+    width: 565px;
     margin-right: 187px;
+    margin-left: 188px;
   }
 
   .u-section-1 .u-text-2 {
@@ -160,12 +158,24 @@
     color: rgb(128, 128, 128);
   }
 
+  .u-section-1 .u-accordion-pane-1 {
+    height: auto;
+  }
+
   .u-section-1 .u-icon-2 {
     color: rgb(128, 128, 128);
   }
 
+  .u-section-1 .u-accordion-pane-2 {
+    height: auto;
+  }
+
   .u-section-1 .u-icon-3 {
     color: rgb(128, 128, 128);
+  }
+
+  .u-section-1 .u-accordion-pane-3 {
+    height: auto;
   }
 }
 
@@ -176,6 +186,7 @@
 
   .u-section-1 .u-text-1 {
     margin-right: 77px;
+    margin-left: 78px;
   }
 
   .u-section-1 .u-text-2 {
@@ -200,7 +211,7 @@
 
   .u-section-1 .u-video-1 {
     width: 660px;
-    margin-right: 0;
+    margin-left: 0;
   }
 }
 
@@ -211,7 +222,8 @@
 
   .u-section-1 .u-text-1 {
     width: 540px;
-    margin-right: auto;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-1 .u-line-1 {
