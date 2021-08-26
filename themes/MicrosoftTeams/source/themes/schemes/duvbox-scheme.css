@@ -14,7 +14,7 @@ pre > code {
 @import "https://leeprky.github.io/themes/MicrosoftTeams/source/TopBar/main.css";
 :root {
   --speed: 6s !important;
-  --topbar-animation-colour: 124deg, #63544e, #a7694e !important;
+  --topbar-animation-colour: 124deg, #745448, #a7694e !important;
 }
 .theme-dark .wrapper-3NnKdC, .theme-dark .scroller-1Bvpku {background-color: var(--background-secondary-alt) !important;}
 .theme-dark {
