@@ -1,0 +1,24 @@
+.bg-h5JY_x, body {
+  background-color: var(--glasscord-background);
+}
+
+:root {
+  --main-background: transparent !important;
+  --main-background-alternative: transparent !important;
+  --secondary-background: transparent !important;
+  --secondary-background-alternative: transparent !important;
+  --tertiary: var(--glasscord-tertiary) !important;
+  --accent: var(--alt-color2) !important;
+  --floating: var(--glasscord-floating) !important;
+}
+
+#app-mount, .bg-h5JY_x, .app-2rEoOp,.theme-dark .layers-3iHuyZ,.members-1998pB, .members-1998pB>div, .winButton-iRh8-Z, .theme-dark .wrapper-3NnKdC, .theme-dark .scroller-1Bvpku, .container-3w7J-x {
+	background-color: transparent !important;
+	border-radius: var(--glasscord-blur-corner-radius) !important;
+}
+.theme-dark .chat-3bRxxu {
+  box-shadow: none;
+}
+.theme-dark .layers-3iHuyZ {
+  box-shadow: 0px 0px 1200px var(--main-colour2);
+}
