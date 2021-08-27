@@ -83,6 +83,17 @@ path[d="M19.738 10H22V14H19.739C19.498 14.931 19.1 15.798 18.565 16.564L20 18L18
 .status-1AY8sU[style="background-color: hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%);"],.statusOnline-8PnF5L{background-color:var(--green)!important}
 .status-1AY8sU[style="background-color: hsl(38, calc(var(--saturation-factor, 1) * 95.7%), 54.1%);"]{background-color:var(--yellow)!important}
 .status-1AY8sU[style="background-color: hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%);"]{background-color:var(--red)!important}
+#app-mount .wrapper-3t9DeA rect[fill="hsl(262, calc(var(--saturation-factor, 1) * 46.8%), 39.8%)"],#app-mount .wrapper-3t9DeA rect :not(.pointerEvents-2zdfdO)[mask="url(#svg-mask-status-streaming)"]{fill:color}
+#app-mount .wrapper-3t9DeA rect[fill="hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%)"],#app-mount .wrapper-3t9DeA rect :not(.pointerEvents-2zdfdO)[mask="url(#svg-mask-status-online)"]{fill:color}
+#app-mount .wrapper-3t9DeA rect[fill="hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%)"],#app-mount .wrapper-3t9DeA rect :not(.pointerEvents-2zdfdO)[mask="url(#svg-mask-status-online-mobile)"]{fill:color}
+#app-mount .wrapper-3t9DeA rect[fill="hsl(38, calc(var(--saturation-factor, 1) * 95.7%), 54.1%)"],#app-mount .wrapper-3t9DeA rect :not(.pointerEvents-2zdfdO)[mask="url(#svg-mask-status-idle)"]{fill:color}
+#app-mount .wrapper-3t9DeA rect[fill="hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%)"],#app-mount .wrapper-3t9DeA rect :not(.pointerEvents-2zdfdO)[mask="url(#svg-mask-status-dnd)"]{fill:color}
+#app-mount .wrapper-3t9DeA rect[fill="hsl(214, calc(var(--saturation-factor, 1) * 9.9%), 50.4%)"],#app-mount .wrapper-3t9DeA rect[mask="url(#svg-mask-status-offline)"]{fill:color}
+.container-1r6BKw [fill="hsl(262, calc(var(--saturation-factor, 1) * 46.8%), 39.8%)"]{fill:color}
+.container-1r6BKw [fill="hsl(139, calc(var(--saturation-factor, 1) * 47.3%), 43.9%)"]{fill:color}
+.container-1r6BKw [fill="hsl(38, calc(var(--saturation-factor, 1) * 95.7%), 54.1%)"]{fill:color}
+.container-1r6BKw [fill="hsl(359, calc(var(--saturation-factor, 1) * 82.6%), 59.4%)"]{fill:color}
+.container-1r6BKw [fill="hsl(214, calc(var(--saturation-factor, 1) * 9.9%), 50.4%)"]{fill:color}
 .sidebarRegion-VFTUkN{flex-grow:0}
 .contentColumnDefault-1VQkGM{max-width:calc(100% - 60px)}
 .contentRegion-3nDuYy .contentColumn-2hrIYH{max-width:100%}
