@@ -15,8 +15,8 @@ cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/Ovel
 taskkill /IM DiscordCanary.exe /F
 start %USERPROFILE%\AppData\Local\DiscordCanary\Update.exe --processStart DiscordCanary.exe
 rem 
-set "FirstDir=%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.37\resources\app\GlasscordHelper"
-set "SecondDir=%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.37\resources\app\GlasscordHelper"
+set "FirstDir=%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.38\resources\app\GlasscordHelper"
+set "SecondDir=%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.38\resources\app\GlasscordHelper"
 rem 
 if exist "%FirstDir\" (
     rem 
@@ -25,13 +25,13 @@ if exist "%FirstDir\" (
     rem 
     mkdir "%FirstDir%"
 )
-cd %USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.37\resources\app\GlasscordHelper
+cd %USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.38\resources\app\GlasscordHelper
 git clone https://github.com/leeprky/GlasscordInstallExample
-del %USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.37\resources\app\GlasscordHelper\GlasscordInstallExample\README.md /q /f
-start "" "%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.37\resources\app\GlasscordHelper\GlasscordInstallExample"
-move "%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.37\resources\app\GlasscordHelper\GlasscordInstallExample\glasscord.asar" "%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.37\resources\app"
-start notepad "%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.37\resources\app\GlasscordHelper\GlasscordInstallExample\readme.txt"
-start notepad "%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.37\resources\app\GlasscordHelper\GlasscordInstallExample\index.js"
+del %USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.38\resources\app\GlasscordHelper\GlasscordInstallExample\README.md /q /f
+start "" "%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.38\resources\app\GlasscordHelper\GlasscordInstallExample"
+move "%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.38\resources\app\GlasscordHelper\GlasscordInstallExample\glasscord.asar" "%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.38\resources\app"
+start notepad "%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.38\resources\app\GlasscordHelper\GlasscordInstallExample\readme.txt"
+start notepad "%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.38\resources\app\GlasscordHelper\GlasscordInstallExample\index.js"
 @Echo Off
 SETLOCAL EnableDelayedExpansion
 for /F "tokens=1,2 delims=#" %%a in ('"prompt #$H#$E# & echo on & for %%b in (1) do     rem"') do (
