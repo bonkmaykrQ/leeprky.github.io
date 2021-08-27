@@ -1,7 +1,7 @@
 @import "https://leeprky.github.io/themes/MicrosoftTeams/source/TopBar/main.css";
 :root {
-  --speed: 6s !important;
-  --topbar-animation-colour: 124deg, #FF4151, #bb4751 !important;
+  --speed: 16s !important;
+  --topbar-animation-colour: 124deg, #FF4151, #bb4751, #e7747d !important;
 }
 .theme-dark .wrapper-3NnKdC, .theme-dark .scroller-1Bvpku {background-color: var(--background-secondary-alt) !important;}
 .theme-dark {
@@ -28,7 +28,7 @@
   --green: #92C353 !important;
 
   /* Header Colours */
-  --headers: #EAE1DF !important; /* */
+  --headers: #e0dfea !important; /* */
   --headers-secondary: rgb(210, 214, 218) !important;
 
   --chatbox-colour: var(--background-secondary) !important;
@@ -41,7 +41,7 @@
   --text-positive1: var(--green-color) !important;
   --muted: #b9b9b9 !important;
   --links: var(--alt-color2) !important;
-  --links-from-self: #6058cf !important;
+  --links-from-self: #e0586f !important;
   
   /* Interative Buttons */
   --button-interactive: #f7f2f2!important;
