@@ -32,6 +32,7 @@
   --headers-secondary: rgb(210, 214, 218) !important;
 
   --chatbox-colour: var(--background-secondary) !important;
+  --messages-colour: #0b0c13 !important;
   --mentioned: rgba(var(--alt-color), 0.4) !important;
   --mentioned-hover: rgba(var(--alt-color), 0.2) !important;
 
