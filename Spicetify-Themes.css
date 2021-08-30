@@ -22,15 +22,16 @@
 }
 
 .u-section-1 .u-list-1 {
-  width: 361px;
+  width: 732px;
   grid-template-rows: auto;
   margin: 0 auto;
 }
 
 .u-section-1 .u-repeater-1 {
-  grid-template-columns: 100%;
+  grid-template-columns: calc(50% - 5px) calc(50% - 5px);
   grid-gap: 10px 10px;
   min-height: 530px;
+  grid-auto-columns: calc(50% - 5px);
 }
 
 .u-section-1 .u-list-item-1 {
@@ -77,6 +78,50 @@
   margin: 13px 0 0 18px;
 }
 
+.u-section-1 .u-list-item-2 {
+  filter: brightness(0.8);
+  animation-duration: 1000ms;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6));
+  background-position: 0% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 29px 14px;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 700;
+  margin: 0 281px 0 0;
+}
+
+.u-section-1 .u-text-7 {
+  margin: -26px 246px 0 31px;
+}
+
+.u-section-1 .u-text-8 {
+  font-weight: 700;
+  margin: 2px 238px 0 5px;
+}
+
+.u-section-1 .u-icon-4 {
+  color: rgb(242, 242, 242) !important;
+}
+
+.u-section-1 .u-text-9 {
+  letter-spacing: -2px;
+  text-transform: uppercase;
+  font-weight: 700;
+  margin: 320px auto 0 16px;
+}
+
+.u-section-1 .u-text-10 {
+  font-size: 0.875rem;
+  margin: 13px 0 0 18px;
+}
+
 .u-section-1 .u-btn-2 {
   border-style: solid;
   font-weight: 700;
@@ -87,7 +132,7 @@
   padding: 6px 5px 6px 4px;
 }
 
-.u-section-1 .u-icon-3 {
+.u-section-1 .u-icon-5 {
   color: rgb(255, 255, 255) !important;
   font-size: 1.1em;
 }
@@ -100,10 +145,110 @@
   padding: 0;
 }
 
+@media (max-width: 1199px) {
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: repeat(2, calc(50% - 5px));
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-list-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+    grid-auto-columns: calc(100% - 0px);
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 269px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 240px;
+    margin-left: 25px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 231px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 6px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 269px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 240px;
+    margin-left: 25px;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-right: 231px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-left: 6px;
+  }
+}
+
 @media (max-width: 767px) {
+  .u-section-1 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-auto-columns: 100%;
+  }
+
   .u-section-1 .u-container-layout-1 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 97px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 93px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 59px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-text-6 {
+    margin-right: 97px;
+  }
+
+  .u-section-1 .u-text-7 {
+    margin-right: 93px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-right: 59px;
+  }
+
+  .u-section-1 .u-text-10 {
+    margin-left: 0;
   }
 }
 
@@ -140,7 +285,7 @@
 
   .u-section-1 .u-text-3 {
     margin-top: 9px;
-    margin-right: 222px;
+    margin-right: 0;
     margin-left: 23px;
   }
 
@@ -149,6 +294,40 @@
   }
 
   .u-section-1 .u-text-5 {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .u-section-1 .u-text-6 {
+    width: auto;
+    margin-top: 3px;
+    margin-right: 279px;
+    margin-left: 9px;
+  }
+
+  .u-section-1 .u-text-7 {
+    width: auto;
+    margin-top: -30px;
+    margin-right: 231px;
+    margin-left: 44px;
+  }
+
+  .u-section-1 .u-text-8 {
+    margin-top: 9px;
+    margin-right: 0;
+    margin-left: 23px;
+  }
+
+  .u-section-1 .u-text-9 {
+    margin-left: 26px;
+  }
+
+  .u-section-1 .u-text-10 {
     margin-left: 10px;
     margin-right: 10px;
   }
