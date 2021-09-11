@@ -1,3 +1,4 @@
+echo Installer By Leeprky#2063
 mkdir %USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.40\resources\app\Backup\Files"
 xcopy "%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.40\resources\app" "%USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.40\resources\app\Backup\Files"
 cd %USERPROFILE%\AppData\Local\DiscordCanary\app-1.0.40\resources\app\Backup

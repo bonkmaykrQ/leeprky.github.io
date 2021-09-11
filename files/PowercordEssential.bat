@@ -1,3 +1,4 @@
+echo Installer By Leeprky#2063
 cd %USERPROFILE%
 cd powercord/src/Powercord/plugins && git clone https://github.com/redstonekasi/theme-toggler
 cd ..\..\..\..\
