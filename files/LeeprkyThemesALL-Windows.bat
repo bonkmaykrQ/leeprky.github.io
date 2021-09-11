@@ -1,4 +1,4 @@
-echo Installer By Leeprky#2063
+echo Installer By Leeprky#2063 - v1.2
 cd %USERPROFILE%
 cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/Ovel
 cd ..\..\..\..\

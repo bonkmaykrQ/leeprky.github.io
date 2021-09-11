@@ -1,4 +1,4 @@
-echo Installer By Leeprky#2063
+echo Installer By Leeprky#2063 - v0.40
 cd %USERPROFILE%
 git clone https://github.com/powercord-org/powercord
 cd powercord
