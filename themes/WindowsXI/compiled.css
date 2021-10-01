@@ -142,7 +142,6 @@ to{bottom:45px}
 #app-mount .form-2fGMdU::before{left:-4px!important}
 #app-mount .jumpToPresentBar-G1R9s6,#app-mount .messagesErrorBar-nyJGU7{border-radius:var(--borders-buttons-rounded) var(--borders-buttons-rounded) 0 0!important}
 #app-mount .controlButton-2MhVEL foreignObject{mask:none!important;border-radius:var(--borders-buttons-rounded)!important}
-#app-mount .splashBackground-1FRCko::before,#app-mount .winButton-iRh8-Z:nth-child(4){border-radius:0 0 0 calc(var(--borders-buttons-rounded) / 2)!important}
 #app-mount .closeButton-1tv5uR,#app-mount .actionButton-uPB8Fs,#app-mount .actionButton-VzECiy,#app-mount .wrapper-129saQ,#app-mount .centerButton-3CaNcJ,#app-mount .contextMenuNub-3yOOYo,#app-mount .button-F9qN4n,#app-mount .button-2CgfFz,#app-mount .editButton-1MavoF,#app-mount .powercord-quickcss-editor-settings .close,#app-mount .roundButton-CEHyUp,#app-mount .channelTabs-newTab{border-radius:var(--borders-buttons-circle)!important}
 #app-mount .container-3auIfb,#app-mount .bd-switch-body,#app-mount .bd-switch-body::after{border-radius:var(--borders-switches)!important}
 .bd-switch-body .bd-switch-slider .bd-switch-handle{border-radius:var(--borders-switches)!important;rx:var(--borders-switches)!important}
