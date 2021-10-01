@@ -13,31 +13,12 @@
 @import "https://raw.githack.com/mr-miner1/Better-Badges/main/theme.css";
 @import "https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css";
 
-@import "https://leeprky.github.io/themes/Ovel/imports/07-extra/version.css";
-
-/* Outdated Version Code*/
-:root {
-   --theme: "WindowsXI";
-   --build-latest: "059";
-   --version-latest: "v1.0.2.2";
-   --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
-   --version-long: "Version: " var(--version) " (Current) ";
-   --theme-dl: "https://github.com/leeprky/WindowsXI"
-}
-
-#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before{display:var(--outdated_windowsXI-059,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
-
 /* Compiled */
 
 * {
     border-radius: var(--roundness) !important;
   }
 
-.container-3baos1::before,.container-3w7J-x::before,.wrapper-24pKcD::before,.privateChannels-1nO12o::before{display:flex!important;flex-flow:column!important}
-.container-3baos1::after,.container-3w7J-x::after,.wrapper-24pKcD::after,.privateChannels-1nO12o::after{flex-flow:column}
-.container-2baos1{order:1}
-.container-3w7J-x,.privateChannels-1nO12o{order:2}
-.wrapper-24pKcD{order:3}
 .footer-1fjuF6{display:none}
 .content-yTz4x3:before{-webkit-box-shadow:none;box-shadow:none}
 .tabBody-3YRQ8W:before{-webkit-box-shadow:none;box-shadow:none}
