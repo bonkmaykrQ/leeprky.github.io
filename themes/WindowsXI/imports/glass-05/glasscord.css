@@ -1,4 +1,3 @@
-
         :root {
          --chatbox-colour: var(--glasscord-chatbox-colour) !important; 
          --background-primary: transparent !important; 
@@ -13,31 +12,17 @@
        .powercord-spotify, .powercord-spotify.hover {
           background-color: var(--glasscord-floating);
        }
-      .container-2lgZY8 {
+       #app-mount {
          background-color: var(--glasscord-background);
       }
 
-   body {
-      background-color: var(--glasscord-background);
-   }
+
 
 .standardSidebarView-3F1I7i {
    background-color: var(--glasscord-background);
    border-radius: 0px !important;
 }
 
-#app-mount{
-	background-color: transparent;
-	border-radius: var(--glasscord-blur-corner-radius);
-}
-.withFrame-haYltI {
-   background-color: var(--glasscord-background);
-}
-
-.titleBar-AC4pGV {
-   background-color: var(--glasscord-background);
-   border-radius: 0px !important;
-}
 .container-2lgZY8, .layer-3QrUeG.baseLayer-35bLyl, .layers-3iHuyZ  {
    border-radius: 0px !important;
 }
