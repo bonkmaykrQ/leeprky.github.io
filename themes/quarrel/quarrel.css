@@ -17,8 +17,8 @@
 /* Outdated Version Code*/
 :root {
    --theme: "Quarrel";
-   --build-latest: "174";
-   --version-latest: "v1.5.1";
+   --build-latest: "175";
+   --version-latest: "v1.5.2";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
    --theme-dl: "https://github.com/leeprky/Quarrel"
@@ -28,7 +28,7 @@
        content:"Build " var(--build) " | ";
    }
 
-#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before{display:var(--outdated_quarrel-174,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
+#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before{display:var(--outdated_quarrel-175,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
 
 /* Source */
 .membersGroup-v9BXpm{padding:16px 8px 38px;height:45px;margin-top:6px;font-size:14px}
@@ -326,4 +326,7 @@ div[class*="wrapper-3t9DeA"][aria-label*="Idle"]>svg[class="mask-1l8v16 svg-2V3M
 }
 div[class*="wrapper-3t9DeA"][aria-label*="Online"]>svg[class="mask-1l8v16 svg-2V3M55"] {
   filter: drop-shadow(0 0 5px var(--rs-online-color));
+}
+.content-yTz4x3:before {
+  box-shadow: none;
 }
