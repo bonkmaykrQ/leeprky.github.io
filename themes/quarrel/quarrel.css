@@ -1,6 +1,6 @@
 /*  ------------------------------------------
                  Quarrel Source
-                      v1.5
+                      v1.6
                 - leeprky#2063 -
     ------------------------------------------  */
 
@@ -17,8 +17,8 @@
 /* Outdated Version Code*/
 :root {
    --theme: "Quarrel";
-   --build-latest: "175";
-   --version-latest: "v1.5.2";
+   --build-latest: "176";
+   --version-latest: "v1.6";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
    --theme-dl: "https://github.com/leeprky/Quarrel"
@@ -28,7 +28,7 @@
        content:"Build " var(--build) " | ";
    }
 
-#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before{display:var(--outdated_quarrel-175,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
+#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before{display:var(--outdated_quarrel-176,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
 
 /* Source */
 .membersGroup-v9BXpm{padding:16px 8px 38px;height:45px;margin-top:6px;font-size:14px}
