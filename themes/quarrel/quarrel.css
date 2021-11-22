@@ -312,7 +312,7 @@ html:root{--font-display:var(--font-primary)}
       #app-mount .wrapper-3t9DeA rect[height="24"][x="88"][y="88"] {
         width: 88% !important;
     }
-div[class*="wrapper-3t9DeA"][aria-label*=var(--glow-streaming)]>svg[class="mask-1l8v16 svg-2V3M55"] {
+div[class*="wrapper-3t9DeA"][aria-label*="Streaming"]>svg[class="mask-1l8v16 svg-2V3M55"] {
   filter: drop-shadow(0 0 5px var(--rs-streaming-color));
 }
 [class="member-3-YXUe offline-3nJYBR container-2Pjhx- clickable-1JJAn8"], div[class*="wrapper-3t9DeA"][aria-label*=""]>svg[class="mask-1l8v16 svg-2V3M55"] {
@@ -321,10 +321,10 @@ div[class*="wrapper-3t9DeA"][aria-label*=var(--glow-streaming)]>svg[class="mask-
 [class="member-3-YXUe container-2Pjhx- clickable-1JJAn8"] div[class*="wrapper-3t9DeA"]>svg[class="mask-1l8v16 svg-2V3M55"] {
   filter: drop-shadow(0 0 5px var(--rs-dnd-color));
 }
-div[class*="wrapper-3t9DeA"][aria-label*=var(--glow-idle)]>svg[class="mask-1l8v16 svg-2V3M55"] {
+div[class*="wrapper-3t9DeA"][aria-label*="Idle"]>svg[class="mask-1l8v16 svg-2V3M55"] {
   filter: drop-shadow(0 0 5px var(--rs-idle-color));
 }
-div[class*="wrapper-3t9DeA"][aria-label*=var(--glow-online)]>svg[class="mask-1l8v16 svg-2V3M55"] {
+div[class*="wrapper-3t9DeA"][aria-label*="Online"]>svg[class="mask-1l8v16 svg-2V3M55"] {
   filter: drop-shadow(0 0 5px var(--rs-online-color));
 }
 .content-yTz4x3:before {
