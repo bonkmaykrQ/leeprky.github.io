@@ -42,3 +42,7 @@ body, #app-mount, .app-2rEoOp
 /* Backdrops */
 [class="backdrop-1wrmKB"], .backdrop-1wrmKB.withLayer-RoELSG
 { opacity: var(--glasscord-backdrop) !important; background: var(--glasscord-background) }
+
+.chatContent-a9vAAp {
+  margin-top: 45px;
+}
