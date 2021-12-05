@@ -166,3 +166,7 @@ body, #app-mount, .app-2rEoOp
 { display: none }
 .searchBar-6Kv8R2, .header-2V-4Sw
 { box-shadow: none }
+
+.members-1998pB, .members-1998pB>div, .container-2wlB3z {
+  background-color: transparent !important;
+}
