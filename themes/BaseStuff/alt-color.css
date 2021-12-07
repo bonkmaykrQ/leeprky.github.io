@@ -155,6 +155,10 @@ polyline[stroke*="7289da"]{stroke:rgba(var(--alt-color))!important}
   --brand-experiment-95a: hsla(var(--alt-color3),calc(var(--saturation-factor, 1)*64.0%),44.7%,0.95);
 }
 
+[fill="#6370f4"] {
+  fill: var(--alt-color2);
+}
+
 /* Goosemod */
 .lookFilled-1Gx00P.colorBrand-3pXr91 {background-color: var(--alt-color2);}
 .lookFilled-1Gx00P .contents-18-Yxp, .lookInverted-2D7oAl .contents-18-Yxp, .lookLink-9FtZy- .contents-18-Yxp, .lookOutlined-3sRXeN .contents-18-Yxp {
