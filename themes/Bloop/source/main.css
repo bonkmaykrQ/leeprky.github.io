@@ -722,3 +722,51 @@ ul[class*="channelAttachmentArea-"] {
 .tabBody-3YRQ8W {
   margin-top: 48px;
 }
+.tabBar-11f3uI.top-28JiJ- {
+  background-color: transparent;
+}
+
+.colorStreamerMode-2SJAUN {
+  position: absolute;
+  width: 400px;
+  border-radius: 8px;
+  left: 33%;
+  top: 6%;
+}
+
+.container-3qpZp9 {
+  position: relative;
+  border-radius: 8px;
+  background-color: var(--secondary-background);
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+.standardSidebarView-3F1I7i {
+  transform: scale(0.89);
+  background-color: var(--main-background) !important;
+  border-width: 2px !important;
+  border-style: solid;
+  border-color: var(--main-colour2) !important;
+  border-radius: 8px;
+}
+
+.sidebarRegion-VFTUkN {
+  transform: scale(1);
+}
+
+[aria-label="USER_SETTINGS"] {
+  top: -40px !important;
+}
+
+[class="progressBar-3u8FBM small-1CUeBa animating-3Qqqzp"] {
+  background-color: var(--main-hover-active) !important;
+}
+
+.scroller-1JbKMe {
+  margin-bottom: 70px !important;
+}
+
+#app-mount .menu-3sdvDG .item-1tOPte:not(#user-context-user-volume) {
+  margin-left: -4px;
+}
