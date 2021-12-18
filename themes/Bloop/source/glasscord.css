@@ -37,7 +37,7 @@ body, #app-mount, .app-2rEoOp
   background-color: var(--green-color) !important;
 }
 /* Glasscord Floating */
-.container-7uh5fX, .scroller-zPkAnE , .messagesPopoutWrap-1MQ1bW, .container-enaOkj, .theme-dark .container-VSDcQc .sectionTag-pXyto9, .theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4, .theme-light .autocompleteArrow-Zxoy9H, .theme-light .header-2bNvm4
+.avatar-AvHqJA.wrapper-3t9DeA, .topSection-y3p-_D, .container-7uh5fX, .scroller-zPkAnE , .messagesPopoutWrap-1MQ1bW, .container-enaOkj, .theme-dark .container-VSDcQc .sectionTag-pXyto9, .theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4, .theme-light .autocompleteArrow-Zxoy9H, .theme-light .header-2bNvm4
 { background-color: var(--glasscord-floating); }
 /* Backdrops */
 [class="backdrop-1wrmKB"], .backdrop-1wrmKB.withLayer-RoELSG
@@ -45,4 +45,10 @@ body, #app-mount, .app-2rEoOp
 
 .chatContent-a9vAAp {
   margin-top: 45px;
+}
+.sidebar-2K8pFh, .container-3w7J-x {
+  background-color: var(--glasscord-secondary) !;
+}
+.container-2wlB3z {
+  background-color: transparent !important;
 }
