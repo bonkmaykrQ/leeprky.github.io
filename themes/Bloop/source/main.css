@@ -241,7 +241,7 @@ transform: scale(0.92);
   background-color: transparent;
 }
 
-.sidebar-2K8pFh, .container-3w7J-x {
+, .container-3w7J-x {
   max-width: 230px;
 }
 
@@ -281,7 +281,8 @@ transform: scale(0.92);
   background-color: var(--secondary-background-a);
 }
 .sidebar-2K8pFh, .container-3w7J-x {
-  background-color: var(--main-background);
+  background-color: var(--background-primary);
+}
 }
 .header-2V-4Sw {
   box-shadow: none !important;
