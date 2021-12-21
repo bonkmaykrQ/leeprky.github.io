@@ -6,6 +6,19 @@
          --background-tertiary: transparent !important; 
          --background-floating: var(--glasscord-floating) !important; 
        }
+
+:root{
+	--glasscord-win-blur: blurbehind !important;
+	--glasscord-macos-vibrancy: fullscreen-ui !important; 
+	--glasscord-linux-blur: true !important;
+	--glasscord-titlebar: default !important;  
+}
+body{
+    background-color: transparent !important;
+}
+#app-mount{
+	border-radius: 10px 10px 10px 10px !important; 
+}
    
        #app-mount {border-radius: var(--app-rounding);}
    
