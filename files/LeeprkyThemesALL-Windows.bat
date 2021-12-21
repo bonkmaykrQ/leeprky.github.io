@@ -48,9 +48,9 @@ cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/Micros
 cd ..\..\..\..\
 cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/DeveloperModeTheme
 cd ..\..\..\..\
-cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/SlookV4
-cd ..\..\..\..\
 cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/BetterVanilla
+cd ..\..\..\..\
+cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/Bloop
 cd ..\..\..\..\
 taskkill /IM DiscordCanary.exe /F
 start %USERPROFILE%\AppData\Local\DiscordCanary\Update.exe --processStart DiscordCanary.exe
