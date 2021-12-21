@@ -55,6 +55,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 408px;
+  }
+
   .u-section-1 .u-shape-1 {
     width: 940px;
     margin-left: 0;
@@ -66,14 +70,18 @@
   }
 
   .u-section-1 .u-shape-2 {
-    margin-left: 359px;
+    margin-top: -21px;
+    margin-left: 260px;
   }
 
   .u-section-1 .u-shape-3 {
-    margin-left: 714px;
+    margin-top: -87px;
+    margin-right: 275px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-1 {
+    margin-top: 85px;
     margin-right: 189px;
     margin-left: 372px;
     padding: 22px 63px 22px 62px;
@@ -101,10 +109,6 @@
     margin-left: 371px;
   }
 
-  .u-section-1 .u-shape-3 {
-    margin-left: 677px;
-  }
-
   .u-section-1 .u-btn-1 {
     margin-right: 0;
     margin-left: auto;
@@ -124,10 +128,6 @@
   .u-section-1 .u-text-1 {
     margin-right: 84px;
     margin-left: 88px;
-  }
-
-  .u-section-1 .u-shape-3 {
-    margin-left: 497px;
   }
 
   .u-section-1 .u-btn-2 {
@@ -162,7 +162,6 @@
   .u-section-1 .u-shape-3 {
     margin-top: -63px;
     margin-right: 0;
-    margin-left: auto;
   }
 
   .u-section-1 .u-btn-1 {
@@ -233,15 +232,17 @@
   color: rgb(85, 172, 238) !important;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1199px) {
   .u-section-2 .u-shape-1 {
-    margin-left: 407px;
+    margin-left: 337px;
   }
 
   .u-section-2 .u-image-1 {
-    margin-left: 313px;
+    margin-left: auto;
   }
+}
 
+@media (max-width: 767px) {
   .u-section-2 .u-text-1 {
     font-size: 3.75rem;
   }
@@ -259,7 +260,6 @@
 
   .u-section-2 .u-image-1 {
     margin-top: -263px;
-    margin-left: auto;
   }
 
   .u-section-2 .u-text-1 {
@@ -328,7 +328,7 @@
 
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 703px;
+    min-height: 766px;
   }
 
   .u-section-3 .u-shape-1 {
@@ -339,12 +339,13 @@
 
   .u-section-3 .u-shape-2 {
     width: 552px;
-    height: 585px;
-    margin-top: 18px;
+    height: 739px;
+    margin-top: 14px;
+    margin-left: -38px;
   }
 
   .u-section-3 .u-layout-wrap-1 {
-    margin-top: -524px;
+    margin-top: -673px;
     margin-right: initial;
     margin-left: initial;
   }

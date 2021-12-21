@@ -58,15 +58,19 @@
   color: rgb(85, 172, 238) !important;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 1199px) {
   .u-section-1 .u-shape-1 {
-    margin-left: 407px;
+    margin-top: 174px;
+    margin-left: 337px;
   }
 
   .u-section-1 .u-image-1 {
-    margin-left: 313px;
+    margin-top: -263px;
+    margin-left: auto;
   }
+}
 
+@media (max-width: 767px) {
   .u-section-1 .u-text-1 {
     font-size: 3.75rem;
   }
@@ -78,13 +82,7 @@
   }
 
   .u-section-1 .u-shape-1 {
-    margin-top: 174px;
     margin-left: 37px;
-  }
-
-  .u-section-1 .u-image-1 {
-    margin-top: -263px;
-    margin-left: auto;
   }
 
   .u-section-1 .u-text-1 {
