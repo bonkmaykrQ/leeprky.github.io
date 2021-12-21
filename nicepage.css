@@ -40945,20 +40945,21 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-header .u-text-1 {
     margin-top: 104px;
-    margin-left: -693px;
+    margin-left: 0;
   }
 
   .u-header .u-text-2 {
-    margin-top: -227px;
     margin-right: 344px;
   }
 
   .u-header .u-btn-2 {
     margin-top: -35px;
+    margin-right: 19px;
   }
 
   .u-header .u-menu-1 {
-    margin-right: 154px;
+    margin-top: -32px;
+    margin-right: 160px;
   }
 }
 @media (max-width: 575px) {
