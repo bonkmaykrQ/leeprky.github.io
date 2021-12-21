@@ -1,3 +1,16 @@
+:root{
+	--glasscord-win-blur: blurbehind !important;
+	--glasscord-macos-vibrancy: fullscreen-ui !important; 
+	--glasscord-linux-blur: true !important;
+	--glasscord-titlebar: default !important;  
+}
+body{
+    background-color: transparent !important;
+}
+#app-mount{
+	border-radius: 10px 10px 10px 10px !important; 
+}
+
 /* Glasscord Primary */
 body, #app-mount, .app-2rEoOp 
 { background-color: var(--glasscord-primary); background: var(--glasscord-primary) !important; }
