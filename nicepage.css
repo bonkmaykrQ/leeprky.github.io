@@ -41054,7 +41054,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 105px;
+    min-height: 133px;
   }
 
   .u-footer .u-shape-1 {
@@ -41073,11 +41073,9 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-text-2 {
     text-transform: uppercase;
-    width: auto;
     font-size: 0.625rem;
-    margin-top: 4px;
-    margin-right: 1434px;
-    margin-bottom: 16px;
+    width: 250px;
+    margin: 12px auto 36px;
   }
 }
 
