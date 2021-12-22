@@ -2,7 +2,6 @@
 	--glasscord-win-blur: blurbehind !important;
 	--glasscord-macos-vibrancy: fullscreen-ui !important; 
 	--glasscord-linux-blur: true !important;
-	--glasscord-titlebar: default !important;  
 }
 body{
     background-color: transparent !important;
@@ -12,8 +11,8 @@ body{
 }
 
 /* Glasscord Primary */
-body, #app-mount, .app-2rEoOp 
-{ background-color: var(--glasscord-primary); background: var(--glasscord-primary) !important; }
+ #app-mount, .app-2rEoOp 
+{ background-color: var(--glasscord-primary) !important; background: var(--glasscord-primary) !important; }
 
  /* Glasscord Secondary */
 .message-2qnXI6, .container-O91r7V, .perks-26lTSw.container-7uh5fX.theme-dark .root-1gCeng, .chatHeaderBar-4vZS1x, .container-3hZ-gs, .theme-dark .root-1gCeng, .circleIconButton-1QV--U, .powercord-quickcss:not(.popped-out), .videoWrapper-3YdgHH, .theme-dark .uploadModal-2ifh8j, .replyBar-1YLQ2F, .threadSuggestionBar-2ufK2Z, .attachedBars-tZDmyV, .optionContainer-15srkc, .upsellContainer-L9xv7w, .value-IR9osW, .wrapper-18yWki, .messageContainer-1DiFnQ, .icon-3_8HGa, .welcomeChannel-1rFrIO, .previewContainer-1SS3uO, .settingsFormFieldWrapper-3Y77Pr, .featureCard-1RR4Tl, .cardFolder-28dwxo, .connectionOptionsWrapper-3KIj1Z, .powercord-toast .contents .inner, .emptyCard-1RJw8n, .channelName-1JRO3C, .searchResultsWrap-3-pOjs, .theme-light .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC, .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC, .theme-dark .codeRedemptionRedirect-1wVR4b, .wrapper-2aW0bm, .connectionHeader-2MDqhu, .accountList-33MS45, .total-members-preview, .item-26Dhrx, .primary-2McadE:hover:not(.disabled-3Njyym), .secondary-dIudih, .content-1o0f9g, .expandedFolderBackground-1cujaW, .theme-light .container-S9SaVf, .theme-dark .container-S9SaVf, .actionButton-uPB8Fs, .wrapper-3D2qGf, .scrollableContainer-2NUZem, .mulitplePlaceholderUsername-pogq9I, .placeholderAvatar-damqh6, .placeholderUsername-2B_OA9
@@ -59,6 +58,17 @@ body, #app-mount, .app-2rEoOp
 .chatContent-a9vAAp {
   margin-top: 45px;
 }
+.sidebar-2K8pFh, .container-3w7J-x {
+  background-color: var(--glasscord-secondary) !;
+}
+.container-2wlB3z {
+  background-color: transparent !important;
+}
+
+.platform-osx .container-1r6BKw {
+  -webkit-app-region: none;
+}
+
 .sidebar-2K8pFh, .container-3w7J-x {
   background-color: var(--glasscord-secondary) !;
 }
