@@ -5,9 +5,10 @@
     --version-latest: "v1.1.0";
     --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
     --version-long: "Version: " var(--version) " (Current) ";
-    --theme-dl: "https://github.com/leeprky/Bloop"
+    --theme-dl: "https://github.com/leeprky/Bloop";
         
-    --version: "UNKOWN"; --build: "UNKNOWN";
+    --version: "UNKOWN"; 
+    --build: "UNKNOWN";
   }
   
   #app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div.base-3dtUhz:before{display:var(--outdated_bloop-110,block)!important;position:absolute;left:10%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:00px!important}
