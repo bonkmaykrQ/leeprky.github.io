@@ -7,7 +7,7 @@
     --version-long: "Version: " var(--version) " (Current) ";
     --theme-dl: "https://github.com/leeprky/Bloop";
         
-    --version: "UNKOWN"; 
+    --version: "UNKNOWN"; 
     --build: "UNKNOWN";
   }
   
