@@ -1,3 +1,4 @@
+
 /* DiscordTextTopLeftSlook */
 .wordmark-2iDDfm svg {
   width: 0px;
@@ -332,12 +333,12 @@ div[data-list-item-id="guildsnav___guild-discover-button"] svg:hover{
 .deny-3nAuT6 {color: #ff2e2e;}
 .deny-3nAuT6:hover {background: #ff2e2e !important; color: white;}
 .deny-3nAuT6.selected-2YhbGh {background: #ff582e !important;}
-.deny-3nAuT6.selected-2YhbGh:hover {background: #ff2e2e; !important;}
+.deny-3nAuT6.selected-2YhbGh:hover {background: #ff2e2e !important;}
 /* Permissons (Yellow) */
 .passthrough-1c2ewQ {color: #faeb1ad8;}
 .passthrough-1c2ewQ:hover {background: #faeb1ae1 !important; color: white;}
 .passthrough-1c2ewQ.selected-2YhbGh {background: #faeb1adc !important;}
-.passthrough-1c2ewQ.selected-2YhbGh:hover {background: rgba(255, 177, 61, 0.897); !important;}
+.passthrough-1c2ewQ.selected-2YhbGh:hover {background: rgba(255, 177, 61, 0.897) !important;}
 /* Permissons (Green) */
 .allow-1PzSY3 {color: #0ee986;}
 .allow-1PzSY3:hover {background: #0ee986 !important; color: white;}
