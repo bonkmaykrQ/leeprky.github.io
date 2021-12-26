@@ -7,7 +7,7 @@
    --version-latest: "v3.0.1";
    --version-latest-long: "Version: " var(--version-latest) "";
    --version-long: "Version: " var(--version) " (Current) ";
-   --theme-dl: "https://github.com/leeprky/Slook-Remastered"
+   --theme-dl: "https://github.com/leeprky/Slook-Remastered";
       
    --version: "UNKNOWN"; 
    --build: "UNKNOWN";
