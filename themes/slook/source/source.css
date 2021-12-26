@@ -8,6 +8,25 @@
 /* MemberList Scroller */
 .platform-win .scroller-1Bvpku {padding-top: 16px;}
 
+    .withFrame-haYltI {
+      height: 32px;
+      margin-top: 4px;
+      position: relative;
+      left: 90px;
+      width: calc(100% - 90px);
+    }
+    .winButton-iRh8-Z {
+      transform: scale(1);
+      height: 32px;
+      width: 32px;
+      margin-top: 0px;
+      padding-left: 5px;
+      padding-right: 5px;
+    }
+    [role="button"][aria-label="Close"]:hover {
+      background-color: var(--main-colour2);
+    }
+
 /* DiscordTextTopLeftSlook */
 .wordmark-2iDDfm svg {
   width: 0px;
