@@ -1427,3 +1427,20 @@ margin-top: 2px;
   /* I used this to fix the QuickCSS editor, it might not work for you*/
 }
 
+
+  .wordmark-2iDDfm:after{content:var(--watermark-text);font-size:20px;font-weight:700;position:absolute;width:4000px;top:7px;color:var(--background-accent);margin-left:var(--watermark-text-left);font-family:Discord}
+  .wordmark-2iDDfm > svg{width:0}
+  @keyframes Gradient { 0%{background-position:0 50%} 50%{background-position:100% 50%} 100%{background-position:0 50%} }
+  #app-mount .titleBar-AC4pGV .wordmark-2iDDfm svg{width:0}
+  #app-mount .titleBar-AC4pGV .wordmark-2iDDfm::after{content:var(--watermark-text);position:absolute; font-family: "Discord" ; background:linear-gradient(var(--watermark-gradient));animation:Gradient 4s ease infinite;-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;background-size:200% 200%;font-weight:600;top:var(--watermark-text-top)}
+
+
+
+#app-mount .titleBar-AC4pGV .wordmark-2iDDfm svg {
+    margin-bottom: 15px;
+    margin-left: 4px;
+}
+.withFrame-haYltI {
+    height: 20px;
+    margin-bottom: var(--titlebar-bottom);
+}
