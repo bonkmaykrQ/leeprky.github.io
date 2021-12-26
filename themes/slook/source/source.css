@@ -46,44 +46,6 @@
   margin-top: 4px;
 }
 
-/* DiscordTextTopLeftSlook */
-.wordmark-2iDDfm svg {
-  width: 0px;
-}
-.theme-light .wordmark-2iDDfm:after {
-  font-family: "Discord"; 
-  content: var(--watermark-text);
-  font-size: 20px;
-  text-transform: uppercase;
-  background: var(--watermark-gradient-light);
-  background-size: 400% 400%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  position: absolute;
-  top: var(--watermark-text-top);
-}
-.theme-light .withFrame-haYltI {
-  height: 24px;
-  margin-top: 4px;
-  background-color: #E0DCD8;
-}
-.theme-dark .wordmark-2iDDfm:after {
-  font-family: "Discord"; /* - DISCORD USERNAME FONT */
-  content: var(--watermark-text);
-  text-transform: uppercase;
-  font-size: 23px;
-  background: var(--watermark-gradient);
-  background-size: 400% 400%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  position: absolute;
-  top: var(--watermark-text-top);
-}
-.theme-dark .withFrame-haYltI {
-  height: 24px;
-  margin-top: 4px;
-}
-
 .root-SR8cQa {
   transform: translateZ(0);
 }
@@ -1468,3 +1430,163 @@ margin-top: 2px;
   /* max-width: calc(83vw) !important; */
   /* I used this to fix the QuickCSS editor, it might not work for you*/
 }
+
+
+  .wordmark-2iDDfm:after{content:var(--watermark-text);font-size:20px;font-weight:700;position:absolute;width:4000px;top:7px;color:var(--background-accent);margin-left:var(--watermark-text-left);font-family:Discord}
+  .wordmark-2iDDfm > svg{width:0}
+  @keyframes Gradient { 0%{background-position:0 50%} 50%{background-position:100% 50%} 100%{background-position:0 50%} }
+  #app-mount .titleBar-AC4pGV .wordmark-2iDDfm svg{width:0}
+  #app-mount .titleBar-AC4pGV .wordmark-2iDDfm::after{content:var(--watermark-text);position:absolute; font-family: "Discord" ; background:linear-gradient(var(--watermark-gradient));animation:Gradient 4s ease infinite;-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;background-size:200% 200%;font-weight:600;top:var(--watermark-text-top)}
+
+
+
+#app-mount .titleBar-AC4pGV .wordmark-2iDDfm svg {
+    margin-bottom: 15px;
+    margin-left: 4px;
+}
+.withFrame-haYltI {
+    height: 20px;
+    margin-bottom: var(--titlebar-bottom);
+}
+
+
+    /* Center Server List */
+/* OPTIONAL SERVER LIST
+#app-mount .wrapper-3NnKdC.guilds-1SWlCJ .scroller-1Bvpku {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+/*
+/* SLOOK FONT */
+:root {
+  --discord-font: 'Discord'; /* Delete For Regular Font */
+}
+
+/* Better Looking New Messages Pill By Leeprky#2063 */
+.unreadPill-2HyYtt {
+  color: rgb(252, 248, 248);
+  background-color:var(--new-message-pill);
+  border-radius: 5px;
+  width: 50px;
+  height: 16px;
+  margin-bottom: 9px;
+  margin-left: -10px;
+  position: static;
+  font-family: "Discord"; /* - DISCORD USERNAME FONT */
+  padding-left: 3px;
+}
+.divider-JfaTT5 {
+  border-top: thin solid var(--new-message-pill);
+  width: 420px;
+  height: 10px;
+  left: 70px;
+}
+/* Day History Pill */
+.unreadPillCap-3_K2q2 {
+  width: 0px;
+  height: 0px;
+}
+.content-1o0f9g {
+  font-size: 0.65rem;
+}
+.theme-dark .content-1o0f9g {
+  color: #e7dddd;
+  font-family: "Discord"; /* - DISCORD USERNAME FONT */
+  margin-top: -7px;
+  font-size: 0.60rem;
+  background-color: var(--new-message-pill);
+}
+.theme-light .content-1o0f9g {
+  color: #1b1a1a;
+  font-family: "Discord"; /* - DISCORD USERNAME FONT */
+  margin-top: 00rem;
+  font-size: 0.60rem;
+  background-color: var(--new-message-pill);
+}
+
+/* Add transparency & blur to the loading screen */
+.container-16j22k {
+  background-color: rgba(0,0,0,0.8);
+  backdrop-filter: blur(5px);
+}
+/* BoldText */
+.headerText-2F0828 {
+  font-size: 18px; 
+  font-family:'Discord';  /* - DISCORD USERNAME FONT */
+}
+.header-2RyJ0Y {
+  font-size: 16px;
+  font-family:'Discord';  /* - DISCORD USERNAME FONT */
+}
+.title-3sZWYQ {
+  font-size: 15px;
+  font-family:'Discord';  /* - DISCORD USERNAME FONT */
+}
+.container-2ax-kl {
+  font-size: 15px;
+  font-family:'Discord';  /* - DISCORD USERNAME FONT */
+}
+/* PictureInPicture */
+.header-2Zv56X {
+  font-size: 18px;
+  color:#eaedf0; 
+  font-family: 'Discord' /* - DISCORD USERNAME FONT */
+} 
+.description-22pzKs {
+  color: #c7cacc;
+  font-size: 11px
+}
+
+/* Bubble Member List OPTIONAL*/
+
+:root {
+  --hover-animation-speed: 0.35s;
+  --seperator-color: var(--background-accent);
+}
+.members-1998pB {
+  transition: transform var(--hover-animation-speed);
+}
+.membersWrap-2h-GB4 {
+ min-width: unset;
+ width: 40px;
+ justify-content: left;
+}
+.content-3QAtGj .subText-1KtqkB {
+ display: none;
+}
+.membersWrap-2h-GB4:hover .members-1998pB {
+  transform: translateX(-260px);
+}
+.membersWrap-2h-GB4 .members-1998pB .member-3-YXUe {
+  background-color: unset;
+  margin-left: 0px;
+  transition: margin-left var(--hover-animation-speed);
+}
+.membersWrap-2h-GB4:hover .members-1998pB .member-3-YXUe {
+  margin-left: 15px;
+}
+.membersWrap-2h-GB4:hover .membersGroup-v9BXpm {
+  transform: translateX(2px);
+}
+.membersWrap-2h-GB4 .membersGroup-v9BXpm {
+  cursor: default;
+  transform: translateX(-10px);
+  transition: transform var(--hover-animation-speed);
+  overflow: inherit;
+}
+.members-1998pB {
+border-radius: 18px 18px 18px 18px !important;
+left: 37px;
+margin-top: 100px;
+margin-bottom: 15px;
+}
+::-webkit-scrollbar {
+ display: none;
+}
+.membersWrap-2h-GB4 {
+left: 45px;
+margin-right: 40px;
+bottom: 75px;
+background-color: rgba(216, 27, 27, 0);
