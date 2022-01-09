@@ -241,7 +241,7 @@ transform: scale(0.92);
   background-color: transparent;
 }
 
-, .container-1NXEtd {
+.container-1NXEtd {
   max-width: 230px;
 }
 
@@ -282,7 +282,6 @@ transform: scale(0.92);
 }
 .sidebar-1tnWFu, .container-1NXEtd {
   background-color: var(--background-primary);
-}
 }
 .header-3OsQeK {
   box-shadow: none !important;

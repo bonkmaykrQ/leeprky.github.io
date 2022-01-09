@@ -11,68 +11,68 @@ body{
 }
 
 /* Glasscord Primary */
- #app-mount, .app-2rEoOp 
+ #app-mount, .app-2CXKsg 
 { background-color: var(--glasscord-primary) !important; background: var(--glasscord-primary) !important; }
 
  /* Glasscord Secondary */
-.message-2qnXI6, .container-O91r7V, .perks-26lTSw.container-7uh5fX.theme-dark .root-1gCeng, .chatHeaderBar-4vZS1x, .container-3hZ-gs, .theme-dark .root-1gCeng, .circleIconButton-1QV--U, .powercord-quickcss:not(.popped-out), .videoWrapper-3YdgHH, .theme-dark .uploadModal-2ifh8j, .replyBar-1YLQ2F, .threadSuggestionBar-2ufK2Z, .attachedBars-tZDmyV, .optionContainer-15srkc, .upsellContainer-L9xv7w, .value-IR9osW, .wrapper-18yWki, .messageContainer-1DiFnQ, .icon-3_8HGa, .welcomeChannel-1rFrIO, .previewContainer-1SS3uO, .settingsFormFieldWrapper-3Y77Pr, .featureCard-1RR4Tl, .cardFolder-28dwxo, .connectionOptionsWrapper-3KIj1Z, .powercord-toast .contents .inner, .emptyCard-1RJw8n, .channelName-1JRO3C, .searchResultsWrap-3-pOjs, .theme-light .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC, .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC, .theme-dark .codeRedemptionRedirect-1wVR4b, .wrapper-2aW0bm, .connectionHeader-2MDqhu, .accountList-33MS45, .total-members-preview, .item-26Dhrx, .primary-2McadE:hover:not(.disabled-3Njyym), .secondary-dIudih, .content-1o0f9g, .expandedFolderBackground-1cujaW, .theme-light .container-S9SaVf, .theme-dark .container-S9SaVf, .actionButton-uPB8Fs, .wrapper-3D2qGf, .scrollableContainer-2NUZem, .mulitplePlaceholderUsername-pogq9I, .placeholderAvatar-damqh6, .placeholderUsername-2B_OA9
+.message-2CShn3, .container-1IyjjY, .perks-26lTSw.container-18GwIk.theme-dark .root-g14mjS, .chatHeaderBar-2fUORh, .container-3i3IzO, .theme-dark .root-g14mjS, .circleIconButton-1QV--U, .powercord-quickcss:not(.popped-out), .videoWrapper-1_H3B3, .theme-dark .uploadModal-2ie9O_, .replyBar-1oi75v, .threadSuggestionBar-3ExSyc, .attachedBars-2BCP3l, .optionContainer-yOpaLq, .upsellContainer-L9xv7w, .value-kR4BVK, .wrapper-24fR1R, .messageContainer-3a6gLR, .icon-2DGsye, .welcomeChannel-1rFrIO, .previewContainer-1SS3uO, .settingsFormFieldWrapper-3Y77Pr, .featureCard-1RR4Tl, .cardFolder-3H4uH4, .connectionOptionsWrapper-1ipqUo, .powercord-toast .contents .inner, .emptyCard-KDifrB, .channelName-3w2Y3c, .searchResultsWrap-5RVOkx, .theme-light .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC, .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC, .theme-dark .codeRedemptionRedirect-3SBiCp, .wrapper-2vIMkT, .connectionHeader-2rV1ze, .accountList-305sx3, .total-members-preview, .item-26Dhrx, .primary-38Hs-h:hover:not(.disabled-184-il), .secondary-2bzKEX, .content-3spvdd, .expandedFolderBackground-1cujaW, .theme-light .container-S9SaVf, .theme-dark .container-S9SaVf, .actionButton-3-B2x-, .wrapper-2RrXDg, .scrollableContainer-15eg7h, .mulitplePlaceholderUsername-2T3DCI, .placeholderAvatar-1qAcRZ, .placeholderUsername-3iQi_D
 { background-color: var(--glasscord-secondary) !important}
-.container-2I9Hud, .theme-dark .codeRedemptionRedirect-1wVR4b,  .powercord-toast .buttons, .powercord-toast .contents .inner,.powercord-toast .contents,.powercord-toast .header
+.container-2rzKKA, .theme-dark .codeRedemptionRedirect-3SBiCp,  .powercord-toast .buttons, .powercord-toast .contents .inner,.powercord-toast .contents,.powercord-toast .header
 {border: 0px;}
 
 /* Secondary Alt */
-.attachment-33OFj0, .theme-dark .contentWarningPopout-n5JsIs, .theme-dark .footer-2gL1pp, .audienceVoiceUserIconContainer-29oflP, .privacyContainer-JsAijK, .perks-26lTSw, .container-2I9Hud, .theme-dark .message-2qRu38, .reaction-1hd86g, .theme-dark .card-3DjzTQ, .theme-dark .iconMask-3b8GzQ, .theme-light .card-3DjzTQ,[class="container-2VW0UT elevationHigh-1PneE4"],.upsellFooter-ZYsio_, .descriptionBox-1EKQKL, .perksList-1vtwXn, .theme-dark .iconWrapper-3LVgIo, .upsellFooter-3coAfO, .container-_phMUq, .theme-dark .tierHeaderLocked-3S508x, .editButton-1MavoF, .settingsFormItem-103g1I, .enableContainer-2DIT9Q, .card-3_CqkU, .iconMask-30Tvqs, .container-2w0lh0, .checklistContainer-mFJZEJ, .item-1yAxl1[aria-checked=false],.cardContent-qqqwo8, .popout-VcNcHB, .table-39R0Oe, .lookFilled-22uAsw.select-2fjwPw, .wrapper-1-Fsb8, .inspector-S2gM3e, .contentWrapper-SvZHNd, .powercord-toast, .powercord-toast .buttons, .powercord-toast .contents, .theme-dark .gemIndicatorContainer-2jdECl, .connectionHeader-2MDqhu, .input-2_SIlA, .powercord-toast .header, .searchResult-9tQ1uo, .theme-light .default-3oAQTF, .theme-dark .default-3oAQTF, .powercord-entities-manage-tabs, .developerPortalCtaWrapper-2XNafh, .previewMessage-1ZN7YG, .fieldList-21DyL8, .background-1QDuV2, .accountBtn-2Nozo3 .accountBtnInner-sj5jLs, .secondary-dIudih:hover:not(.disabled-3Njyym), .messageContainer-gbhlwo, .messages-3G3erD, .markup-2BOw-j code, .section-2gLsgF, .role-1P70N6, .embedFull-2tM8--, .folder-1hbNCn,  .childWrapper-anI2G9, .theme-dark .feature-2w65J5, .theme-light .feature-2w65J5, .messageGroupWrapper-o-Zw7G
+.attachment-33OFj0, .theme-dark .contentWarningPopout-WKdbDG, .theme-dark .footer-31IekZ, .audienceVoiceUserIconContainer-1aQGLF, .privacyContainer-JsAijK, .perks-26lTSw, .container-2rzKKA, .theme-dark .message-G6O-Wv, .reaction-2A2y9y, .theme-dark .card-2TuZPZ, .theme-dark .iconMask-2fMR98, .theme-light .card-2TuZPZ,[class="container-2VW0UT elevationHigh-28Pty4"],.upsellFooter-ZYsio_, .descriptionBox-1EKQKL, .perksList-1vtwXn, .theme-dark .iconWrapper-2_MXbk, .upsellFooter-1H_OCF, .container-3EtAkD, .theme-dark .tierHeaderLocked-3S508x, .editButton-2SLR4j, .settingsFormItem-25zW3t, .enableContainer-1J91Aq, .card-3_CqkU, .iconMask-30Tvqs, .container-2w0lh0, .checklistContainer-mFJZEJ, .item-4m-12I[aria-checked=false],.cardContent-1-5hym, .popout-1KHNAq, .table-17_dGF, .lookFilled-1GseHa.select-1Ia3hD, .wrapper-1NNaWG, .inspector-DFKXwB, .contentWrapper-3vHNP2, .powercord-toast, .powercord-toast .buttons, .powercord-toast .contents, .theme-dark .gemIndicatorContainer-PqApbX, .connectionHeader-2rV1ze, .input-2z42oC, .powercord-toast .header, .searchResult-O9NDji, .theme-light .default-1Tkeeg, .theme-dark .default-1Tkeeg, .powercord-entities-manage-tabs, .developerPortalCtaWrapper-2XNafh, .previewMessage-2uxBrA, .fieldList-in8WkP, .background-3d_SjE, .accountBtn-1YkMgV .accountBtnInner-3XK70s, .secondary-2bzKEX:hover:not(.disabled-184-il), .messageContainer-3VTXBC, .messages-23can0, .markup-eYLPri code, .section-3G9aLW, .role-23oyrw, .embedFull-2tM8--, .folder-1hbNCn,  .childWrapper-1j_1ub, .theme-dark .feature-2IUcBI, .theme-light .feature-2IUcBI, .messageGroupWrapper-1jf_7C
  { background-color: var(--glasscord-secondary-alt) !important}
 
  /* Transparent */
- .container-u0iLTp, .wrapper-2qzCYF, .callContainer-3UuV6S, .container-pTf0Ly,  .threadSidebar-1o3BTy, .bg-h5JY_x, .scroller-2XE8rp, .theme-dark .pageWrapper-1PgVDX, .theme-light .pageWrapper-1PgVDX,.loadingPopout-qYljDW, .powercord-quickcss .CodeMirror-gutters, .bodyInnerWrapper-26fQXj, .header-2mZ9Ov, .tabBar-11f3uI.top-28JiJ-,  .titleContainer-2CXtJo, .scroller-305q3I, .paymentHistory-2FXzro, .contentRegionScroller-26nc1e, .standardSidebarView-3F1I7i, [class="layers-3iHuyZ layers-3q14ss"], .layer-3QrUeG, .contentRegion-3nDuYy, .sidebarRegionScroller-3MXcoP, .channelHeader-3Gd2xq, .app-2rEoOp, .wrapper-1F5TKx, .root-217Brm, .wrapper-2qzCYF.minimum-28Z35l, .scroller-9moviB, .applicationStore-1pNvnv, .header-39GIC8, .scroller-1IIF0A, .stageSection-3mAD8V, .wrapper-3NnKdC, .scroller-1Bvpku, .members-1998pB, .members-1998pB>div, .theme-light .form-2fGMdU:before, .theme-dark .form-2fGMdU:before, .container-3w7J-x, .sidebar-2K8pFh, .panels-j1Uci_, .chat-3bRxxu, .container-1r6BKw.themed-ANHk51, .wrapper-3vR61M, .theme-light .container-1D34oG, .theme-dark .container-1D34oG, .peopleColumn-29fq28, .theme-light .root-1gCeng ,.theme-dark .root-1gCeng, .theme-dark .contentWrapper-3WC1ID, .theme-light .contentWrapper-3WC1ID, .homeWrapper-3-Wh5T, .container-lRFx4q, .nowPlayingColumn-2sl4cE, .sidebar-2K8pFh,.base-3dtUhz, .privateChannels-1nO12o, .scroller-1JbKMe
+ .container-u0iLTp, .wrapper-1gVUIN, .callContainer-BGIngG, .container-cH6QoY,  .threadSidebar-1o3BTy, .bg-1QIAus, .scroller-1TOeMq, .theme-dark .pageWrapper-2PwDoS, .theme-light .pageWrapper-2PwDoS,.loadingPopout-1feYe_, .powercord-quickcss .CodeMirror-gutters, .bodyInnerWrapper-2bQs1k, .header-1iEhSH, .tabBar-3DfKkN.top-K_jibn,  .titleContainer-3fPic2, .scroller-3_YDR2, .paymentHistory-2Zf4ZE, .contentRegionScroller-2_GT_N, .standardSidebarView-E9Pc3j, [class="layers-OrUESM layers-1YQhyW"], .layer-86YKbF, .contentRegion-3HkfJJ, .sidebarRegionScroller-FXiQOh, .channelHeader-DFRX8q, .app-2CXKsg, .wrapper-15CKyy, .root-22AK9z, .wrapper-1gVUIN.minimum-fXpVNc, .scroller-29cQFV, .applicationStore-2nk7Lo, .header-2EadGG, .scroller-2XLwLg, .stageSection-3mAD8V, .wrapper-1_HaEi, .scroller-3X7KbA, .members-3WRCEx, .members-3WRCEx>div, .theme-light .form-3gdLxP:before, .theme-dark .form-3gdLxP:before, .container-1NXEtd, .sidebar-1tnWFu, .panels-3wFtMD, .chat-2ZfjoI, .container-ZMc96U.themed-Hp1KC_, .wrapper-22ayhK, .theme-light .container-2cd8Mz, .theme-dark .container-2cd8Mz, .peopleColumn-1wMU14, .theme-light .root-g14mjS ,.theme-dark .root-g14mjS, .theme-dark .contentWrapper-3oy4Xo, .theme-light .contentWrapper-3oy4Xo, .homeWrapper-L4ors0, .container-1oAagU, .nowPlayingColumn-1eCBCN, .sidebar-1tnWFu,.base-2jDfDU, .privateChannels-oVe7HL, .scroller-WSmht3
 { background-color: transparent !important; background: transparent !important }
-.theme-dark .notDetected-33MY4s, .theme-light .notDetected-33MY4s {
+.theme-dark .notDetected-2HEmAp, .theme-light .notDetected-2HEmAp {
     background-color: var(--alt-color2);
 }
  /* Glasscord Accent */
 .example
 { background-color: var(--glasscord-accent) }
 
-.channel-3pEHab {
+.channel-3NJZ1V {
     bottom: 10px;
 }
-.content-yTz4x3:before {
+.content-1jQy2l:before {
   display: none;
 }
-.theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3
+.theme-dark .searchAnswer-23w-CH, .theme-dark .searchFilter-2UfsDk
 { background-color: var(--alt-color2) !important}
-.authedApp-mj2Hmd .marginBottom20-32qID7 .headerInfo-30WFqE
+.authedApp-1tw-eT .marginBottom20-315RVT .headerInfo-9C2zHz
 { background-color: var(--glasscord-secondary-alt); padding: 15px; border-radius: 6px; margin-left: -21px; margin-top: -21px; margin-right: -136px;}
 
-.item-26Dhrx[aria-checked=true], .categoryItemDefaultCategorySelected-_HCKoz, .categoryItemDefaultCategorySelected-_HCKoz:hover, .option-3KoAJB.focused-1T6PE5, .option-3KoAJB:focus, .option-3KoAJB:hover, .theme-dark .tierHeaderUnlocked-3lTDnP {
+.item-26Dhrx[aria-checked=true], .categoryItemDefaultCategorySelected-2YeRUu, .categoryItemDefaultCategorySelected-2YeRUu:hover, .option-2eIyOn.focused-ODgjnC, .option-2eIyOn:focus, .option-2eIyOn:hover, .theme-dark .tierHeaderUnlocked-3lTDnP {
   background-color: var(--green-color) !important;
 }
 /* Glasscord Floating */
-.avatar-AvHqJA.wrapper-3t9DeA, .topSection-y3p-_D, .container-7uh5fX, .scroller-zPkAnE , .messagesPopoutWrap-1MQ1bW, .container-enaOkj, .theme-dark .container-VSDcQc .sectionTag-pXyto9, .theme-dark .autocompleteArrow-Zxoy9H, .theme-dark .header-2bNvm4, .theme-light .autocompleteArrow-Zxoy9H, .theme-light .header-2bNvm4
+.avatar-3QF_VA.wrapper-1VLyxH, .topSection-13QKHs, .container-18GwIk, .scroller-2qwVWY , .messagesPopoutWrap-3zryHW, .container-enaOkj, .theme-dark .container-1S70rv .sectionTag-28mLyE, .theme-dark .autocompleteArrow-jJE9TQ, .theme-dark .header-3i_Csh, .theme-light .autocompleteArrow-jJE9TQ, .theme-light .header-3i_Csh
 { background-color: var(--glasscord-floating); }
 /* Backdrops */
-[class="backdrop-1wrmKB"], .backdrop-1wrmKB.withLayer-RoELSG
+[class="backdrop-2ByYRN"], .backdrop-2ByYRN.withLayer-2VVmpp
 { opacity: var(--glasscord-backdrop) !important; background: var(--glasscord-background) }
 
-.chatContent-a9vAAp {
+.chatContent-3KubbW {
   margin-top: 45px;
 }
-.sidebar-2K8pFh, .container-3w7J-x {
+.sidebar-1tnWFu, .container-1NXEtd {
   background-color: var(--glasscord-secondary) !;
 }
-.container-2wlB3z {
+.container-2o3qEW {
   background-color: transparent !important;
 }
 
-.platform-osx .container-1r6BKw {
+.platform-osx .container-ZMc96U {
   -webkit-app-region: none;
 }
 
-.sidebar-2K8pFh, .container-3w7J-x {
+.sidebar-1tnWFu, .container-1NXEtd {
   background-color: var(--glasscord-secondary) !;
 }
-.container-2wlB3z {
+.container-2o3qEW {
   background-color: transparent !important;
 }
 
