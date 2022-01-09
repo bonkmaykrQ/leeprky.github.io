@@ -298,6 +298,7 @@ svg.icon-22AiRD:hover{color:var(--interactive-hover)}
 #app-mount .modeConnected-3IsKId::before{border-left:var(--indicator-border-info) var(--indicator-connected-border)}
 #app-mount .channel-2QD9_O{margin-left:0;max-width:100%}
 #app-mount .channel-2QD9_O div .avatar-3uk_u9{margin-left:8px}
+.panels-3wFtMD, .sidebar-1tnWFu {display: flex;flex-direction: column-reverse;}
 
 /* ServerList */
 .tutorialContainer-2sGCg9{position:fixed;z-index:1;background:linear-gradient(var(--background-tertiary) 100%,transparent)}
@@ -338,8 +339,8 @@ to{bottom:45px}
 .colorable-1bkp8v.primaryDark-3mSFDl:hover{margin-bottom:2px;background-color:rgba(var(--alt-color),0.5) [class="contents-18-Yxp premiumSubscribeButton-3TowJw"],[class="contents-18-Yxp giftButton-2uAsFo"] {;color:#161616!important}
 .info-1VyQPT:after{top:10px!important;left:3px}
 :root{--friend-width:170px;--friend-height:170px;--friend-blur:0}
-.peopleColumn-29fq28 .scrollerBase-289Jih>div:not(.peopleList-3c4jOR){display:flex;flex-direction:row;justify-content:center;margin-top:15px;height:fit-content;width:fit-content}
-.peopleColumn-29fq28{display:block;overflow:hidden scroll}
+.peopleColumn-1wMU14 .scrollerBase-289Jih>div:not(.peopleColumn-1wMU14){display:flex;flex-direction:row;justify-content:center;margin-top:15px;height:fit-content;width:fit-content}
+.peopleColumn-1wMU14{display:block;overflow:hidden scroll}
 .peopleListItem-2nzedh{position:relative;display:block!important;height:var(--friend-width)!important;width:var(--friend-height);margin:1.8%!important;padding:0!important;border-radius:3px;box-shadow:0 0 12px rgba(0,0,0,0.25);background-color:var(--background-tertiary);animation:friendGridFade .75s ease;transition:250ms ease all,350ms ease background-color;display:none}
 .title-30qZAO{margin:0;position:absolute;top:5px;font-size:15px;color:rgba(var(--alt-color),0.2);filter:brightness(130%);font-weight:700}
 .peopleListItem-2nzedh:hover{background-color:rgba(var(--alt-color),0.2)!important;box-shadow:0 0 14px rgba(0,0,0,0.5)!important}
@@ -349,5 +350,8 @@ to{bottom:45px}
 .userInfo-2zN2z8 .avatar-3W3CeO{transform:scale(2.8);margin-top:36%;margin-left:50%;filter:blur(var(--friend-blur))}
 .userInfo-2zN2z8{height:160px;position:relative;width:135px;filter:blur(var(--friend-blur))}
 .username-31C1TQ{white-space:nowrap;text-overflow:ellipsis;overflow:visible;color:var(--header-primary);font-weight:600}
-  
+.peopleColumn-1wMU14, .theme-dark .container-2cd8Mz, .theme-light .container-2cd8Mz {
+    background-color: var(--background-primary);
+    border-radius: 0px;
+ }
   
