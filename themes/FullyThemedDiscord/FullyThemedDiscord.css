@@ -67,7 +67,7 @@
 */
 
 /* Floating */
-.theme-dark .root-g14mjS,.theme-light .root-g14mjS,.theme-dark .contentWarningPopout-WKdbDG , .theme-dark .colorPickerCustom-1swUKF, .quickswitcher-pKcM9U, .theme-dark .focused-2FU0YH, .categoryHeader-OpJ1Ly, .theme-dark .container-2McqkF, .theme-dark .calendarPicker-sDhzdi .react-datepicker, .theme-dark .autocomplete-3NRXG8, .container-2O1UgZ, .theme-dark .quickSelectPopout-2F0PXw, .theme-dark .addGamePopout-3yePJc
+.theme-dark .container-2McqkF, .theme-dark .root-g14mjS,.theme-light .root-g14mjS,.theme-dark .contentWarningPopout-WKdbDG , .theme-dark .colorPickerCustom-1swUKF, .quickswitcher-pKcM9U, .theme-dark .focused-2FU0YH, .categoryHeader-OpJ1Ly, .theme-dark .container-2McqkF, .theme-dark .calendarPicker-sDhzdi .react-datepicker, .theme-dark .autocomplete-3NRXG8, .container-2O1UgZ, .theme-dark .quickSelectPopout-2F0PXw, .theme-dark .addGamePopout-3yePJc
 {background-color: var(--background-floating) !important}
 /* Primary */
 .content-2eQb8J, .theme-dark .progress-1S-TDF, .theme-dark .container-1ILvLB section, .theme-dark .container-2cd8Mz, .peopleColumn-1wMU14, .theme-dark .perksModal-fSYqOq, .theme-dark .root-g14mjS, .theme-dark .contentWrapper-3oy4Xo, .homeWrapper-L4ors0
@@ -113,3 +113,7 @@
 /* Update */
 .theme-dark .lookFilled-yCfaCM.colorPrimary-2AuQVo {background-color: var(--background-secondary-alt)!important}
 .theme-light .lookFilled-yCfaCM.colorPrimary-2AuQVo {background-color: var(--background-secondary-alt)!important}
+
+.theme-dark .option-2KkUJO:after {
+  background: transparent !important;
+}
