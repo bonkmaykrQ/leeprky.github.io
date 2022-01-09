@@ -5,6 +5,14 @@
    https://github.com/phenom4n4n/blurple-replacer
     ------------------------------------------  */
 
+    /* Damage Report */
+#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before{display:var(--im-aware,block)!important;position:absolute;left:10%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:00px!important}
+#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before{content:var(--theme) " Is Currently Being Fixed Due To The Discord Update! Add \":root {--im-aware}\" to bottom of any config file to remove this alert!" !important}
+
+:root {
+  --im-aware: flex;
+}
+
 /*
 :root{
   --alt-color: 88, 101, 242;
@@ -165,12 +173,4 @@ fill: var(--alt-color2);
 color: var(--text-normal);}
 .container-2o3qEW {
 background-color: transparent;
-}
-
-/* Damage Report */
-#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before{display:var(--im-aware,block)!important;position:absolute;left:10%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:00px!important}
-#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before{content:var(--theme) " Is Currently Being Fixed Due To The Discord Update! Add \":root {--im-aware}\" to bottom of any config file to remove this alert!" !important}
-
-:root {
-  --im-aware: flex;
 }
