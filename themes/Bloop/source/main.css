@@ -1,13 +1,13 @@
 @import "https://leeprky.github.io/themes/Bloop/source/variables.css";
 
-.withFrame-haYltI {
+.withFrame-2dL45i {
   height: 34px;
   margin-top: 4px;
   position: relative;
   left: 90px;
   width: calc(100% - 90px);
 }
-.winButton-iRh8-Z {
+.winButton-3UMjdg {
   transform: scale(1);
   height: 39px;
   width: 39px;
@@ -266,6 +266,9 @@ transform: scale(0.92);
   margin-left: 40px;
 }
 
+[class="button-12Fmur enabled-9OeuTA button-f2h6uQ lookBlank-21BCro colorBrand-I6CyqQ grow-2sR_-F"] {
+  margin-top: 5px;
+}
 .button-12Fmur[aria-label="Mute"], .button-12Fmur[aria-label="Deafen"] {
   margin-bottom: 8px;
 }
@@ -350,7 +353,7 @@ transform: scale(0.92);
 
 .searchBar-zdmu7v {
   position: absolute;
-  left: 62px;
+  left: 102px;
   top: -12px;
   min-width: 210px;
   max-width: 210px;
