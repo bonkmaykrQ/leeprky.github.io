@@ -28,7 +28,7 @@
        content:"Build " var(--build) " | ";
    }
 
-   #app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:beforee{display:var(--outdated_quarrel-176,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
+   #app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before{display:var(--outdated_quarrel-176,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
 
 /* Source */
 .membersGroup-2eiWxl{padding:16px 8px 38px;height:45px;margin-top:6px;font-size:14px}
