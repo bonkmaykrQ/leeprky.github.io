@@ -79,17 +79,17 @@
 { background-color: var(--background-primary) !important}
 
 /* Secondary */
-.theme-dark .footer-31IekZ,.theme-light .footer-31IekZ,.peopleList-2VBrVI, .cardPrimaryOutline-29Ujqw, .theme-dark .footer-31IekZ, .popout-28p3zl, .theme-dark .codeRedemptionRedirect-3SBiCp, .theme-dark .gemIndicatorContainer-PqApbX, .theme-dark .default-1Tkeeg, .theme-dark .pageWrapper-2PwDoS, .theme-dark .modal-2RrUKJ, .root-22AK9z, .theme-dark .container-1ILvLB .header-2C89wJ, .theme-dark .root-g14mjS, .theme-dark .uploadModal-2ie9O_, .small-23Atuv, .theme-dark .background-3xPPFc, .theme-dark .tierHeaderLocked-3S508x, .theme-dark .tierHeaderUnlocked-3lTDnP, .theme-dark .barBackground-2EEiLw, .theme-dark .tierHeaderLocked-1s2JJz, .theme-dark .perk-2WeBWW, .theme-dark .userSettingsVoice-iwdUCU .previewOverlay-2O7_KC, .theme-dark .calendarPicker-sDhzdi .react-datepicker__header, .theme-dark .calendarPicker-sDhzdi .react-datepicker__day--disabled,.theme-dark .calendarPicker-sDhzdi .react-datepicker__day--outside-month
+.theme-dark .footer-31IekZ,.theme-light .footer-31IekZ,.peopleList-2VBrVI, .cardPrimaryOutline-1ofwVz, .theme-dark .footer-31IekZ, .popout-28p3zl, .theme-dark .codeRedemptionRedirect-3SBiCp, .theme-dark .gemIndicatorContainer-PqApbX, .theme-dark .default-1Tkeeg, .theme-dark .pageWrapper-2PwDoS, .theme-dark .modal-2RrUKJ, .root-22AK9z, .theme-dark .container-1ILvLB .header-2C89wJ, .theme-dark .root-g14mjS, .theme-dark .uploadModal-2ie9O_, .small-23Atuv, .theme-dark .background-3xJH_4, .theme-dark .tierHeaderLocked-30MLlO, .theme-dark .tierHeaderUnlocked-1OpOLf, .theme-dark .barBackground-unEPDT, .theme-dark .tierHeaderLocked-1s2JJz, .theme-dark .perk-2WeBWW, .theme-dark .userSettingsVoice-1_dzjw .previewOverlay-2reuWf, .theme-dark .calendarPicker-sDhzdi .react-datepicker__header, .theme-dark .calendarPicker-sDhzdi .react-datepicker__day--disabled,.theme-dark .calendarPicker-sDhzdi .react-datepicker__day--outside-month
 { background-color: var(--background-secondary) !important}
 
 /* Secondary Alternative */
-.theme-dark .searchAnswer-23w-CH, .theme-dark .searchFilter-2UfsDk, .theme-dark .defaultIndicator-G3c16x, .input-3r5zZY, .theme-dark .container-1ILvLB, .theme-dark .footer-VCsJQY, .theme-dark .footer-31IekZ, .theme-dark .tierBody-1d3UiS, .theme-dark .tierMarkerBackground-G8FoN4,.theme-dark .tierMarkerBackground-G8FoN4[style="transform: scale(1.625); background: rgb(32, 34, 37);"], .theme-dark .tierBody-16Chc9,  .theme-dark .calendarPicker-sDhzdi .react-datepicker__day.react-datepicker__day--disabled,.theme-dark .calendarPicker-sDhzdi .react-datepicker__day.react-datepicker__day--disabled:hover
+.theme-dark .searchAnswer-23w-CH, .theme-dark .searchFilter-2UfsDk, .theme-dark .defaultIndicator-2ndWks, .input-3r5zZY, .theme-dark .container-1ILvLB, .theme-dark .footer-VCsJQY, .theme-dark .footer-31IekZ, .theme-dark .tierBody-1d3UiS, .theme-dark .tierMarkerBackground-G8FoN4,.theme-dark .tierMarkerBackground-G8FoN4[style="transform: scale(1.625); background: rgb(32, 34, 37);"], .theme-dark .tierBody-16Chc9,  .theme-dark .calendarPicker-sDhzdi .react-datepicker__day.react-datepicker__day--disabled,.theme-dark .calendarPicker-sDhzdi .react-datepicker__day.react-datepicker__day--disabled:hover
 { background-color: var(--background-secondary-alt) !important;
   backdrop-filter: brightness(20%) !important;
 }
 
 /* Tertiary */
-.noticeRegion-qjyUVg [class="container-2VW0UT elevationHigh-28Pty4"], .theme-dark .colorPickerCustom-1swUKF.cardPrimaryOutline-29Ujqw, .css-3vaxre-menu, .main-jX9p1r, .cardPrimary-1Hv-to, .cardPrimaryEditable-3KtE4g, .paymentHistory-2Zf4ZE, .theme-dark .inset-SbsSFp, .theme-light .inset-SbsSFp
+.noticeRegion-qjyUVg [class="container-20TyK0 elevationHigh-28Pty4"], .theme-dark .colorPickerCustom-1swUKF.cardPrimaryOutline-1ofwVz, .css-3vaxre-menu, .main-jX9p1r, .cardPrimary-3qRT__, .cardPrimaryEditable-2mz_3i, .paymentHistory-2Zf4ZE, .theme-dark .inset-SbsSFp, .theme-light .inset-SbsSFp
 { background-color: var(--background-tertiary) !important}
 
 /* Background Modifier Hover*/
