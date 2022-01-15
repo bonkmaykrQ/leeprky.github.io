@@ -320,24 +320,3 @@ to{bottom:45px}
 .icon-3zI3d2{position:absolute;left:2px;top:6px;width:12px;height:12px}
 .collapsed-2KOacR .icon-3zI3d2{-webkit-transform:rotate(-90deg);transform:rotate(-90deg)}
 .arrow-2HswgU.icon-3zI3d2{width:19px;height:19px;margin-left:-5px;margin-top:-4px;color:rgba(var(--alt-color),0.9)}
-/* Friends */
-.wrapper-3t3Yqv{background-color:var(--background-tertiary);border-radius:25px;padding:0}
-.colorable-3rVGna.white-11auuQ,.colorable-3rVGna.white-11auuQ .centerIcon-JYpTUi{color:currentColor}
-.colorable-3rVGna.primary-3NQg8g,.colorable-3rVGna.primary-3NQg8g.active-3D763s,.colorable-3rVGna.primary-3NQg8g:hover,.colorable-3rVGna.white-11auuQ,.centerButton-1IShs7,.colorable-3rVGna.white-11auuQ.active-3D763s,.colorable-3rVGna.white-11auuQ:hover,.colorable-3rVGna.red-3T8maV{background:none!important}
-.colorable-3rVGna.primaryDark-2UJt1G{margin-bottom:2px;background-color:var(--alt-color2)}
-.colorable-3rVGna.primaryDark-2UJt1G:hover{margin-bottom:2px;background-color:rgba(var(--alt-color),0.5)}
-.info-1sUqUG:after{top:10px!important;left:3px}
-:root{--friend-width:170px;--friend-height:170px;--friend-blur:0}
-.peopleColumn-1wMU14 .scrollerBase-_bVAAt>div:not(.peopleList-2VBrVI){display:flex;flex-direction:row;justify-content:center;margin-top:15px;height:fit-content;width:fit-content}
-.peopleColumn-1wMU14{display:block;overflow:hidden scroll}
-.peopleListItem-u6dGxF{position:relative;display:block!important;height:var(--friend-width)!important;width:var(--friend-height);margin:1.8%!important;padding:0!important;border-radius:3px;box-shadow:0 0 12px rgba(0,0,0,0.25);background-color:var(--background-tertiary);animation:friendGridFade .75s ease;transition:250ms ease all,350ms ease background-color;display:none}
-.title-3XlmeX{margin:0;position:absolute;top:5px;font-size:15px;color:rgba(var(--alt-color),0.2);filter:brightness(130%);font-weight:700}
-.peopleListItem-u6dGxF:hover{background-color:rgba(var(--alt-color),0.2)!important;box-shadow:0 0 14px rgba(0,0,0,0.5)!important}
-.actions-YHvpIT{display:none}
-.peopleListItem-u6dGxF:hover .actions-YHvpIT{position:absolute;display:flex;bottom:10px;right:-2px;transform:scale(0.7)}
-.text-3j8t_e{width:150px;position:relative;margin-left:-95px}
-.userInfo-2WpsYG .avatar-2MSPKk{transform:scale(2.8);margin-top:36%;margin-left:50%;filter:blur(var(--friend-blur))}
-.userInfo-2WpsYG{height:160px;position:relative;width:135px;filter:blur(var(--friend-blur))}
-.username-Qpc78p{white-space:nowrap;text-overflow:ellipsis;overflow:visible;color:var(--header-primary);font-weight:600}
-  
-  
