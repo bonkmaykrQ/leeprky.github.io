@@ -1,6 +1,6 @@
 /*  ------------------------------------------
                   Lode Source
-                     v1.0.8
+                     v1.1.0
                 - leeprky#2063 -
     ------------------------------------------  */
 
@@ -11,8 +11,8 @@
 /* Outdated Version Code*/
 :root {
    --theme: "Lode";
-   --build-latest: "466";
-   --version-latest: "v1.0.9";
+   --build-latest: "503";
+   --version-latest: "v1.1.0";
    --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
    --version-long: "Version: " var(--version) " (Current) ";
    --theme-dl: "https://github.com/leeprky/Lode"
@@ -23,8 +23,8 @@
 
    :root {--im-aware: none !important} /* Turn To "block to enable */
 
-#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before{display:var(--outdated_lode-466,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
-:root {--version: "UNKOWN"; --build: "UNKNOWN"; --outdated_lode-466: none}
+#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before{display:var(--outdated_lode-503,block)!important;position:absolute;left:32%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:48px!important}
+:root {--version: "UNKOWN"; --build: "UNKNOWN"; --outdated_lode-503: none}
 
     ::-webkit-scrollbar{display:var(--scrollbars)}
     .avatar-2e8lTP.clickable-31pE3P{width:48px;height:48px;left:12px}
