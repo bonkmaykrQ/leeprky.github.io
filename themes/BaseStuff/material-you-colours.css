@@ -1,9 +1,4 @@
 :root {
-	--materialyoucolour:					88,101,242;
-	--materialyoucolour2:					255,115,250;
-	--linkcolor:					0,176,244;
-	--dangercolor: 					237,66,69;
-	
 	--materialyoucolour-hover:			rgb(var(--materialyoucolour)) linear-gradient(0deg, rgba(255,255,255,.15), rgba(255,255,255,.15));
 	--materialyoucolour-active:			rgb(var(--materialyoucolour)) linear-gradient(0deg, rgba(255,255,255,.3), rgba(255,255,255,.3));
 	--materialyoucolour2-hover:			rgb(var(--materialyoucolour2)) linear-gradient(0deg, rgba(255,255,255,.15), rgba(255,255,255,.15));
