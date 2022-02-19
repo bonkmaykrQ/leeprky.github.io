@@ -3,8 +3,8 @@
 	--glasscord-macos-vibrancy: fullscreen-ui !important; 
 	--glasscord-linux-blur: true !important;
 }
-body{
-    background-color: transparent !important;
+body, .bg-1QIAus, .chatContent-3KubbW, .withFrame-2dL45i {
+  background-color: transparent !important;
 }
 #app-mount{
 	border-radius: 10px 10px 10px 10px !important; 
