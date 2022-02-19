@@ -1,14 +1,14 @@
 /* Outdated Version Code*/
 :root {
   --theme: "MaterialYou";
-  --build-latest: "001";
-  --version-latest: "v0.0.1";
+  --build-latest: "010";
+  --version-latest: "v0.1.0";
   --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
   --version-long: "Version: " var(--version) " (Current) ";
   --theme-dl: "https://github.com/leeprky/MaterialYouTheme"
 }
 
-#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before{display:var(--outdated_materialyou-001,block)!important;position:absolute;left:10%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:00px!important}
+#app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before{display:var(--outdated_materialyou-010,block)!important;position:absolute;left:10%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:00px!important}
 #app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before{content:var(--theme)" Is outdated Or Broken.. Current: ("var(--version)" Build "var(--build)") | Latest: (" var(--version-latest)" Build: "var(--build-latest) ") // Redownload the theme From \""var(--theme-dl)"\"" !important;display:block;background-color:var(--alt-color2);color:#fff;flex-grow:0;flex-shrink:0;font-size:16px;font-weight:500;height:auto;line-height:16px;opacity:1;padding:10px;padding-left:20px;padding-right:20px;position:relative;text-align:center;visibility:unset;white-space:pre-wrap;top:0;left:0;bottom:unset;right:unset;max-width:2000px;min-width:unset;max-height:unset;min-height:unset;transform:unset;animation:unset;z-index:999999;pointer-events:none}
 :root {--version: "UNKOWN"; --build: "UNKNOWN";}
 
