@@ -1,0 +1,48 @@
+/* ^^ Any Other Additional Imports Above ^^ */
+
+/* Colours */
+.theme-dark {
+  --main-colour: 0, 0, 0 !important;
+  --main-colour2: #000000 !important; 
+  --main-colour3: 000 !important; 
+  --main-background: #000000 !important;
+  --secondary-background: #000000 !important;
+  --tertiary: #000000 !important;
+  --floating: #000000 !important;
+
+  --headers: #000000 !important; 
+  --headers-secondary: #000000 !important;
+  
+  --namesusernames: #000000 !important;
+  --text: #000000 !important;
+  --text-positive1: var(--green-color) !important;
+  --muted: #000000 !important;
+  --links: var(--alt-color2) !important;
+  --button-interactive: #000000 !important;
+  --button-interactive-hover: var(--main-colour2) !important;
+  --button-interactive-active: #000000 !important;
+  --button-interactive-muted: #000000 !important;
+}
+.theme-light {
+  --main-colour: 0000, 000, 000 !important; 
+  --main-colour2: #000000 !important; 
+  --main-colour3: 000 !important; 
+
+  --main-background: #000000 !important;
+  --secondary-background: #000000 !important;
+  --tertiary: #000000!important;
+  --floating: #000000!important;
+
+  --headers: #000000 !important; 
+  --headers-secondary: #000000 !important;
+  
+  --namesusernames: #000000 !important;
+  --text: #000000 !important;
+  --text-positive1: var(--green-color) !important;
+  --muted: #000000 !important;
+  --links: var(--alt-color2) !important;
+  --button-interactive: #000000 !important;
+  --button-interactive-hover: var(--main-colour2) !important;
+  --button-interactive-active: #000000 !important;
+  --button-interactive-muted: #000000 !important;
+}
