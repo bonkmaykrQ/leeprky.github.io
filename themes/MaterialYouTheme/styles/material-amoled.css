@@ -23,6 +23,8 @@
     --button-interactive-hover: #c7c7c7 !important;
     --button-interactive-active: #b6b6b6 !important;
     --button-interactive-muted: #bbbbbb !important;
+
+    --glasscord-current-style-bg: #000000d9 !important;
   }
   
   .theme-light {
@@ -49,6 +51,8 @@
     --button-interactive-hover: #c7c7c7 !important;
     --button-interactive-active: #b6b6b6 !important;
     --button-interactive-muted: #bbbbbb !important;
+
+    --glasscord-current-style-bg: #000000d9 !important;
   }
 
   .appMount-2yBXZl, body {

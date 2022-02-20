@@ -23,6 +23,8 @@
     --button-interactive-hover: var(--main-colour2) !important;
     --button-interactive-active: #e6b2f0 !important;
     --button-interactive-muted: #e4b2f0 !important;
+
+    --glasscord-current-style-bg: #291527d9 !important;
   }
   
   .theme-light {
@@ -49,4 +51,6 @@
     --button-interactive-hover: var(--main-colour2) !important;
     --button-interactive-active: #1b151d !important;
     --button-interactive-muted: #19131a !important;
+
+    --glasscord-current-style-bg: #e1a6edd9 !important;
   }
