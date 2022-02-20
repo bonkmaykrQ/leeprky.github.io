@@ -1,0 +1,9 @@
+@import url("https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css");
+@import url("https://discordstyles.github.io/Addons/bottomhsl.css"); 
+
+.attachButtonInner-2mwer8::after {
+  bottom: 60px !important;
+  display: var(--version-display);
+  left: 270px !important;
+}
+:root {--sidebar-fade: transparent !important;}
