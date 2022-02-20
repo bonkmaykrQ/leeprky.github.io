@@ -1,1 +1,7 @@
-
+.powercord-product, .powercord-product, .powercord-toast {
+    border-radius: var(--bubble-radius);
+  }
+  
+  .powercord-toast .header {
+    background-color: var(--background-floating);
+  }
