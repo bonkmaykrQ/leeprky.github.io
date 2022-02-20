@@ -1218,6 +1218,9 @@
   .peopleColumn-1wMU14, .container-1oAagU {
     background-color: var(--background-secondary) !important;
   }
+  .peopleColumn-1wMU14 {
+    background-color: VAR(--secondary-background) !important;
+  }
   
   .scroller-WSmht3, .privateChannels-oVe7HL, .searchBar-3TnChZ {
     box-shadow: none !important;
