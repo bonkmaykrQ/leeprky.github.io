@@ -2,6 +2,10 @@
 	--glasscord-win-blur: blurbehind !important;
 	--glasscord-macos-vibrancy: fullscreen-ui !important; 
 	--glasscord-linux-blur: true !important;
+
+  --style-name: "Material Glass" !important;
+  --style-creator: "Leeprky x NyaomiDEV";
+
 }
 body, .bg-1QIAus, .chatContent-3KubbW, .withFrame-2dL45i {
   background-color: transparent !important;
