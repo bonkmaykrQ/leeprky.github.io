@@ -1,3 +1,9 @@
+:root {
+  --style-name: "Material Grey";
+  --style-creator: "Leeprky#2063";
+}
+
+/* Material Grey */
 .theme-dark {
     /* Main Colours - Try Keep These The Same */
     --main-colour: 192, 192, 192 !important; /* RGB ONLY */
