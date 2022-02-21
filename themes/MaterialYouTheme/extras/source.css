@@ -1418,3 +1418,17 @@
   background-color: var(--background-primary);
 }
 .peopleColumn-1wMU14{background-color: var(--background-secondary) !important;}
+
+.membersGroup-2eiWxl {
+  margin-bottom: -5px;
+}
+
+.channelNotice-7cg_jN {
+  margin-top: -30px !important;
+}
+.membersGroup-2eiWxl::after {
+  content: "P||||||||||||";
+  color: var(--background-secondary);
+  background-color: var(--background-secondary);
+  margin-left: -21px;
+}

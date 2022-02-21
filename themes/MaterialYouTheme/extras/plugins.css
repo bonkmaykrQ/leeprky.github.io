@@ -209,6 +209,22 @@
     background-color: var(--background-secondary);
 }
 
+.membersGroup-2eiWxl {
+    margin-bottom: -5px;
+}
+
+.channelNotice-7cg_jN {
+    margin-top: -30px !important;
+}
+
+.ChannelDms-channelpopout-buttons .iconWrapper-2awDjA {
+    padding-bottom: 00px;
+    margin-bottom: 0px;
+}
+.ChannelDms-channelpopout-buttons .iconWrapper-2awDjA::after {
+    display: none;
+}
+
   /* */
   
   
