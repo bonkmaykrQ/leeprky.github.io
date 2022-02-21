@@ -52,6 +52,8 @@ cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/Better
 cd ..\..\..\..\
 cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/Bloop
 cd ..\..\..\..\
+cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/MaterialYouTheme
+cd ..\..\..\..\
 taskkill /IM DiscordCanary.exe /F
 start %USERPROFILE%\AppData\Local\DiscordCanary\Update.exe --processStart DiscordCanary.exe
 pause
