@@ -1432,3 +1432,6 @@
   background-color: var(--background-secondary);
   margin-left: -21px;
 }
+.container-32HW5s {
+  border-radius: var(--bubble-radius) !important;
+}
