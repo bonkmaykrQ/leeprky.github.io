@@ -1386,3 +1386,35 @@
   .connectedAccount-1xKpli {
     border-radius: var(--bubble-radius) !important;
   }
+
+  .userBio-2-tr00 {
+    max-width: 360px;
+  }
+
+  .top-K_jibn {
+    bottom: 150px !important;
+}
+
+[class="applicationInstallButton-1-58qm button-f2h6uQ lookFilled-yCfaCM colorBrand-I6CyqQ sizeSmall-wU2dO- grow-2sR_-F"] {
+    margin-bottom: -200px;
+    left: -80px;
+    position: absolute;
+}
+
+[class="privateChannelRecipientsInviteButtonIcon-1ObKXK iconWrapper-2awDjA clickable-ZD7xvu"] {
+    background-color: transparent !important;
+    margin-top: 0px;
+    left: -00px;
+}
+[class="privateChannelRecipientsInviteButtonIcon-1ObKXK iconWrapper-2awDjA clickable-ZD7xvu"]::after {
+    display: none;
+}
+
+.peopleColumn-1wMU14 .scrollerBase-_bVAAt {
+  background-color: transparent !important;
+}
+
+.peopleColumn-1wMU14 .listItemContents-2NFd61:hover, .peopleColumn-1wMU14 .listItemContents-f4Uz5J:hover, .peopleColumn-1wMU14 .listItemContents-2n2Uy9:hover {
+  background-color: var(--background-primary);
+}
+.peopleColumn-1wMU14{background-color: var(--background-secondary) !important;}
