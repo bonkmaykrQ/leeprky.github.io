@@ -337,9 +337,6 @@
     transition: 300ms;
     height: 30px !important;
   }
-  .container-x059i8 *, .contents-2MsGLg>.markup-eYLPri, .contents-2MsGLg>.markup-eYLPri>* {
-    color: var(--text) !important;
-  }
   [class="search-1FM8Qc open-3y3yI_ focused-8aNhVB"] .searchBar-jGtisZ, [data-text="true"], [class="search-1FM8Qc open-3y3yI_"] .searchBar-jGtisZ {
     width: 162px;
     transition: 300ms;
