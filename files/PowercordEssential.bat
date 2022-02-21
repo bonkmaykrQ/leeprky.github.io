@@ -6,6 +6,7 @@ cd powercord/src/Powercord/plugins && git clone https://github.com/ploogins/Powe
 cd ..\..\..\..\
 cd powercord/src/Powercord/plugins && git clone https://github.com/LandenStephenss/PowercordPluginDownloader
 cd ..\..\..\..\
+cd powercord/src/Powercord/themes && git clone https://github.com/slowstab/remount
 taskkill /IM DiscordCanary.exe /F
 start %USERPROFILE%\AppData\Local\DiscordCanary\Update.exe --processStart DiscordCanary.exe
 pause
