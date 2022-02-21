@@ -28,7 +28,7 @@ __   __ ___  ___  ___  ___   ___   _  _
     width: fit-content;
     border-radius: 0 0 12px 12px !important;
     top: 0px !important;
-    content: var(--theme) " Is outdated. Current: (" var(--version) " Build " var(--build) ") | Latest: (" var(--version-latest) " Build: " var(--build-latest) ")" !important;
+    content: var(--theme) " Is outdated. Current: (" var(--version) " Build " var(--build) ") | Latest: (" var(--version-latest) " Build: " var(--build-latest) ") PLEASE UPDATE ITS IMPORTANT" !important;
     display: block;
     background-color: var(--alt-color2);
     color: #fff;
