@@ -1,4 +1,3 @@
-/* __ __ ___ ___ ___ ___ ___ _ _ \ \ / /| __|| _ \/ __||_ _| / _ \ | \| | \ / | _| | /\__ \ | | | (_) || . | \_/ |___||_|_\|___/|___| \___/ |_|\_| */
  :root {
 	 --theme: "Material You";
 	 --build-latest: "092";
@@ -10,7 +9,7 @@
  #app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before {
 	 display: var(--outdated_materialyou-092, block) !important;
 }
-/* ___ ___ _ _ _ _ ___ ___ | _ )/ \| \| || \| || __|| _ \ | _ \| - || . || . || _| | / |___/|_|_||_|\_||_|\_||___||_|_\ */
+
  #app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before {
 	 position: absolute;
 	 left: 10% !important;
@@ -55,7 +54,6 @@
 	 --style-name: "UNKNOWN";
 	 --style-creator: "UNKOWN";
 }
-/* ___ _ _ ___ ___ ___ ___ ___ _____ ___ ___ _ _ |_ _|| \| || __| / _ \ / __|| __| / __||_ _||_ _| / _ \ | \| | | | | . || _| | (_) | \__ \| _| | (__ | | | | | (_) || . | |___||_|\_||_| \___/ |___/|___| \___| |_| |___| \___/ |_|\_| */
  .info-3pQQBb::after {
 	 content: "Latest " var(--version-latest-long) !important;
 	 color: var(--alt-color2);
