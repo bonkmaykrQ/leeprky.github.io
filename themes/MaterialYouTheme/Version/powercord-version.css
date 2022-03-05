@@ -1,6 +1,6 @@
  :root {
 	 --theme: "Material You";
-	 --build-latest: "094";
+	 --build-latest: "0941";
 	 --version-latest: "v0.9.4";
 	 --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
 	 --version-long: "Version: " var(--version) " (Current) ";
