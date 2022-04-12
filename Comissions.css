@@ -11,6 +11,7 @@
   text-transform: uppercase;
   text-shadow: 2px 2px 31px rgba(255,255,255,0.75);
   animation-duration: 1000ms;
+  font-size: 3rem;
   margin: 46px 334px 0 351px;
 }
 
@@ -38,7 +39,6 @@
   .u-section-1 .u-text-1 {
     margin-right: 234px;
     margin-left: 251px;
-    font-size: 3rem;
   }
 
   .u-section-1 .u-shape-1 {
@@ -531,8 +531,16 @@
     margin-right: 378px;
   }
 
+  .u-section-2 .u-text-17 {
+    margin-top: 20px;
+    margin-left: 0;
+    margin-right: 378px;
+  }
+
   .u-section-2 .u-text-18 {
-    margin-left: 378px;
+    margin-top: 20px;
+    margin-right: 378px;
+    margin-left: 0;
   }
 }
 
@@ -590,6 +598,8 @@
 
   .u-section-2 .u-text-17 {
     margin-top: -643px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .u-section-2 .u-text-18 {
