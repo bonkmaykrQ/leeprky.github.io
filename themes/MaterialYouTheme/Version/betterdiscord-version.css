@@ -8,7 +8,7 @@ __   __ ___  ___  ___  ___   ___   _  _
 :root {
     --theme: "Material You";
     --build-latest: "095";
-    --version-latest: "v0.9.5";
+    --version-latest: "v0.9.5.BD";
     --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
     --version-long: "Version: " var(--version) " (Current) ";
     --theme-dl: "https://github.com/leeprky/MaterialYouTheme"
