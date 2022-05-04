@@ -1,13 +1,13 @@
  :root {
-	 --theme: "Underground";
-	 --build-latest: "000";
-	 --version-latest: "v0.0.1";
+	 --theme: "Vintage";
+	 --build-latest: "020";
+	 --version-latest: "v0.2.0";
 	 --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
 	 --version-long: "Version: " var(--version) " (Current) ";
 	 --theme-dl: "https://github.com/leeprky/Underground";
 }
  #app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before {
-	 display: var(--outdated_underground-001, block) !important;
+	 display: var(--outdated_underground-020, block) !important;
 }
 
  #app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before {
