@@ -7,8 +7,8 @@ __   __ ___  ___  ___  ___   ___   _  _
 
 :root {
     --theme: "Material You";
-    --build-latest: "090";
-    --version-latest: "v0.9.0";
+    --build-latest: "095";
+    --version-latest: "v0.9.5.BD";
     --version-latest-long: "Version: " var(--version-latest) " (Latest) ";
     --version-long: "Version: " var(--version) " (Current) ";
     --theme-dl: "https://github.com/leeprky/MaterialYouTheme"
@@ -21,7 +21,7 @@ __   __ ___  ___  ___  ___   ___   _  _
   |___/|_|_||_|\_||_|\_||___||_|_\
   */
   
-  #app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before{display:var(--outdated_materialyou-090,block)!important;position:absolute;left:10%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:00px!important}
+  #app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before{display:var(--outdated_materialyou-095,block)!important;position:absolute;left:10%!important;width:fit-content;border-radius:0 0 12px 12px!important;top:00px!important}
   #app-mount > div.app-3xd6d0 > div > div.layers-OrUESM.layers-1YQhyW > div > div > div.base-2jDfDU:before {
     content: var(--theme)" Is outdated. Current: ("var(--version)" Build "var(--build)") | Latest: (" var(--version-latest)" Build: "var(--build-latest) ")" !important;
     display: block;
